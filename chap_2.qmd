@@ -6,7 +6,7 @@
 
 The discovery of coal at [Skidegate Inlet](https://maps.app.goo.gl/yAxW9vNFb7fUfdpF9) in 1859 was a by-product of gold prospecting.
 
-The California Gold Rush, which began in 1848, resulted in a significant influx of fortune seekers infected with “gold fever” to western North America. When two samples of gold from the [Queen Charlotte Islands (now Haida Gwaii)](https://maps.app.goo.gl/Cq2LC3v4SdSkKiJj6) were brought to [Fort Simpson](https://maps.app.goo.gl/Ppad6NUXaQXFVZEq9) in 1850, the Hudson’s Bay Company launched a series of expeditions to investigate. In late 1851, when news of the discovery at what became known as *[Gold Harbour]()* (NEED LINK) leaked beyond the Hudson’s Bay Company, a brief rush ensued.
+The California Gold Rush, which began in 1848, resulted in a significant influx of fortune seekers infected with “gold fever” to western North America. When two samples of gold from the [Queen Charlotte Islands (now Haida Gwaii)](https://maps.app.goo.gl/Cq2LC3v4SdSkKiJj6) were brought to [Fort Simpson](https://maps.app.goo.gl/Ppad6NUXaQXFVZEq9) in 1850, the Hudson’s Bay Company launched a series of expeditions to investigate. In late 1851, when news of the discovery at what became known as [*Gold Harbour*]() (**NEED LINK**) leaked beyond the Hudson’s Bay Company, a brief rush ensued.
 
 A combination of the single gold-bearing vein being quickly mined out, unsuccessful further prospecting, and a difficult relationship between the miners and the Haida Nation resulted in the rush dissipating by 1853.
 
@@ -28,6 +28,6 @@ This observation marks the first recorded recognition of coal-bearing strata in 
 
 Interestingly, in his covering letter to the Duke of Newcastle—Henry Pelham-Clinton, 5th Duke of Newcastle, and Secretary of State for the Colonies—to whom he submitted Downie’s report, Governor James Douglas was less than complimentary of the Downie party’s prospecting efforts in the Queen Charlottes. Douglas wrote:
 
-> “The report now transmitted relates to the unsuccessful result of the attempt made in the month of July last, by a body of miners from this place [Victoria], to explore Queen Charlottes’ Island.  
->  
-> The adventurers, dismayed by the rugged aspect of the country, the humidity of the climate and the numbers and formidable appearance of the Native tribes, did not prosecute the enterprise with resolution or tenacity, and soon returned to this place [Victoria], with the exception of a few daring spirits, who accompanied Mr. Downie to Fort Simpson.”
+> “The report now transmitted relates to the unsuccessful result of the attempt made in the month of July last, by a body of miners from this place \[Victoria\], to explore Queen Charlottes’ Island.
+>
+> The adventurers, dismayed by the rugged aspect of the country, the humidity of the climate and the numbers and formidable appearance of the Native tribes, did not prosecute the enterprise with resolution or tenacity, and soon returned to this place \[Victoria\], with the exception of a few daring spirits, who accompanied Mr. Downie to Fort Simpson.”
