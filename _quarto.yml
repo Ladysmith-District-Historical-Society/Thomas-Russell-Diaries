@@ -54,9 +54,8 @@ book:
       - appendix_3.qmd
       - appendix_4.qmd
       - appendix_5.qmd
-      
+      - appendix_6.qmd
       - appendix_7.qmd
-      - appendix_8.qmd
 
 website: 
   favicon: img/logo.jpg

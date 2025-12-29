@@ -83,7 +83,7 @@ This is a charming day, the sun shining in all his glory and our little craft mo
 
 8:00 o’clock went on deck, fancied by the appearance of the current the tide would change soon; suggested that we had better lower the boats and put into the Rapids to ascertain, which we did, and found that it would be safe to start about 10:00 o’clock, which we did. We had to pull her through the Narrows with the oars, after which we had just sufficient wind to make her steer. Very cold on deck tonight. Made some coffee at 12:30 o’clock which was very acceptable. Remained up until about 2:00 o’clock; I was anxious to wait until we had reached Nanaimo, but it was rather cold for me. Anchored in the mouth of Nanaimo Harbour at 3:00 o’clock AM.
 
-## Sunday 25th September 1870
+## Sunday 25th September 1870 {#sec-volume-1-25-sept}
 
 Got up at 6:00 o’clock this morning, took breakfast and then went on shore with Beauchamp. Knocked up the doctor. He came to the door in his shirt and pants; he let us in and in 15 minutes Beauchamp's shoulder was in its proper place. The moment the joint went in he laughed—the first time for two days. Whilst this was going on I was writing a letter to my sweetheart which the doctor promised to post for me on the morrow. Paid him $5 and bade him good morning.
 
@@ -99,7 +99,11 @@ Only the crew of the vessel and myself took dinner today. Laiken got up and took
 
 We have made more progress today than all the others put together. A few days of such wind as we had today would soon bring us to our destination. The whales appear to be very numerous in the gulf; wherever you gaze you can see them blowing, sometimes quite close to us.
 
-## Monday 26th September 1870
+## Monday 26th September 1870 {#sec-volume-1-26-sept}
+
+:::{.callout-tip title="Medical Explanation"} 
+See @sec-appendix-4-1-26-sept
+:::
 
 Came on deck at 5:30 o’clock AM. Light breeze in our favor. Comox on our port bow. 9:00 o’clock breeze gone and here we are tossing about; weary dreary work.
 
@@ -351,7 +355,11 @@ Nothing has transpired today worthy of note. I have been cleaning my quarters up
 
 The timber is very indifferent. There does not appear to be any strength or last in it. Two Indians cutting wood all day.
 
-## Friday 14th October 1870
+## Friday 14th October 1870 {#sec-volume-1-14-oct}
+
+:::{.callout-tip title="Medical Explanation"} 
+See @sec-appendix-4-1-14-oct
+:::
 
 This has been a warm day but showery.
 
@@ -371,7 +379,11 @@ There are now two men on the sick list and Beauchamp worth little or nothing; a 
 
 Beardsell said he was not afraid to run the car provided I would go with him and keep a lookout as he could not see very well. I did not much like the idea, but of course I had to go: the coal had to be got down somehow. Consequently after dinner we went up and took down four cars; it is not by any means enviable work.
 
-## Saturday 15th October 1870
+## Saturday 15th October 1870 {#sec-volume-1-15-oct}
+
+:::{.callout-tip title="Medical Explanation"} 
+See @sec-appendix-4-1-15-oct
+:::
 
 This has been a charming day. Mount Seymour looked beautiful under the first rays of the rising sun. Laiken is rather feverish today; administered a light aperient.
 
@@ -389,7 +401,11 @@ Took a bath and a long walk but there is really nothing to be seen except trees 
 
 I have been very lonely today. These Sabbaths only tend to remind me of home and all I love. I believe that men under difficulties give way to despondency much more than women.
 
-## Monday 17th October 1870
+## Monday 17th October 1870 {#sec-volume-1-17-oct}
+
+:::{.callout-tip title="Medical Explanation"} 
+See @sec-appendix-4-1-17-oct
+:::
 
 This has been a beautiful day, but threatening rain tonight.
 

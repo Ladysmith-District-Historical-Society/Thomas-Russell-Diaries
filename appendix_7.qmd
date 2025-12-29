@@ -1,1 +1,21 @@
-# Dawson’s Whaling Operations in the Gulf of Georgia {.unnumbered #sec-appendix-7}
+# Wreck of the _Suwanee_ {.unnumbered #sec-appendix-7}
+
+![Drawing of the shipwreck of the _Suwanee_](img/image059.png){#fig-059}
+
+The following is an account of the shipwreck of the _Suwanee_ as reported by _Harper's Weekly_ September 26th 1868, Volume 12 Page 6.
+
+> The loss of the above-named steamer occurred on the morning of the 9th July, 1868, at 6 o’clock, in Shadwell Passage, Queen Charlotte Sound, British Columbia, while on her passage to Sitka. At the time of the accident she was steaming at the rate of about seven knots, and when nearly abreast of Centre and Galiano islands struck a sunken rock with such force as to knock a hole in her bottom, forward of the wheel. The tide was falling rapidly at the time, and although every exertion was made to save her it was found impossible. The ship began to strain heavily as the tide left her, forcing the stanchions up through her decks, and at about 7 o’clock A.M. she broke in two just forward of the hurricane deck.
+>
+> Finding it impossible to save her, orders were given to save all provisions, stores, etc., necessary or that could be taken in the boats, and all were safely landed on Hope Island, where a camp was established, tents erected, and all attention bestowed to the comforts of officers and crew. The Indians at that place were found to be very friendly, and aided much in taking light stores on shore in their canoes. At about 1 P.M., having secured all the property then available, the Captain ordered her to be abandoned, and at 2 o’clock P.M. the crew took up their abode on Hope Island, where they continued to “wreck her” as opportunity offered.
+>
+> The _Suwanee_ was a side-wheel double-ender of 1030 tons register, built in 1864 in Chester, Pennsylvania; her hull was made of ⅝-inch iron. She was intended for river service during the war, but was shortly ordered to the Pacific, where she remained until the present time. Her armament consisted of two 100-pounder Parrott rifles on pivots, four 9-inch broadside guns, two 24-pounder and two 20-pounder Dahlgren howitzers. The whole length “over all” 254 feet. During the invasion of Mexico by the French she performed some service in favor of American shipping at Mazatlan. The accompanying sketch was made by an officer attached to the Suwanee.
+
+![Excerpt from _Harper's Weekly_ September 26th 1868, Volume 12 Page 6.](img/image060.png){#fig-060}
+
+The remains of the wreck lie in three to twenty meters of water on the south side of _Suwanee_ rock. The rock, which dries are 2.4 meters above chart datum, is located [here](https://maps.app.goo.gl/UaHEFLBbifShGHj88).
+
+![Satellite image of Goletas Channel, Bate and Shadwell Passages.Location of Suwanee wreck pinpointed. Route of the sloop Thornton shown in white](img/image061.png){#fig-061}
+
+![1868 British Hydrographic Survey chart ‘Goletas Channel’ showing location of Suwanee Rock at the southern entrance to Shadwell Passage between Hope and Van Sittart islands.](img/image062.png){#fig-062}
+
+

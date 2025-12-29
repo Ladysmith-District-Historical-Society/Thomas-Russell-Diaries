@@ -1,6 +1,79 @@
 # Medical Explanations {.unnumbered #sec-appendix-4}
 
-## [Friday 23rd of September](diary_1.qmd#sec-volume-1-23-sept) {#sec-appendix-4-1-23-sept}
+These medical explanations were provided by Dr. Jan Boxall.
+
+## [Friday 23rd of September 1870](diary_1.qmd#sec-volume-1-23-sept) {#sec-appendix-4-1-23-sept}
+
+Dislocated shoulders are pretty common, and people, even today, put them back in by putting their foot on the shoulder, push with the foot, and pull the arm. Some people can put them back on their own, by lying on their stomach and hanging arm over an edge. But if muscle spasm sets in, or if the dislocation is posterior (less common), the maneuver won’t work.
+
+## [Monday 26rd of September 1870](diary_1.qmd#sec-volume-1-26-sept) {#sec-appendix-4-1-26-sept}
+
+The location behind the ear could be the mastoid, the bone behind the ear. Abscessing starts in the sinuses or ear, spreads, and can spread to the brain. Generally not seen these days because we use antibiotics early. Abscesses are treated by drainage, so the idea for it to “gather” is logical, and then wait for it to burst/break. Today, we would take a knife and incise it once it has “gathered”. Then you don’t need antibiotics.
+
+Russian Salve: This is olive oil, turpentine and beeswax. There is a tin in the Smithsonian. Of course, there is also a tin on ebay. It originally was oil from the Russian Olive Tree. Olive oil helps in wound healing, bacteria can’t grow in oil very well. It also helps with inflammation. There have been studies done that have isolated the bioactive compounds in the olive oil that help with fibroblasts (healing cells).
+
+Turpentine oil, easily available from pine trees, has been used since 2100 BC. The warmth is a counterirritant, so helps with decreasing pain. It also disinfects. We don’t use it on skin anymore.
+
+Beeswax is still used (as is honey), as it has antibacterial properties, cuts down on inflammation and so helps healing.
+
+## [Friday 14th of October 1870](diary_1.qmd#sec-volume-1-14-oct) {#sec-appendix-4-1-14-oct}
+
+Brandy, or any alcohol, was used both for cleaning (alcohol still used today), and was used to drink to numb the pain, calm the nerves (like today). Brandy lint would be cloth soaked in brandy.
+
+Arnica, also still used. Arnica is a plant of the sunflower family. People buy it today to apply to their joints that hurt from sports injuries or arthritis. It has been used since the 1500s. It decreases pain and inflammation, and helps wound healing.
+
+Not sure what Russell means by “painkiller”. This could be Arnica. You can use opium topically, but don’t think they were doing this is the 1800s.
+
+## [Friday 15th of October 1870](diary_1.qmd#sec-volume-1-15-oct) {#sec-appendix-4-1-15-oct}
+
+An aperient is a bowel stimulant. Back in the early 1800s the thought was that fever was something to be expelled from the body, so purgative (laxative treatments, aperients) were used as well as bloodletting. The Victorians believed this expelled the fever, and reduced inflammation, contamination, and restored balance. By 1842 Dr. James Manby Gully realized bloodletting and aperients were making people worse, not better, and argued fever should run its course.
+
+## [Friday 17th of October 1870](diary_1.qmd#sec-volume-1-17-oct) {#sec-appendix-4-1-17-oct}
+
+Poultices are still used, ie application of warm cloths to help an abscess localize, and then drain.  Black blood is just old, clotted blood; doesn’t signify anything else. It is no wonder his head “swims”, the infection was in his inner ear, which is important for balance. 
+
+## [Sunday 4th of December 1870](diary_2.qmd#sec-volume-2-4-dec) {#sec-appendix-4-2-4-dec}
+
+Mrs Skidegate’s leg was probably gangrenous, or had venous ulcers. I have seen this, only in people who won’t go to hospital, often with diabetes, usually with poor blood supply. This would have been unbelievably painful (and have a very unpleasant smell).
+
+Castille Soap, an olive oil based soap (or at least a vegetable oil). Used still today, anti-infective properties.
+
+Friars Balsam, a tincture of benzoin. It is put on the skin under bandages to protect the skin, prevent itching and help the bandage adhere for a longer time. Interestingly, benzoin comes from the Styrax tree, which is found in Indonesia. It was developed in Jerusalem in 1719, but English doctor and MP Joshua Ward has got the credit for developing it around 1760. As with many of these old medicines, it had multiple uses. It was also used for sinus congestion; put in a bowl of hot water, then you put your head over it under a towel.
 
 
+## [Sunday 29th of December 1870](diary_2.qmd#sec-volume-2-29-dec) {#sec-appendix-4-2-29-dec}
 
+Chlorodyne painkiller was invented by Dr. John Collis Browne of the British Indian Army. It was a combination of laudanum, which is opium, cannabis, and chloroform (which James Simpson, a Scot, first used for anaesthetic). 
+
+It was used to relieve pain and sedate. I am sure it worked (can’t imagine it getting through any drug trials today!).
+
+Copal Varnish is also a tree resin; trees grow in Mexico. It is supposed to have anti-inflammatory powers. It seems a lot of the old medicines were from trees, but not native trees, so not sure how they could produce these products in quantity.
+Linseed oil, like other oils does have anti inflammatory and healing potential.
+
+
+## [Wednesday 4th January 1871](diary_2.qmd#sec-volume-2-4-jan) {#sec-appendix-4-2-4-jan}
+
+Again, I have to guess that the painkiller might have been a solution of opium. There would be some absorption with an open wound. Not sure why he didn’t give him opium by mouth as well.
+
+## [Sunday 8th January 1871](diary_2.qmd#sec-volume-2-8-jan) {#sec-appendix-4-2-8-jan}
+
+Have to be impressed with Beauchamp, who seemed near death, and then is moving his leg and scratching it. 
+
+## [Friday 20th January 1871](diary_2.qmd#sec-volume-2-20-jan) {#sec-appendix-4-2-20-jan}
+
+James’ Powders.  This was used since 1746, antimony oxide and lime, and used for fever. It was a patent medicine, and was considered quackery. It was commonly used, but probably had no effect, and caused harm. Would do nothing for fever.
+
+Laudanum, ie opium, can been shown to both increase or decrease inflammation, depending on the site (not at wound level, but at brain level), but more likely just helped the pain of the inflammation.
+
+Camfor, or camphor, again is from trees in Asia, and in the 1800s the Chinese had a monopoly on camphor. In 1868, the British invaded Anping Harbor to try to end the monopoly. (It can nowadays be made synthetically). It works by making the skin feel cool, or warm if rubbed vigorously, which is a well accepted way to stimulate the nerve endings, causing a counterirritation, decreasing pain sensation at the brain level, and local numbing.
+
+Spirit of Nitre, a derivative of nitric acid, can cause diuresis (more urine). Gravel would refer to kidney stones, and the way to pass kidney stones is to fluid load, and to urinate them out. Painful, so these days we would give morphine as well. Of course, nitric acid is highly toxic, so needed to be diluted. 
+
+
+## [Tuesday 24th January 1871](diary_2.qmd#sec-volume-2-24-jan) {#sec-appendix-4-2-24-jan}
+
+Blue pill (NOT the blue pill of this generation - Viagra) was mercury. Totally toxic, lots of famous people had mercury poisoning – Newton, President Andrew Jackson, Lincoln, Edgar Allan Poe, Victoria Beckham (fish diet), Was used topically until banned in 1998.
+
+The blue pill was called blue mass, and used from 17th to 19th century. Was blue coloured, had licorice root, rose water, honey, sugar and mercury. Not helpful.
+
+Black draught- a laxative. Senna and magnesium, both which are laxatives. Goes back to the theory that need to purge body of “fever” and that constipation was the cause of many ailments. 
