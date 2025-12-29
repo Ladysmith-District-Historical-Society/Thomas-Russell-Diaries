@@ -1,0 +1,322 @@
+# Geological Survey Appraisal of the Queen Charlotte Anthracite Deposits
+
+## Arrangements for Geological Survey Assessment {#sec-arrangements-geological-survey}
+
+In February 1872 a group of 20 Victoria businessmen requested, through BC Government channels,  that the Geological Survey of Canada (GSC) conduct an assessment of the coal potential of ‘Queen Charlotte Island’. While recognising the importance of such a report, Alfred Selwyn (Director of the GSC) was concerned about the remoteness of the location and the physical safety of the survey party, stating:
+
+> “ In reply, I beg to state that I have already had under consideration the 
+possibility of taking steps to obtain some definite and reliable information
+respecting the probable extent and value of these anthracite deposits.
+There are, however, difficulties in the way, which, unless the local government
+is prepared to co-operate, would, I fear, render it impossible for the
+geological party to effect the desired examination at present. So far as I
+can ascertain, there are no white settlements on either of the Queen Charlotte
+Islands, and they are inhabited by a warlike and treacherous race of
+Indians, so that only a strong and well armed party could carry out the
+requisite exploration with safety.
+>
+> The Islands are nearly five hundred miles from Victoria, and from eighty
+to one hundred miles from the mainland, and as there are no established
+means of communication with them, a special vessel would have to be
+chartered and equipped to convey the party to the islands, and to attend
+on them while there. Under these circumstances, and also considering that
+almost nothing has yet been done towards ascertaining the extent and
+value of much nearer, and probably for present purposes more available,
+coal basins of Vancouver Island, I think it would not at present be advisable 
+to incur the large outlay which from the circumstances above stated
+would be required for the exploration of these remote islands.
+If, however, the local government, or the persons immediately interested,
+are prepared to furnish the requisite means of transport for the party, and
+likewise to secure them from molestation while conducting the examination,
+there would then perhaps be no serious objection to granting the
+request of the memorialists.”
+>
+> -_Appendix IV of James Richardson’s 1873 Report pp 85/86._
+
+Selwyn instructed GSC veteran employee James Richardson in early May to proceed to British Columbia to continue surveys of the coal deposits on Vancouver Island that had been initiated in 1871. With regard to the Queen Charlotte survey, he left it to Richardson’s discretion to ‘take such action as circumstances might render expedient after his arrival in the country’.  
+
+In June 1872 Richardson met in Victoria with the Hon. J.N. Ash, M.D. and others interested in the Queen Charlotte’s Anthracite and made the requisite arrangements with them for the support required to conduct a survey.  
+
+On July 2nd Richardson left Victoria for Comox 
+
+> “ Having procured provisions, camping material, a boat and men, and,
+through the kindness of His Excellency the Lieut.-Governor, a free passage
+on board the Dominion steamer Sir James Douglas, commanded
+by Captain Clarke,.....”
+
+Richardson remained in the Comox area until August 22nd conducting geological surveys of the coal basin there. Then, by prior arrangement with Ash and associates, he boarded the HBC steamer ‘Otter’ accompanied by Mr. Fawcet, one of the BC investor group interested in the Queen Charlotte Anthracite. They arrived at Cowgitz August 28th and remained there assessing the coal deposits until picked up by the ‘Otter’ on September 8th for return to Comox. 
+
+## Geological Survey Published Reports on Cowgitz Coal {#sec-geological-survey-of-coal}
+
+In 1876 the GSC published a regional map drawn by Richardson of the Skidegate Inlet area showing the location of the mine.
+
+![Geological Survey of Canada (1876) map showing the location of the Cowgitz mine and fossil sites collected by James Richardson in 1872, from the Queen Charlotte Islands. ](img/image032.png){#fig-032}
+
+Richardson’s being at Cowgitz only a year after abandonment of the mine works meant that he was able to conduct a detailed inspection of the mine workings as they had not yet been grown over.
+
+Although he did not draw a detailed map of the Cowgitz area, he provided a sufficiently detailed description of these works that G.W. Dawson, a famous GSC geologist who visited the site in 1878, was able to map them despite their being fully overgrown and much deteriorated by the time of Dawson’s later visit. A modified version of Dawson’s map is provided below with locations identified A-G to tie in with Richardson’s descriptions. 
+
+### Area A {#sec-area-a}
+#### Richardson’s Report {#sec-area-a-richardson}
+
+> In this neighborhood, Hooper's Creek, which has its source on Seymour 
+Mountain and meets the black shales at its foot, flows thence for nearly a 
+mile south-eastward in the strike of the shales into Shallow Bay, about
+a third of a mile west of Anchor Cove. On the south-west side of the
+creek, the shales rise rapidly, leaning in a nearly vertical attitude against
+a spur of the volcanic rocks which have been mentioned as bounding the
+coal-trough. From the bed of the creek, at a point nearly a mile up its course,
+and 448 feet above the sea, an adit-level, called Hooper's Creek tunnel, has
+been driven in a bearing N. 69° W., for 190 feet, through vertical beds 
+of black shale, studded with nodules of clay iron-stone, which constitute
+perhaps a quarter of the mass, to a seam of coal. 
+>
+> It then proceeds in the coal in a bearing N. 53° W., gradually turning to N. 29° E., in a distance of about 450 feet. Trap rock appears to form the western side nearly all the way. The coal is good anthracite, and where first struck in the tunnel its thickness was from two to three feet, but it soon increased
+to a little over six feet, and continued so for sixty or seventy feet. It
+then became mixed with black shale and iron-stone for seventy or eighty
+feet, and in this portion the coal had to be separated by hand picking.
+The tunnel continued for about fifty feet further, but I could not convince
+myself that any coal at all was present towards the extremity. This bed
+is called " the six feet seam."
+
+#### Dawson’s 1880 Report {#sec-area-a-dawson}
+
+> “Towards the end of the tunnel the seam gradually narrowed, and where the 
+work was stopped Mr. Richardson could not convince himself that any coal 
+was present, though it is stated in a report made to the Directors in 1869 that 
+the seam where abandoned had again expanded to a width of one foot six inches. 
+Mr. Deans also informs me that by removing the surface covering he has traced 
+the seam, though in a broken and weathered state, some distance beyond the 
+position of the end of the tunnel, so that there is no reason to believe that the coal absolutely terminates at this point. This outcrop called King’s vein was discovered by Mr. King in 1867, and after it had been opened by the tunnel 
+above described, in 1869, about 800 tons of coal were extracted, and a portion 
+of it shipped to Victoria. 
+>
+> ... In working in this tunnel the quantity of inflammable gas exuding from the shales was so great as to necessitate the use of safety-lamps...”
+
+![Plan of Cowgitz Coal Mine and Vicinity Showing the Openings made on the Coal and the Probable Course of the Seam](img/image033.png){#fig-033}
+
+::: {.callout-tip collapse="true" title="Geological Insight"}
+Based on Figure 4 of Dawson, G.M. 1880  Report on the Queen Charlotte Islands in Geological Survey of Canada 1878-79 Report of Progress p. 72,  identifying by letters A-G the works  described in Richardson J. 1873 Report on the Coal Fields of Vancouver and Queen Charlotte Islands with a map of the distribution of the ormer addressed to Alfred R.C. Selwyn, Esq., F.G.S. Director of the Geological Survey of Canada pages 57-61. 
+
+The area shown in broken lines is that occupied by igneous rocks interpreted by Sutherland Brown, 1968 as a Masset Fm. dyke. The land area without shading is Dawson’s Cretaceous Subdivision C (Sutherland Brown 1968 Haida Fm.) which is overlain by Dawson’s Subdivision B (Sutherland Brown 1968 Honna Fm.) represented by the dotted shading.
+:::
+
+### Area B {#sec-area-b}
+#### Richardson’s Report {#sec-area-b-richardson}
+
+>“About nine chains on the strike of the measures from where Hooper's Creek tunnel struck the coal, another tunnel had been driven at a lower level by seventy or eighty feet, and a third one about five chains further on the strike, and seventy or eighty feet still lower. On the mounds of _cleb1_ (**FIX**) is excavated from these I could not find a trace of coal, which could not have been the case had but a small quantity been brought out. The inference is that no coal was met with, or so little as not to be worth working.”
+
+#### Dawson’s Report {#sec-area-b-dawson}
+
+> “In other smaller openings, made lower down Hooper Creek on the same side, no coal appears to have been found, though it is to be presumed its horizon 
+was reached.”
+
+### Area C {#sec-area-c}
+#### Richardson’s Report {#sec-area-c-richardson}
+> “About nine chains across the measures in a bearing N. 35° E. from the coal-seam mentioned, and therefore above it stratigraphically, there
+occurs another seam. The following is an ascending section of the strata
+which are here vertical :
+
+| Lithology description                                                                 | Feet | Inches |
+|---------------------------------------------------------------------------------------|:----:|:------:|
+| Coal, good anthracite                                                                 | 0    | 6      |
+| Black argillaceous shale                                                              | 4    | 6      |
+| Coal, good anthracite, called "the three feet seam"                                   | 2    | 5      |
+| Black argillaceous shale, with nodules of clay iron-stone                              | 11   | 0      |
+| Grey trap, or it may be altered sandstone                                             | 8    | 0      |
+| **Total thickness**                                                                  | **26** | **5** |
+
+> A vertical shaft had been sunk in the seam, and a good deal of good hard coal had been taken from it. The top of the shaft is 540 feet above
+the sea, but, at a lower level by 193 feet. an adit called 
+Hutchison's tunnel had been driven to intersect it. The seam on being 
+struck is stated by Mr J. J, Landale, a civil engineer and coal viewer, 
+to have been thin. How thin is not mentioned. It is presumed, however, 
+that it was not workable, and the excavation in the shaft having been 
+abandoned before it reached the tunnel, it is supposed that the seam had 
+diminished to an unworkable thickness in descending.”
+
+#### Dawson’s Report {#sec-area-c-dawson}
+> “In Hutchinson’s tunnel, situated about eleven chains north-eastward from the 
+Hooper Creek tunnel, and 430 feet in length, no coal appears to have been obtained, with the exception of a three inch seam near its mouth.”
+
+
+### Area D {#sec-area-d}
+#### Richardson’s Report {#sec-area-d-richardson}
+> “The strike of the measures immediately near the vertical shaft appears
+to be S. 18°E., and about eight chains in this bearing from it, there is an
+other, which is said to have been sunk in coal, but I could not observe
+any interstratified in the shale at the top of the pit, and there were but
+small indications that any had been landed on the surface. A third shaft 
+is situated about three chains further on, and said to be forty feet deep.
+Here several tons of dull, earthy, impure coal lay on the surface, and I was
+informed that some bright, good coal had been carried away ; but I could
+perceive no fragments of it remaining intermixed with the other. Both of
+these shafts had been abandoned.
+>
+> Towards the last mentioned shaft, and upwards of 300 feet lower in level,
+an adit called Wilkes' tunnel, has been driven from Robinson's Creek (a 
+tributary of Hooper's Creek) sufficiently far, apparently, across the measures
+to have reached this coal, but the seam was not met with in it. At the
+extremity of the excavation, however, there occurred a black, tough, 
+carbonaceous shale, with a black powder, a conchoidal fracture and an earthy 
+aspect when freshly broken.”
+
+#### Dawson’s Report {#sec-area-d-dawson}
+> “About thirteen chains below Hutchinson’s tunnel, also on the right bank of 
+Robinson Creek, is Wilkes’ Tunnel, said to be 450 feet long. It appears to have 
+been driven sufficiently far to intersect the coal subsequently to be mentioned 
+as occurring between Hooper and Robinson Creeks, and at its end a black shale 
+with Unio Hubbardi, like that seen in the Hooper Creek tunnel, was found by Mr. 
+Richardson.On the hill between Hooper Creek tunnel and Hutchinson’s, three 
+small shafts have been sunk. In one of these good coal occurs,...... In one of the other shafts earthy impure coal was found ; in the third little or no anthracite was obtained.”
+
+### Area E {#sec-area-e}
+#### Richardson’s Report {#sec-area-e-richardson}
+> “From a report by Mr. Landale to the Queen Charlotte Coal Mining 
+Company, it appears that some exploratory work had been done on 
+Robinson's Creek, above Hutchison's tunnel. Trials were made in three
+places of poor, soft, dirty coal, nine and seven feet thick, and in two where
+coal of a fair quality occurred in a seam of two feet. But, unfortunately,
+not having been made aware of this at the time I was on the ground, I can
+only avail myself of it to show that the strike of the measures immediately
+beyond the mouth of Hutchison's tunnel changes to north-east, and Mr.
+James Deans, my assistant during the summer, having been employed by
+the Queen Charlotte Company to undertake explorations on their behalf
+during the months of October and November, succeeded with much difficulty,
+owing to continued rains, in cutting trails through the heavily timbered lands,
+and in tracing these north-eastward seams as far as Slaty Creek, a distance
+of between three and four miles. The strata for the whole distance preserve 
+their vertical attitude, and they are all along backed to the north-west by lofty escarpments of volcanic rock.”
+
+#### Dawson’s Report {#sec-area-e-dawson}
+> “In three small tunnels made by Mr. Robinson, at distances of three, nine and 
+eleven chains above Hutchinson’s, coal was found. In the first, according to a 
+report prepared by Mr. Landale for the company, in November, 1869, the seam 
+was three feet thick; in the second and third, seven feet, but ‘soft, an expression which seems from the appearance of coal still to be seen on the dumps, to mean that though good anthracite it is completely crushed, probably by movement of the strata subsequent to its formation.”
+
+### Area F {#sec-area-f}
+#### Richardson’s Report {#sec-area-f-richardson}
+> “On the west side of Shallow Bay, about twenty chains below the mouth of Hooper's Creek, the trap comes visibly in contact with the black shales, being apparently thrown forward a little to the eastward on the south side of a fault running about N. 73° E.”
+
+#### Dawson’s Report {#sec-area-f-dawson}
+
+::: {.callout-warning title="Comment"}
+Based on available reports, Dawson did not comment on Area F.
+:::
+
+### Area G {#sec-area-g}
+#### Richardson’s Report {#sec-area-g-richardson}
+> “In a bearing S 47 E. from this, there is on the south side of the northwest
+arm, about a mile S. 30 E., from the wharf in Anchor Cove, and
+ about 200 paces inland, what is called "Number Two Coal Mine." It is an
+excavation of about twenty feet, bearing S. 67° E. on a seam between two
+and three feet thick of culm, holding lumps of anthracite. The black shale on each side of it is characterized by the presence of disseminated nodules of clay iron-stone similar to that at the Hooper's Creek seam. 
+>
+>  My own examination did not extend further in this direction, but it is reported by the Indians that a well marked seam of coal occurs about fourteen
+miles hence in a south-easterly direction, apparently agreeing with
+the general strike, on the south side of Skidegate Channel. This would
+give an extent of at least twenty miles to the coal-bearing strata which
+have thus been partially examined, and the facts mentioned indicate a
+general presence of coal in it, however much what may be considered the
+same seams may vary in their distances from one another on the strike, in
+their thickness and their qualities.” 
+
+#### Dawson’s Report {#sec-area-g-dawson}
+
+::: {.callout-warning title="Comment"}
+Based on available reports, Dawson did not comment on Area G.
+:::
+
+### Overview Comments on the Coal Deposits {#sec-overview-of-coal-deposits}
+
+#### Richardson's Comments {#sec-overview-richardson}
+> “It is very probable that irregularities and interruptions may prevail here, similar to those which have been observed in the Vancouver Island deposits, and, according to the information you have given me, occur also in the Mesozoic 
+coal-seams in Australia.
+>
+> It would require a much more detailed exploration than I had time to
+give to pronounce with any chance of accuracy upon the extent of these
+irregularities in the Queen Charlotte Islands, but the possibility of their
+occurrence should always be kept in view by those endeavoring to turn
+the seams to practical account, and some cheap but careful system of trials
+along the outcrops ought to be instituted in the first instance to ascertain
+the probable quantity before any great outlay is made upon works intended
+to be permanent. This is usual even on the very regular seams
+of the Carboniferous era, and it is certainly much more required in
+coal deposits of a more recent age, which may have had their origin from
+drift instead of growth in situ.
+>
+> Nothing can be better or more substantially constructed than the wharf,
+the houses, tramways, inclines, dumping-sheds and tunnels of the Queen
+Charlotte Coal Mining Company, and it is much to be regretted that their
+efforts have not been more successful.”
+
+#### Dawson's Comments {#sec-overview-dawson}
+
+> “It has been supposed that there are in the vicinity of the Cowgitz Mine two 
+or three distinct seams of anthracite, that on Hooper Creek being the lowest, 
+while those opened on to the eastward and northward are higher in the series. 
+It appears to me probable, however, that with the possible exception of small 
+irregular seams, there is but a single coal-bearing horizon, and that that lies 
+immediately above the agglomerates and felspathic sandstones of Subdivision D. 
+The coal in Hooper Creek tunnel is found turning east, and probably bends round 
+eventually to a south-easterly strike, running to the trial shafts above
+described, and then again doubling abruptly on itself, continues up the
+south-west side of Robinson Creek. 
+>
+> This structure may be, and probably
+is, complicated by small faults, which destroy to some extent its
+regularity; but by supposing its existence we account readily for the
+presence of the peculiar dark argillites with Unio Hubbardi near the
+seam on both Hooper and Robinson Creeks, the absence of the so-called
+three-feet seam in the Wilkes tunnel, the appearance of the trap-like
+rock on the north-east of the coal in the above quoted section (this rock
+seeming to represent that found on the south-east side of the coal on
+Hooper Creek), the similarity of appearance and structure in the coal
+seam in the section and that of Hooper Creek, and other points....
+>
+> From the descriptions above given, it will be evident that the coal seam 
+is in itself irregular in quality and thickness. This has arisen 
+partly no doubt from the inequality of the surface on which it has
+been laid down, but there seems also to have been a considerable amount
+of movement between the top of the already hard volcanic rocks of D.,
+and unconsolidated sediments of E., during the flexure of the strata;
+which, while it may cause the seam to be very thin or altogether wanting
+in some places, may have rendered it extremely thick in others.
+Such irregularity, though to a smaller degree, has been met with in the
+now well known measures of Nanaimo, and if it can once be shown by
+more extended exploration that the average thickness of the seam is
+sufficiently great, this will be of comparatively little consequence.
+>
+> ...
+>
+> The locality about the Cowgitz Mine is exceptionally
+disturbed, and this by the duplication of the outcrops has no doubt
+caused an appearance of a great quantity of coal, and supplied fragments
+in abundance to the gravels of the various brooks. It has added, however,
+to the difficulty of tracing the seam, and greatly hindered its
+satisfactory exploration by workings. ‘The great degree of flexure and
+disturbance has also probably caused the more complete alteration of
+the coaly matter forming the seam, but the character of the beds on the
+Long Arm, while more regular, is such as to show that any coal, even
+if originally bituminous, would probably there also be converted to
+anthracite.
+
+> On reviewing the appearance presented by the seams, it would 
+appear that too great dependence has been placed on their continuity 
+and uniformity, without the necessary amount of preliminary exploration
+to determine these points. The indications were not such as to
+justify a heavy expenditure in preparing for the shipment of coal, but
+quite sufficiently promising to render a very careful and systematic
+examination of the locality desirable. This yet remains to be accomplished,
+not necessarily by expensive underground work, but preferably
+by the tracing and examination by costeening pits or otherwise of the
+whole length of the outcrop of the coal-bearing horizon.
+It is, however, evident that the knowledge of this region so far
+obtained affords no ground for the belief that it is equally important as
+a coal-bearing district with Nanaimo or Comox, on Vancouver Island,
+where the conditions suitable to the formation of coal have occurred
+not only over wide areas, but at several distinct horizons in the
+Cretaceous rocks.”
+
+
+

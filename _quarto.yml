@@ -26,14 +26,37 @@ book:
   page-navigation: true
   chapters:
     - index.qmd
-    - intro.qmd
-    - chap_1.qmd
-    - chap_2.qmd
-    - chap_3.qmd
-    - diary_1.qmd
-    - diary_2.qmd
-#    - diary_3.qmd
-#    - diary_4.qmd
+
+    - part: "**Diaries**"
+      chapters:
+        - diary_1.qmd
+        - diary_2.qmd
+        - diary_3.qmd
+        - diary_4.qmd
+  
+    - part: "**Background**"
+      chapters:
+        - chap_1.qmd
+        - chap_2.qmd
+        - chap_3.qmd
+        - chap_4.qmd
+        - maps.qmd
+        
+    - part: "**Geology**"
+      chapters:
+        - chap_5.qmd
+        - chap_6.qmd
+        
+    - part: "**Appendices**"
+      chapters:
+      - appendix_1.qmd
+      - appendix_2.qmd
+      - appendix_3.qmd
+      - appendix_4.qmd
+      - appendix_5.qmd
+      
+      - appendix_7.qmd
+      - appendix_8.qmd
 
 website: 
   favicon: img/logo.jpg
@@ -50,7 +73,7 @@ format:
       - cosmo
       - brand
     toc: true
-    toc-depth: 3
+    toc-depth: 4
     link-external-newwindow: true
   pdf:
     documentclass: scrreprt

@@ -1,4 +1,4 @@
-# Diary: Volume I {.unnumbered #sec-volume1}
+# Volume I {.unnumbered #sec-volume1}
 ## Introduction
 
 There are few readier means of attacking the testimony of a traveller than to point out that he tells improbable stories; things not perhaps physically impossible, but unfamiliar to the critic’s experience and therefore not set down by him in the catalog of likely incidents.
@@ -14,18 +14,18 @@ As I now write, I feel rather gloomy, fearing that these pages will lack inciden
 must be embraced, the writer is entirely at the mercy of what the day may bring forth, but should one page lack incident and the other be too crowded make them a set off for the other.
 
 **Thomas Russell**  
-*Sloop Thornton*  
+[*Sloop Thornton*](appendix_1.qmd)  
 21st September 1870  
 
 ## Wednesday 21st September 1870
 
 Whoever hath parted from a loving wife and children for a distant land isolated from the habitations of civilized men will fully understand my feelings this morning, but those who live in this world for themselves only and hath not such dear ties to leave behind them could not understand, no matter how much I might explain.
 
-Left my wife and home at 3:00 o’clock AM. Went down to the Sloop Thornton, found all on board fast locked in the arms of Morpheus. Roused up the captain. Having completed his toilette, which did not occupy more than 5 minutes, he said he would go and call Mr. Warren who is the owner of the vessel. In the meantime he instructed the chief mate to get some coffee ready by the time he returned. I accompanied the captain to the house of the owner, which by the way is not a stately mansion, but what is vulgarly termed a shanty, with one room and a kitchen. We roused him up and then returned to the sloop, to find hot coffee awaiting us.
+Left my wife and home at 3:00 o’clock AM. Went down to the Sloop Thornton, found all on board fast locked in the arms of Morpheus. Roused up the captain. Having completed his toilette, which did not occupy more than 5 minutes, he said he would go and call [Mr. Warren](appendix_1.qmd#sec-appendix-1-owner) who is the owner of the vessel. In the meantime he instructed the chief mate to get some coffee ready by the time he returned. I accompanied the captain to the house of the owner, which by the way is not a stately mansion, but what is vulgarly termed a shanty, with one room and a kitchen. We roused him up and then returned to the sloop, to find hot coffee awaiting us.
 
 Now I dare say at any other time and under different circumstances the coffee would have been very acceptable, but this morning I had quite lost my appetite. At 4:00 o’clock the three white men came on board, the Chinamen having slept on board that might be ready for a start. There appeared to me to be a great deal of time wasted in looking at this and trying that, until 5:00 o’clock when we pushed off from the wharf with just sufficient wind to keep the sails spread. We were two hours in making Clover Point.
 
-Mr. R. Fawcett came down to the point and waved an adieu. Quite a number of whales were sporting about. The wind was dead against us and very light so that as one might term it we were just crawling along; the breeze freshened towards noon but still in our teeth.
+[Mr. R. Fawcett](appendix_3.qmd) came down to the point and waved an adieu. Quite a number of whales were sporting about. The wind was dead against us and very light so that as one might term it we were just crawling along; the breeze freshened towards noon but still in our teeth.
 
 Saw nothing worthy of note, but had ample time to study the physiography of my companions. Before going further, I will say something about the men who are to be my companions on Queen Charlotte, their respective names are as follows; Laiken, Riely, Beauchamp and three Chinamen Ah Chee, Ah Hen and Ah Loy.
 
@@ -37,7 +37,7 @@ Beauchamp is an old French Canadian, and an old settler here. He is known to you
 
 The three Flowery Kingdom gents are like all other Chinamen. Not easily understood - and I don't think I will try to understand them further than see that they do their duty properly.
 
-To comment upon the crew of the sloop would perhaps be an unwarrantable license. Her regular crew consists of a captain, chief mate and an Indian, but this trip the owner (Mr. Warren) being with us they have dispensed with the services of the Siwash. As the chief mate, who is a little Frenchman, usually acts as a cook on other trips I thought I would let him have a holiday and therefore turned in our Chinaman cook to take his place, which appeared agreeable to all hands and particularly so to the little Frenchman. Mr. Warren is a Canadian, resembles Bill McDougal very much both in appearance and manners. The captain (Mr. Brown, better known on board as George), is to my mind the best of the three. He is an Englishman and evidently had a fair bringing up, but like all other seafaring men a little rough. I have some sort of fancy that I shall like the man; he appears to have no very great peculiarities about him.
+To comment upon the crew of the sloop would perhaps be an unwarrantable license. Her regular crew consists of a captain, chief mate and an Indian, but this trip the owner ([Mr. Warren](appendix_1.qmd#sec-appendix-1-owner)) being with us they have dispensed with the services of the Siwash. As the chief mate, who is a little Frenchman, usually acts as a cook on other trips I thought I would let him have a holiday and therefore turned in our Chinaman cook to take his place, which appeared agreeable to all hands and particularly so to the little Frenchman. [Mr. Warren](appendix_1.qmd#sec-appendix-1-owner) is a Canadian, resembles Bill McDougal very much both in appearance and manners. The captain (Mr. Brown, better known on board as George), is to my mind the best of the three. He is an Englishman and evidently had a fair bringing up, but like all other seafaring men a little rough. I have some sort of fancy that I shall like the man; he appears to have no very great peculiarities about him.
 
 It is now 4.30 o'clock PM the wind is dying away and the tide has changed that is to say begun to ebb and therefore against us. 5.15 o’clock PM finding we are not making any headway against the ebb we cast anchor off Sidney Spit, about 25 miles from Victoria.
 
@@ -59,11 +59,15 @@ Salmon are jumping about in dozens, but neither hook nor line have we to catch a
 
 From this point we can see the farm and house which belonged to the poor little old tinker who was murdered some months past. You remember the poor old man who used to come round, mending pots and pans. The dog that belonged to him came around the bay and barked at us. My appetite still keeps strong; I feel as though I could take a meal every hour, but instead I eat a cracker and go to bed.
 
-## Friday 23rd September 1870
+## Friday 23rd September 1870 {#sec-volume-1-23-sept}
+
+:::{.callout-tip title="Medical Explanation"} 
+See @sec-appendix-4-1-23-sept
+:::
 
 About 4:00 o’clock this morning I was awoke by someone going up the ladder, saying as he went that he had put his shoulder out of joint, but I fancy it seemed rather queer that a man with his shoulder out of joint should be talking about the affair so unconcernedly. Thinking I must have been dreaming, I turned over and fell asleep.
 
-6:00 o’clock got up, partially dressed myself and went on deck to wash when lo! and behold! there sat old Beauchamp with his shoulder out, sure enough. As a matter of course I asked him how he had met with such an accident, which happened as follows: it appears that between 3:00 and 4:00 o’clock he was getting out of bed to go on deck and in doing so struck his shoulder against a box which caused it to dislocate, but he said it was nothing - it could very easily be put in again provided anyone on board knew how. Not being skilled in such matters I handed him to the captain who tried for nearly an hour but only succeeded in giving him pain. Laiken tried next but with no better result. Warren tried next but all to no purpose. Seeing that there would be no chance for him to get his shoulder put in on board, I told the captain to run into Nanaimo. Accordingly, we weighed anchor at 8:30 and headed for that place.
+6:00 o’clock got up, partially dressed myself and went on deck to wash when lo! and behold! there sat old Beauchamp with his shoulder out, sure enough. As a matter of course I asked him how he had met with such an accident, which happened as follows: it appears that between 3:00 and 4:00 o’clock he was getting out of bed to go on deck and in doing so struck his shoulder against a box which caused it to dislocate, but he said it was nothing - it could very easily be put in again provided anyone on board knew how. Not being skilled in such matters I handed him to the captain who tried for nearly an hour but only succeeded in giving him pain. Laiken tried next but with no better result. [Warren](appendix_1.qmd#sec-appendix-1-owner) tried next but all to no purpose. Seeing that there would be no chance for him to get his shoulder put in on board, I told the captain to run into Nanaimo. Accordingly, we weighed anchor at 8:30 and headed for that place.
 
 It was not our intention to go to Nanaimo had everything gone right, but to have entered the Gulf of Georgia by Plumper Pass.
 
@@ -85,7 +89,7 @@ Got up at 6:00 o’clock this morning, took breakfast and then went on shore wit
 
 Took a fresh supply of water off with us, got up the anchor and stood across the Gulf of Georgia with a strong breeze in our favor. This is my first Sunday from home and the only day I may say that we have had any wind. The sloop thundered and flew over the sea. I knew and felt that she was conveying me away from all I love, and gazing over the side and astern I really did shed a silent tear. The morning was clear; white clouds chased by the morning wind flew across the deep. The waves beat foaming against the vessel; the autumnally beautiful forest extended to the left as far as the eye could see.
 
-Such mornings as these bring out man's better feelings. 10:45 o’clock AM I am now thinking that my darlings are on their way to the House of God, and I shall allow myself to feel as though I am with them. Sunday on board here looks just like any other day except that the men don't play cards, but Mr. Warren—because he can't get the others to play—is playing by himself.
+Such mornings as these bring out man's better feelings. 10:45 o’clock AM I am now thinking that my darlings are on their way to the House of God, and I shall allow myself to feel as though I am with them. Sunday on board here looks just like any other day except that the men don't play cards, but [Mr. Warren](appendix_1.qmd#sec-appendix-1-owner)—because he can't get the others to play—is playing by himself.
 
 The sea is now quite rough; the men are all below seasick. One of the Chinamen has been up vomiting, and what an object of pity he looks. I don't feel the slightest symptoms of sickness and I don't think I shall be sick no matter how much she may toss and tumble.
 
@@ -137,7 +141,7 @@ Riely's ear is no better, in fact I believe much worse. It disturbs his rest and
 
 2:00 o’clock wind gone and tide against us; ran in shore on British Columbia side and tied up alongside the rocks. This is dreadful travelling; I am beginning to think it will take us a month in making the trip. From the want of something better to do, I made a draught board this afternoon and played a game with the captain and beat him.
 
-5:00 o’clock weighed anchor, tide in our favor. 7:00 o’clock raining and the wind rising, but in our favour. It is very dark and thick tonight. Mr. Warren thinks it won't be very safe to run all night, so we have headed for Adams River.
+5:00 o’clock weighed anchor, tide in our favor. 7:00 o’clock raining and the wind rising, but in our favour. It is very dark and thick tonight. [Mr. Warren](appendix_1.qmd#sec-appendix-1-owner) thinks it won't be very safe to run all night, so we have headed for Adams River.
 
 Reached the river at 9:00 o’clock; very dark. I was heaving the lead while the others were guiding the vessel and keeping a lookout. Let go the anchor in 10 fathoms water, but it appeared the bank must be very steep, for when the vessel swung back on her anchor it slipped and before we could do anything ran out about 15 fathoms more chain. The captain would not try to anchor there again, so we hoisted the anchor in and stood out again. 10:30 o’clock wind shifted to the S.W., very squally, and the rain pouring down. Did not go to bed until the wind moderated, which was about 1:00 AM.
 
@@ -159,23 +163,23 @@ Fair wind springing up. Weighed anchor at 7:00 o’clock, wind freshening from t
 
 8:45 o’clock PM entered Chadwell [sic] Passage and passed the wreck of the *Swannee* [sic], part of her hull and paddle boxes still remain on the rock. Beautiful moonlit night; we are now in Queen Charlotte Sound.
 
-Mr. Warren thinks it's safer to run across and make for the inside passage instead of steering straight for Queen Charlotte. We expect to sight Cape Caution about 1:00 o’clock AM. Remained on deck and kept a lookout forward until 12:00 o’clock when the Chief Mate and Mr. Warren came on deck and relieved us. The men don't seem to care a button how things go; all they care about is to be up in time for breakfast and go to bed after supper.
+[Mr. Warren](appendix_1.qmd#sec-appendix-1-owner) thinks it's safer to run across and make for the inside passage instead of steering straight for Queen Charlotte. We expect to sight Cape Caution about 1:00 o’clock AM. Remained on deck and kept a lookout forward until 12:00 o’clock when the Chief Mate and [Mr. Warren](appendix_1.qmd#sec-appendix-1-owner) came on deck and relieved us. The men don't seem to care a button how things go; all they care about is to be up in time for breakfast and go to bed after supper.
 
 ## Sunday 2nd October 1870
 
-This morning I expected to find the vessel safe in the inside passage, but no—we are still in Queen Charlotte Sound. Mr. Warren said that the Captain and I had passed the mouth of the channel during our watch and that we were now heading for Milbank Sound. Nearly a dead calm this morning with a heavy swell on. We have made a good run since yesterday morning—nearly 100 miles, the best sailing we have done yet. The men are rather squeamish. Barometer falling very fast and black clouds gathering up; it looks as though it might blow sometime during the day.
+This morning I expected to find the vessel safe in the inside passage, but no—we are still in Queen Charlotte Sound. [Mr. Warren](appendix_1.qmd#sec-appendix-1-owner) said that the Captain and I had passed the mouth of the channel during our watch and that we were now heading for Milbank Sound. Nearly a dead calm this morning with a heavy swell on. We have made a good run since yesterday morning—nearly 100 miles, the best sailing we have done yet. The men are rather squeamish. Barometer falling very fast and black clouds gathering up; it looks as though it might blow sometime during the day.
 
 This is my second Sunday from home, and to tell the truth I am more homesick than ever. Sundays spent after this fashion do not suit me very well, and more especially when tumbling about in this heavy swell; but I hope, God willing, to be on dry land by next Sabbath.
 
 3:00 o’clock PM we are now abreast of Milbank Sound and heading for Point Day, which point we have to round in order to get into Laredo Passage. Wind about the same, very light. This is a very rugged coast. Point Day is a fearful looking place, large rocks running about two miles out to sea.
 
-7:00 PM raining and rather inclined to be squally. 8:00 o’clock blowing a gale and very dark; we are now heading for the passage. 10:30 o’clock pitch dark, rain falling in torrents and blowing great gusts. Mr. Warren ordered the vessel to be hove to for the night, as he could not well see the entrance.
+7:00 PM raining and rather inclined to be squally. 8:00 o’clock blowing a gale and very dark; we are now heading for the passage. 10:30 o’clock pitch dark, rain falling in torrents and blowing great gusts. [Mr. Warren](appendix_1.qmd#sec-appendix-1-owner) ordered the vessel to be hove to for the night, as he could not well see the entrance.
 
 ## Monday 3rd October 1870
 
-I feel truly thankful for having been spared and protected through the perils of last night. I will begin to record where I left off last night. About fifteen minutes past eleven it seemed a little clearer and Warren ordered the jib to be hoisted and stand in for the land. He said he thought he could see the opening to the passage. After a half hour run we got into the place which he thought was the channel, but it proved to be no channel at all, but simply an opening between the rocks.
+I feel truly thankful for having been spared and protected through the perils of last night. I will begin to record where I left off last night. About fifteen minutes past eleven it seemed a little clearer and [Warren](appendix_1.qmd#sec-appendix-1-owner) ordered the jib to be hoisted and stand in for the land. He said he thought he could see the opening to the passage. After a half hour run we got into the place which he thought was the channel, but it proved to be no channel at all, but simply an opening between the rocks.
 
-It is almost impossible for me to describe our perilous position; the sea was running mountains high and the breakers on every side of us; in fact we were in surf. The water was perfectly white and appeared in a blaze. The wind almost died away, or rather I presume the rocks sheltered us. Mr. Warren tried the lead and found nine fathoms of water. He wanted to let go the anchor, but the Captain would not let him. He said from the way she was pitching in the heavy sea she would snap the chains like cords.
+It is almost impossible for me to describe our perilous position; the sea was running mountains high and the breakers on every side of us; in fact we were in surf. The water was perfectly white and appeared in a blaze. The wind almost died away, or rather I presume the rocks sheltered us. [Mr. Warren](appendix_1.qmd#sec-appendix-1-owner) tried the lead and found nine fathoms of water. He wanted to let go the anchor, but the Captain would not let him. He said from the way she was pitching in the heavy sea she would snap the chains like cords.
 
 We tried to run out to sea again and shook the reefs out of the sails, but to no purpose. There we were driving about, not knowing but we might be dashed on the rocks any moment. In fact I gave up all hope of her getting out of it, and about 1:00 o’clock took off my coat and boots to be prepared for her striking. Whilst I was below doing this she nearly struck; it was a miracle she escaped. They were trying to put her round when she missed stays and I heard the Captain cry out,
 
@@ -187,11 +191,11 @@ The wind freshened a little and we got out of our perilous situation about a qua
 
 During the whole of the time we were in amongst the rocks all the men were in bed except Riely, who appeared very anxious. I wanted him to come on deck and help us, but he was afraid of being washed overboard.
 
-Daylight began to break about 5:30 AM and the wind and sea had moderated considerably. We could now see that the place we had tried to go through was dangerous beyond all description. Mr. Warren said he was completely at a loss to say where we were. He proposed therefore to run through a narrow pass to the southeast of us hoping to find the inside passage. Accordingly we stood in.
+Daylight began to break about 5:30 AM and the wind and sea had moderated considerably. We could now see that the place we had tried to go through was dangerous beyond all description. [Mr. Warren](appendix_1.qmd#sec-appendix-1-owner) said he was completely at a loss to say where we were. He proposed therefore to run through a narrow pass to the southeast of us hoping to find the inside passage. Accordingly we stood in.
 
 This has been a beautiful morning, very little wind, but we have been moving steadily on, and finally came into the proper channel above Bella Bella.
 
-Mr. Warren made a great mistake on Sunday; it appears that the place we thought was Milbank Sound was a deep bay some thirty miles distant from Milbank, and the point he took for Point Day a reef of rocks extending about four miles into the sea. Such mistakes as these shake my confidence in him. We are now running up for Milbank Sound and not wishing such another night as we had last. He proposes to anchor before dark.
+[Mr. Warren](appendix_1.qmd#sec-appendix-1-owner) made a great mistake on Sunday; it appears that the place we thought was Milbank Sound was a deep bay some thirty miles distant from Milbank, and the point he took for Point Day a reef of rocks extending about four miles into the sea. Such mistakes as these shake my confidence in him. We are now running up for Milbank Sound and not wishing such another night as we had last. He proposes to anchor before dark.
 
 2:00 o’clock PM spoke to the steamer *Otter* bound for Victoria. 3:00 o’clock cast anchor in a bay near the entrance of Milbank Sound.
 
@@ -217,7 +221,7 @@ We are under double-reefed sails and she is rolling about like a nutshell. We ar
 
 1:30 PM saw a small bay with a very rocky entrance; tried to beat into it, but no use. We came nearly going on the rocks; she missed stays and in wearing her she only cleared the rocks by her own length. Put her before the wind again and prayed for some safe haven to present itself.
 
-2:15 PM some more Indians on shore, seeing that we were driving at the mercy of the wind and sea, fired guns and shouted. Mr. Warren, who was standing forward keeping a lookout, turned his eyes to the place from whence the shouts came and saw a small opening in the land not much wider than enough to let us pass through. He said it would be very dangerous to run into it, but as we had only worse prospects before us we had better try it. Consequently we headed for it, and by the will of God we got safe in.
+2:15 PM some more Indians on shore, seeing that we were driving at the mercy of the wind and sea, fired guns and shouted. [Mr. Warren](appendix_1.qmd#sec-appendix-1-owner), who was standing forward keeping a lookout, turned his eyes to the place from whence the shouts came and saw a small opening in the land not much wider than enough to let us pass through. He said it would be very dangerous to run into it, but as we had only worse prospects before us we had better try it. Consequently we headed for it, and by the will of God we got safe in.
 
 This little inlet led into a bay at the head of which was a river where we cast anchor at 2:45 PM. A canoe load of Indians came alongside and wanted to trade skins, but we were both wet and cold so the Captain told them to come back in the morning.
 

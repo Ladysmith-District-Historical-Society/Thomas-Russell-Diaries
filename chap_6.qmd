@@ -1,0 +1,56 @@
+# Geological Setting of the Cowgitz Coal Deposit {#sec-geological-setting-of-cowgitz-coal}
+
+## Regional Setting
+The Earth’s crust is composed of a number of ‘plates’ that move against each other through time. Haida Gwaii (previously called The Queen Charlotte islands) is situated at the boundary between the North America Continental Plate and the Pacific Oceanic Plate. 
+
+![Tectonic setting of Haida Gwaii showing its location at the boundary between the  Pacific and North America plates marked by the Queen Charlotte fault (QCF) and Cascadia subduction zone (CSZ). Modified from Leonard and Bednarski 2015 Figure 1.](img/image034.png){#fig-034}
+
+Underthrusting (subduction) of the Pacific Plate beneath the North America Plate and strike slip (ie sideways movement) between these  plates has resulted in repeated periods of volcanic activity, igneous intrusion, and sedimentation  of conglomerates, sandstones, siltstones, shales with occasional coals over the past several hundred million years. 
+
+![Diagrammatic cross section across plate boundary, Haida Gwaii Modified from Hyndman, 2015 Figure 11.](img/image035.png){#fig-035}
+
+## Stratigraphy {#sec-stratigraphy}
+The Cowgitz anthracite occurs within a succession of Cretaceous sedimentary rocks. Intermittent uplift and erosion during deposition of this sedimentary succession resulted in a complex stratigraphy characterised by internal unconformities and discontinuity of depositional environments.
+
+The exact position of the Cowgitz anthracite within the Cretaceous stratigraphy is uncertain: determination of this has been hampered by the complexity of the geology and the density of the vegetation covering the rocks precluding detailed investigation of it.
+
+An increased understanding of  geological processes since the start of scientific investigations in the 1870s coupled with the development of a regional geological understanding of the area through the mapping efforts of various workers has resulted in differing interpretations of the Cowgitz area’s geology by different scientists through time. For the purpose of this overview, the most significant reports are by Richardson (1872) and Dawson (1878) of the Geological Survey of Canada and Sutherland-Brown (1968) of the British Columbia Geological Survey.
+
+The stratigraphy of the immediate Cowgitz area according to Sutherland Brown (1968) is shown below: The colors assigned to the stratigraphic units are those used in the succeeding geological map and cross section 
+
+![Stratigraphy of the Cowgitz Mine area of Skidegate Inlet: after Sutherland Brown 1968. ](img/image036.png){#fig-036}
+
+Exactly where in the Cretaceous succession the Cowgitz coal occurs is uncertain. It is thought to belong within the Haida Formation, though Sutherland Brown’s map shows the mine situated within the Skidegate Formation. Sutherland Brown comments:
+
+> “...the writer also has no confidence that the coal of Slatechuck and Cowgitz is within the Haida Formation, and although it is within the Queen Charlotte Group, the structural complexity of this area precludes certainty as to the formation. Whatever the unit, it is apparently non-marine, and this may be explained by being adjacent to the active fault line from which detritus was shed into the basin.”
+
+With regard to the nearby Slatechuck Creek argillite used by the Haida for carving, Sutherland Brown notes:
+
+> “Some doubt remains regarding the precise stratigraphic location within the Queen Charlotte Group. It has always been said to be in the Haida Formation and could be in the upper shale member, but the interpretation shown on the map (Fig. 34) places it in the Skidegate Formation. Only detailed work in this region of abundant faults, complex folding, and relatively poor exposure in tangled logging slash could resolve the problem.
+
+![Geological map of the Skidegate Inlet area with SW/NE cross section: after Sutherland Brown 1968.](img/image037.png){#fig-037}
+
+::: {.callout-tip collapse="true" title="Explantation"}
+In the cross section note the disconformities between the Cretaceous formations, and the vertical Masset dykes which cut through the Cretaceous succession and feed the overlying surface volcanics. On the map note the faulting in the Cowgitz Mine area between the north/south running Masset Formation dyke which makes up the spine of the peninsula and the Cretaceous sedimentary rocks to the east which contain the Cowgitz coal. The scale of the map is such that the detailed structural complexity of the area around the Cowgitz Mine is not shown.  
+:::
+
+## Structural Geology of the Cowgitz Mine Area {#fig-structural-geology-of-cowgitz-mine-area}
+
+The Cowgitz Coal seam(s) were deposited horizontally, but subsequent folding and faulting have resulted in the current almost vertical dips. A Tertiary diorite dyke (Masset Formation- Sutherland Brown interpretation) immediately to the west of the coal was injected possibly along pre-existing basement faults which propagated through the Cretaceous beds. The contact between the dyke and the Cretaceous sedimentary rocks has been modified by subsequent faulting which appears to have affected the overlying Masset volcanics.
+
+The original depositional continuity of the coals is not known: assessment of this has been hampered by the complexity of subsequent small scale folding and faulting as well as by the occluding effect of the dense vegetation cover. 
+
+## Why Anthracite? {#sec-why-anthracite}
+
+The fact that the Cowgitz coal is anthracitic significantly increased its perceived value. For a coal to become anthracite it must be  subjected to pressure and heating. This heat was apparently provided during intrusion of Masset Formation dykes and associated volcanism. The spine of the peninsula immediately to the west of the Cowgitz mine is made up of a dyke of diorite which intruded through the Cretaceous succession and fed the surface volcanics of the Masset Formation which overlie it.
+
+Sutherland Brown (1968) states 
+> “The Cowgitz coal is apparently adjacent to the very large dyke of Masset Formation in the centre of the peninsula, and the contact has been the locus of later faulting.”
+
+Dawson (1880)  and Ells (1906)  interpreted the igneous rocks to the west of the coal as being stratigraphically older than the coals – whereas Sutherland Brown (1968) interpreted them to be a large intrusive dyke of Tertiary age belonging to the Masset Formation.  
+
+Ells (1906 p. 29) attributed the anthracite to heat and pressure resulting from earth movement/faulting, stating:
+
+> “The coal is in close proximity to the underlying igneous rocks which extend thence westward to the west side of the island. The rocks at the mine containing the coal are much broken up and crushed, and the original lignite of the formation has been converted to the variety of anthracite there found. This is due to heat induced by pressure of the shales and sandstones against the pre-Cretaceous igneous mass at the back. In fact, so great has been the crushing strain at this place that much of the coal, when mined, is found in the form of powder, and is quite useless for economic purposes, while, as in other outcrops on the island, the coal and black shale are so closely mixed that separation is almost impossible.” 
+
+According to Sutherland Brown the heat of the Tertiary  intrusion would have contributed to the anthracitisation of the Cretaceous coal.

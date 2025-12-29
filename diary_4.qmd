@@ -1,5 +1,2 @@
----
-title: "diary_4"
-format: html
----
+# Volume IV {.unnumbered #sec-volume4}
 

@@ -1,0 +1,7 @@
+# Maps {#sec-maps}
+
+Passage of the sloop Thornton from Victoria to the Queen Charlotte islands (now called Haida Gwaii).
+
+![Southern portion: Victoria to the northern tip of Vancouver Island](img/map001.png)
+
+![Northern portion: North tip of Vancouver Island to  Skidegate Inlet.](img/map002.png)
