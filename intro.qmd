@@ -1,4 +1,4 @@
-# Introduction {.unnumbered}
+# Introduction {#sec-introduction}
 
 ## Provenance of the diary {#sec-provenance-of-the-diary}
 
@@ -10,7 +10,7 @@ Amongst the documents and family photographs were four notebooks bundled togethe
 
 The diary, consisting of four notebook volumes, had been handed down through the generations within the Michael family via Thomas’ daughter Alice, who had moved to Cedar to teach school and who subsequently married Edward Duncan Michael, a settler farmer, in May 1884.
 
-Volumes 1 to 3 of the diary are of identical type, notebooks with dark maroon soft covers. The text inside is written in ink and chronicles Thomas’ journey up to the Queen Charlotte Islands from Victoria aboard the sloop ‘Thornton’ and the bulk of his stay in Skidegate Inlet. 
+[Volume 1](#sec-volume1) to 3 of the diary are of identical type, notebooks with dark maroon soft covers. The text inside is written in ink and chronicles Thomas’ journey up to the Queen Charlotte Islands from Victoria aboard the sloop ‘Thornton’ and the bulk of his stay in Skidegate Inlet. 
 
 ![Ink written sample page from Thomas Russell’s diary ](img/image002.png){#fig-002}
 
@@ -49,7 +49,7 @@ It is an important window into the social and commercial environment of a time i
 
 ## Where the diary is now
 
-The diary volumes have been scanned and deposited in the Saanich Archives as an addition to significant Russell Family Fonds already there. 
+The diary volumes have been scanned and deposited in the Saanich Archives as an addition to significant Russell Family Finds already there. 
 
 ![Formal intake of Thomas Russell’s diaries to the Saanich Archives, May 27th 2025. Left to right: Kerry Parker (cousin to Michael Gould), Kaetlen Bursey (Saanich Archives Supervisor), Michael Gould (donor and great great grandson of Thomas Russell).](img/image004.jpg){#fig-004}
 

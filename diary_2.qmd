@@ -1,5 +1,1 @@
----
-title: "diary_2"
-format: html
----
-
+# Diary: Volume II {.unnumbered #sec-volume2}

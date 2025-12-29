@@ -4,28 +4,43 @@ project:
 
 book:
   title: "The Diaries of Thomas Russell"
-  author: "Quentin Goodbody (Ladysmith Historical Society)"
+  subtitle: "EXAMPLE --- Coal Mining, Enterprise, and Daily Life in the Queen Charlotte Islands"
+  author:
+    - name: "Quentin Goodbody"
+      affiliation: "Ladysmith Historical Society"
   date: "2025-12-25"
+
+  description: >
+    A transcribed and annotated edition of the diaries of Thomas Russell,
+    documenting coal mining operations, labour, and colonial enterprise
+    in the Queen Charlotte Islands during the late nineteenth century.
+
   cover-image: img/logo.jpg
+
+  site-url: "https://ladysmithhistoricalsociety.ca"
+  repo-url: "https://github.com/ladysmithhistoricalsociety/thomas-russell-diaries"
+  repo-actions: [edit, issue]
+
+  language: en-CA
+
   page-navigation: true
   chapters:
     - index.qmd
     - intro.qmd
     - chap_1.qmd
-#    - chap_2.qmd
-#    - chap_3.qmd
-#    - chap_4.qmd
-  appendices:
+    - chap_2.qmd
+    - chap_3.qmd
     - diary_1.qmd
-#    - diary_2.qmd
+    - diary_2.qmd
 #    - diary_3.qmd
 #    - diary_4.qmd
 
 website: 
   favicon: img/logo.jpg
-  site-url: https://www.ladysmithhistoricalsociety.ca/
 
-number-depth: 1
+site-url: https://www.ladysmithhistoricalsociety.ca/
+
+number-depth: 2
 
 bibliography: references.bib
 
@@ -34,6 +49,9 @@ format:
     theme:
       - cosmo
       - brand
+    toc: true
+    toc-depth: 3
+    link-external-newwindow: true
   pdf:
     documentclass: scrreprt
   
