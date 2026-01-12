@@ -3,8 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "The Diaries of Thomas Russell"
-  subtitle: "EXAMPLE --- Coal Mining, Enterprise, and Daily Life in the Queen Charlotte Islands"
+  title: "The Remarkable Diary of Thomas Russell while at Skidegate Inlet, Queen Charlotte islands (Haida Gwaii)  September 1870 – May 1871."
   author:
     - name: "Quentin Goodbody"
       affiliation: "Ladysmith Historical Society"
@@ -56,6 +55,7 @@ book:
       - appendix_5.qmd
       - appendix_6.qmd
       - appendix_7.qmd
+      - appendix_8.qmd
 
 website: 
   favicon: img/logo.jpg
@@ -74,8 +74,6 @@ format:
     toc: true
     toc-depth: 4
     link-external-newwindow: true
-  pdf:
-    documentclass: scrreprt
   
 crossref:
   fig-title: "Image"

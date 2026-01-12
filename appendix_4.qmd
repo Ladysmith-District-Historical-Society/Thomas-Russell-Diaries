@@ -1,6 +1,9 @@
 # Medical Explanations {.unnumbered #sec-appendix-4}
 
-These medical explanations were provided by Dr. Jan Boxall.
+Dr. Jan Boxall has kindly provided the following explanations of the medical occurrences  and medications used by Thomas Russell to treat those afflicted.  
+
+Reference to the relevant portion of the diary can be made by referring to the date of occurrence
+
 
 ## [Friday 23rd of September 1870](diary_1.qmd#sec-volume-1-23-sept) {#sec-appendix-4-1-23-sept}
 
@@ -10,9 +13,11 @@ Dislocated shoulders are pretty common, and people, even today, put them back in
 
 The location behind the ear could be the mastoid, the bone behind the ear. Abscessing starts in the sinuses or ear, spreads, and can spread to the brain. Generally not seen these days because we use antibiotics early. Abscesses are treated by drainage, so the idea for it to “gather” is logical, and then wait for it to burst/break. Today, we would take a knife and incise it once it has “gathered”. Then you don’t need antibiotics.
 
+Poultices are still used, ie application of warm cloths to help an abscess localize, and then drain.
+
 Russian Salve: This is olive oil, turpentine and beeswax. There is a tin in the Smithsonian. Of course, there is also a tin on ebay. It originally was oil from the Russian Olive Tree. Olive oil helps in wound healing, bacteria can’t grow in oil very well. It also helps with inflammation. There have been studies done that have isolated the bioactive compounds in the olive oil that help with fibroblasts (healing cells).
 
-Turpentine oil, easily available from pine trees, has been used since 2100 BC. The warmth is a counterirritant, so helps with decreasing pain. It also disinfects. We don’t use it on skin anymore.
+Turpentine oil, easily available from pine trees, has been used since 2100 BC. The warmth is a counter-irritant, so helps with decreasing pain. It also disinfects. We don’t use it on skin anymore.
 
 Beeswax is still used (as is honey), as it has antibacterial properties, cuts down on inflammation and so helps healing.
 
@@ -24,13 +29,13 @@ Arnica, also still used. Arnica is a plant of the sunflower family. People buy i
 
 Not sure what Russell means by “painkiller”. This could be Arnica. You can use opium topically, but don’t think they were doing this is the 1800s.
 
-## [Friday 15th of October 1870](diary_1.qmd#sec-volume-1-15-oct) {#sec-appendix-4-1-15-oct}
+## [Saturday 15th of October 1870](diary_1.qmd#sec-volume-1-15-oct) {#sec-appendix-4-1-15-oct}
 
 An aperient is a bowel stimulant. Back in the early 1800s the thought was that fever was something to be expelled from the body, so purgative (laxative treatments, aperients) were used as well as bloodletting. The Victorians believed this expelled the fever, and reduced inflammation, contamination, and restored balance. By 1842 Dr. James Manby Gully realized bloodletting and aperients were making people worse, not better, and argued fever should run its course.
 
-## [Friday 17th of October 1870](diary_1.qmd#sec-volume-1-17-oct) {#sec-appendix-4-1-17-oct}
+## [Saturday 22nd of October 1870](diary_1.qmd#sec-volume-1-22-oct) {#sec-appendix-4-1-22-oct}
 
-Poultices are still used, ie application of warm cloths to help an abscess localize, and then drain.  Black blood is just old, clotted blood; doesn’t signify anything else. It is no wonder his head “swims”, the infection was in his inner ear, which is important for balance. 
+  Black blood is just old, clotted blood; doesn’t signify anything else. 
 
 ## [Sunday 4th of December 1870](diary_2.qmd#sec-volume-2-4-dec) {#sec-appendix-4-2-4-dec}
 
@@ -41,7 +46,7 @@ Castille Soap, an olive oil based soap (or at least a vegetable oil). Used still
 Friars Balsam, a tincture of benzoin. It is put on the skin under bandages to protect the skin, prevent itching and help the bandage adhere for a longer time. Interestingly, benzoin comes from the Styrax tree, which is found in Indonesia. It was developed in Jerusalem in 1719, but English doctor and MP Joshua Ward has got the credit for developing it around 1760. As with many of these old medicines, it had multiple uses. It was also used for sinus congestion; put in a bowl of hot water, then you put your head over it under a towel.
 
 
-## [Sunday 29th of December 1870](diary_2.qmd#sec-volume-2-29-dec) {#sec-appendix-4-2-29-dec}
+## [Thursday 29th of December 1870](diary_2.qmd#sec-volume-2-29-dec) {#sec-appendix-4-2-29-dec}
 
 Chlorodyne painkiller was invented by Dr. John Collis Browne of the British Indian Army. It was a combination of laudanum, which is opium, cannabis, and chloroform (which James Simpson, a Scot, first used for anaesthetic). 
 

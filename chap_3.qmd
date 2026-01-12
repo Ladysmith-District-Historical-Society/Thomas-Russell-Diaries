@@ -1,33 +1,25 @@
-# Discovery of the Cowgitz Coal Deposit {#sec-cowgitz-discovery}
+# Discovery  of Coal in the Skidegate Inlet area {#sec-cowgitz-discovery}
+
+The California Gold Rush, which started in 1848, resulted in a significant influx to western North America of fortune seekers infected with ‘gold fever’. When two samples of gold from the Queen Charlottes were brought to Fort Simpson in 1850, the Hudson’s Bay Company launched a series of expeditions to investigate. In late 1851 when news of the discovery at what became known as ‘Gold Harbour’ leaked beyond the Hudson Bay Company, a brief rush ensued.
+
+Fearful of  significant influx of American prospectors and loss of control of the area, prompted British authorities sent two naval ships to the area to check on the situation.
+
+As it happened, a combination of the single gold-bearing vein discovered being quickly mined out, unsuccessful further prospecting, and a difficult relationship between the miners and the Haida Nation, resulted in the rush dissipating by the time the frigate HMS Thetis first got there in June 1852. The following year the steam paddle sloop HMS Virago was in the Queen Charlottes to again check on activity in Gold Harbour, but also to lay down the law following the seizure, looting and burning of the American schooner Susan Sturges in late 1852.
+
+It had been the original intention of Captain Prevost of HMS Virago to sail up the west coast of the Queen Charlotte islands  and enter Gold Harbour. He was, however, thwarted by inclement weather and instead opted to proceed up the more protected eastern shoreline. In doing so, the Virago entered Skidegate Inlet on May 14th 1853 and anchored the large Indian village there.
+
+While at Skidegate, the son of one of the Haida chiefs, Captain Bearskin,  took Captain Prevost and his Chief Engineer Bain to view a local coal discovery. This is the earliest record of coal in the Skidegate Inlet area. Nothing became of it at the time.
+
+Interest was rekindled in 1859 by the exhibition in Victoria of a 14 ounce gold nugget that had been purchased by Hudson Bay Company agents from Queen Charlotte islands Haida. In response to this, James Douglas, Governor of the Colony of British Columbia, hired ‘Major’ William Downie to renew prospecting for gold on the islands, Downie being well known for his prospecting and mining activities during the California Gold Rush.
+
+Downie and a party of 27 miners arrived at Gold Harbour in July 1859. After a disappointing time prospecting in the vicinity of the original gold discovery, Downie turned his attention eastward toward Skidegate Channel where he again saw little of interest. Proceeding further eastward, he decided to turn back when the geology turned unsuitable for primary gold occurrences, his report stating:
+
+> “We found  black slate and quartz (illegible), further north granite appears and then sandstone  and conglomerate and as we were now in a coal country, it was no use to look for gold. We saw coal here but I cannot speak as to its quality, not being a judge of it. The formation is similar to that of Nanaimo”.
+
+Interestingly, in his cover letter to the Duke of Newcastle  (Henry Pelham-Clinton, 5th Duke of Newcastle, the Secretary of State for the Colonies) to whom he submitted Downie’s report, Governor James Douglas was less than complimentary of the Downie party’s prospecting efforts in the Queen Charlottes. Douglas wrote:
+
+> “The report now transmitted relates to the unsuccessful result of the attempt made in the month of July last, by a body of miners from this place [Victoria], to explore Queen Charlottes’ Island.
+>
+> The adventurers, dismayed by the rugged aspect of the country, the humidity of the climate and the numbers and formidable appearance of the Native tribes, did not prosecute the enterprise with resolution or tenacity, and soon returned to this place [Victoria]  with the exception of a few daring spirits, who accomplished Mr. Downie to Fort Simpson.”
 
 ![‘Major’ William Downie – discoverer of coal at Skidegate in 1859.](img/image020.jpg){#fig-020}
-
-## Gold Prospecting Origins (1848–1853) {#sec-cowgitz-gold-origins}
-
-The discovery of coal at [Skidegate Inlet](https://maps.app.goo.gl/zrPyW2pLzz3uuefn8) in 1859 was a by-product of gold prospecting.
-
-The California Gold Rush, which began in 1848, resulted in a significant influx of fortune seekers infected with “gold fever” to western North America. When two samples of gold from the [Queen Charlotte Islands (now Haida Gwaii)](https://maps.app.goo.gl/Cq2LC3v4SdSkKiJj6) were brought to [Fort Simpson](https://maps.app.goo.gl/Ppad6NUXaQXFVZEq9) (**FIX LINK**) in 1850, the Hudson’s Bay Company launched a series of expeditions to investigate. In late 1851, when news of the discovery at what became known as [*Gold Harbour*]() (**NEED LINK**) leaked beyond the Hudson’s Bay Company, a brief rush ensued.
-
-A combination of the single gold-bearing vein being quickly mined out, unsuccessful further prospecting, and a difficult relationship between the miners and the Haida Nation resulted in the rush dissipating by 1853.
-
-## Renewal of Interest and the 1859 Expedition {#sec-cowgitz-renewal-1859}
-
-Interest was rekindled in 1859 by the exhibition in [Victoria](https://maps.app.goo.gl/kNiQ5bovGLhER3wX7) of a 14-ounce gold nugget that had been purchased by Hudson’s Bay Company agents from Haida people of the Queen Charlotte Islands. In response, James Douglas, Governor of the Colony of British Columbia, hired “Major” William Downie to renew prospecting for gold on the islands. Downie was well known for his prospecting and mining activities during the California Gold Rush.
-
-Downie and a party of 27 miners arrived at Gold Harbour in July 1859. After a disappointing period prospecting in the vicinity of the original gold discovery, Downie turned his attention eastward toward Skidegate Channel, where he again saw little of interest.
-
-## Geological Observations and the Identification of Coal {#sec-cowgitz-geology}
-
-Proceeding further eastward, Downie decided to turn back when the geology became unsuitable for primary gold occurrences. His report stated:
-
-> “We found black slate and quartz (illegible), further north granite appears and then sandstone and conglomerate and as we were now in a coal country, it was no use to look for gold. We saw coal here but I cannot speak as to its quality, not being a judge of it. The formation is similar to that of [Nanaimo](https://maps.app.goo.gl/ZoC9FSDpUdsNfcs26).”
-
-This observation marks the first recorded recognition of coal-bearing strata in the Skidegate area, later associated with the Cowgitz coal deposit.
-
-## Colonial Assessment of the Expedition {#sec-cowgitz-colonial-assessment}
-
-Interestingly, in his covering letter to the Duke of Newcastle—Henry Pelham-Clinton, 5th Duke of Newcastle, and Secretary of State for the Colonies—to whom he submitted Downie’s report, Governor James Douglas was less than complimentary of the Downie party’s prospecting efforts in the Queen Charlottes. Douglas wrote:
-
-> “The report now transmitted relates to the unsuccessful result of the attempt made in the month of July last, by a body of miners from this place \[Victoria\], to explore Queen Charlottes’ Island.
->
-> The adventurers, dismayed by the rugged aspect of the country, the humidity of the climate and the numbers and formidable appearance of the Native tribes, did not prosecute the enterprise with resolution or tenacity, and soon returned to this place \[Victoria\], with the exception of a few daring spirits, who accompanied Mr. Downie to Fort Simpson.”

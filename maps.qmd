@@ -2,6 +2,55 @@
 
 Passage of the sloop Thornton from Victoria to the Queen Charlotte islands (now called Haida Gwaii).
 
-![Southern portion: Victoria to the northern tip of Vancouver Island](img/map001.png)
+## Map 1
 
-![Northern portion: North tip of Vancouver Island to  Skidegate Inlet.](img/map002.png)
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(leaflet)
+library(sf)
+
+# 1) Read the GeoJSON
+pts <- st_read("kml/points.geojson", quiet = TRUE)
+lns <- st_read("kml/paths.geojson", quiet = TRUE)
+
+# 2) Web maps expect lon/lat (EPSG:4326)
+pts <- st_transform(pts, 4326)
+
+# 3) Leaflet map (same syntax style you used)
+m <- leaflet() %>%
+  # Base groups
+  addTiles(group = "OSM (default)") %>%
+  addProviderTiles(providers$CartoDB.Positron, group = "Positron (minimal)") %>%
+  addProviderTiles(providers$Esri.WorldImagery, group = "World Imagery (satellite)")    %>%
+  # Overlay groups
+  addCircleMarkers(
+    data = pts,
+    radius = 5,
+    stroke = TRUE,
+    weight = 1,
+    fillOpacity = 0.8,
+    popup = ~sprintf(
+      "<b>%s</b><br/>%s",
+      Name,
+      Descriptio
+    )
+  ) %>%
+  addPolylines(data = lns, color = "#444444", weight = 1, smoothFactor = 0.5) %>%
+  # Layers control
+  addLayersControl(
+    baseGroups = c(
+      "OSM (default)",
+      "Positron (minimal)",
+      "World Imagery (satellite)"
+    ),
+    options = layersControlOptions(collapsed = FALSE)
+  )
+
+m
+
+
+
+
+```

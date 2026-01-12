@@ -126,7 +126,7 @@ As to the optimistic reports on progress at the mine, these were unchanged in th
 
 ## Later Technical Assessments and Continued Activity {#sec-later-assessments}
 
-Annual activity reports for 1867, 1868, and 1869 by the civil and mining engineer John James Landale—who acted as Superintendent for various periods in 1868 and 1869—chronicled continued activity at the site.
+Annual activity reports for 1867, 1868, and 1869 by the civil and mining engineer John James Landale—who acted as Superintendent for various periods in 1868 and 1869, chronicled continued activity at the site.
 
 ### Landale’s 1867 Inspection and Critique {#sec-landale-1867}
 
@@ -144,19 +144,17 @@ His report states:
 
 > “A great deal of very expensive prospecting has been done but generally in most injudicious places, and all the works for mere exploration are much too good.”
 
-He indicates that the work done to date failed to define the anthracite deposit because the diggings had not been deep enough to get below the surface “creep” of the seams:
+and indicates that the work done to date failed to define the anthracite deposit because the diggings had not been deep enough to get below the surface ‘creep’ of the seams: 
 
-> “Company’s purchase of 1000 acres is very well located and it is a most valuable property though it seems as if the parties who have prospected it in order to open work had all the time been working at random, everything has been done by tunneling, and nearly all of it amounts to mere surface scratching.  
+> “Company’s purchase of 1000 acres is very well located and it is a most valuable property though it seems as if the parties who have prospected it in order to open work had all the time been working at random, everything has been done by tunneling, and nearly all of it amounts to mere surface scratching. It may be taken as an axiom that wherever coal is found as a vein instead of a seam (especially in hilly districts) it will be broken and twisted, twisted towards the surface, parts of the vein lying off the true line of bearing below the side with the heaviest weight on it....” 
 
-> It may be taken as an axiom that wherever coal is found as a vein instead of a seam (especially in hilly districts) it will be broken and twisted, twisted towards the surface, parts of the vein lying off the true line of bearing below the side with the heaviest weight on it....”
-
-### Surface Creep of Coal Seams {#sec-surface-creep}
+He illustrated this with the following diagram:
 
 ![Illustration by John James Landale in his 1867 report depicting surface creep of coal veins in hilly terrain—requiring excavation below the creep line to determine their true bearing.](img/image029.png){#fig-029}
 
 ### Mapping of Coal Seams {#sec-mapping-seams}
 
-![Detail of Landale’s 1867 map showing coals encountered through exploratory work. The 6-foot King’s Seam became the target of the eventual mine.](img/image030.png){#fig-030}
+![Detail of Landale’s 1867 map showing coals encountered through exploratory work. The 6’ King’s Seam appears to have become the target of the eventual mine.](img/image030.png){#fig-030}
 
 ## Critique of Early Infrastructure Decisions {#sec-infrastructure-critique}
 
@@ -230,4 +228,6 @@ He forecast in excess of 100,000 tons of mineable coal in two of the three seams
 
 No activity report was found for 1870. The departing Superintendent, Mr. Branch, whom Thomas Russell replaced, may have produced one; if so, it has apparently been lost.
 
-From September 1870 the continuing story of the development of the mine is taken up by Thomas Russell. As his diary attests, on his arrival he found the works in a poor state and came to question the integrity of those who preceded him. Some of the mined coal had been transported on the completed tramway to the newly constructed wharf, but it had not been properly sorted from slack, requiring time-consuming work to clean it, which resulted in slow progress and significant reduction in saleable tonnage. The tramway was poorly constructed and in need of partial rebuilding, the mining was problematic, and the workforce of doubtful quality.
+From October 1870 the continuing story of the development of the mine is taken up by Thomas Russell. As his diary attests, on his arrival he found the works in a poor state and came to question the integrity of those who preceded him. Some of the mined coal had been transported on the completed tramway to the newly constructed wharf, but it had not been properly sorted from slack, requiring time-consuming work to clean it, which resulted in slow progress and a significant reduction in saleable tonnage. The tramway was poorly constructed and in need of partial rebuilding, the mining was problematic, and the workforce of doubtful quality.
+
+![Entrance to Cowgitz Coal Mine, Queen Charlotte Islands in 1902, 31 years after abandonment. Source: British Columbia Archives Visual Records Collection Reference Code B-03794 Photographer and circumstances not recorded.](img/image063.png){#fig-063}
