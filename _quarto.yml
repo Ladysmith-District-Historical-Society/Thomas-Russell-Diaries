@@ -48,14 +48,17 @@ book:
         
     - part: "**Appendices**"
       chapters:
-      - thornton.qmd
-      - appendix_2.qmd
-      - appendix_3.qmd
-      - appendix_4.qmd
-      - appendix_5.qmd
-      - appendix_6.qmd
-      - appendix_7.qmd
-      - appendix_8.qmd
+      - The Thornton.qmd
+      - Augustus Frederick Pemberton.qmd
+      - Roland Wignall Fawcett.qmd
+      - Medical Explanations.qmd
+      - Haida Villages and Chiefs.qmd
+      - Dawson Whaling Operations.qmd
+      - Wreck of the Suwanee.qmd
+      - Morris Reily.qmd
+      - Mifflin Wistar Gibbs.qmd
+      - Chinook Jargon.qmd
+      - Origin of the name Cowgitz.qmd
 
 website: 
   favicon: img/logo.jpg
