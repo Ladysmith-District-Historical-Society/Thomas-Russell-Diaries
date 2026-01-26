@@ -48,7 +48,7 @@ book:
         
     - part: "**Appendices**"
       chapters:
-      - appendix_1.qmd
+      - thornton.qmd
       - appendix_2.qmd
       - appendix_3.qmd
       - appendix_4.qmd
