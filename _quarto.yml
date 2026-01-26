@@ -48,17 +48,17 @@ book:
         
     - part: "**Appendices**"
       chapters:
-      - The Thornton.qmd
-      - Augustus Frederick Pemberton.qmd
-      - Roland Wignall Fawcett.qmd
-      - Medical Explanations.qmd
-      - Haida Villages and Chiefs.qmd
-      - Dawson Whaling Operations.qmd
-      - Wreck of the Suwanee.qmd
-      - Morris Reily.qmd
-      - Mifflin Wistar Gibbs.qmd
-      - Chinook Jargon.qmd
-      - Origin of the name Cowgitz.qmd
+      - The_Thornton.qmd
+      - Augustus_Frederick_Pemberton.qmd
+      - Roland_Wignall_Fawcett.qmd
+      - Medical_Explanations.qmd
+      - Haida_Villages_and_Chiefs.qmd
+      - Dawson_Whaling_Operations.qmd
+      - Wreck_of_the_Suwanee.qmd
+      - Morris_Reily.qmd
+      - Mifflin_Wistar_Gibbs.qmd
+      - Chinook_Jargon.qmd
+      - Origin_of_the_name_Cowgitz.qmd
 
 website: 
   favicon: img/logo.jpg
