@@ -28,10 +28,10 @@ book:
 
     - part: "**Diaries**"
       chapters:
-        - diary_1.qmd
-        - diary_2.qmd
-        - diary_3.qmd
-        - diary_4.qmd
+        - diary_Volume_1.qmd
+        - diary_Volume_2.qmd
+        - diary_Volume_3.qmd
+        - diary_Volume_4.qmd
   
     - part: "**Background**"
       chapters:
