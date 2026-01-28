@@ -1,4 +1,4 @@
-#Chinook Jargon
+# Chinook Jargon {.unnumbered #sec-chinook-jargon}
 
 That Thomas Russell communicated with the majority of Haida through the language ‘Chinook Jargon’ is evidenced by the following quotes in his diary:
 Tuesday 8th  November 1870
@@ -9,45 +9,54 @@ Tuesday 29th November 1870
 
 Scattered through Russell's diary are the following Chinook Jargon words,  the translation for which is provided here:
 
-###Cultas Potlatch (also spelled Cultaz Potlatch) 
+### Cultas Potlatch (also spelled Cultaz Potlatch)
+
 Dates of useage: Sunday 27th November 1870; Sunday 29th January 1871; Tuesday 7th March 1871;
 Meaning: A gift with no reciprocal obligation expected 
 
-###Hyassclosh 
+### Hyassclosh
+
 Date of useage: Tuesday 7th February 1871;
 Though written as one word by Russell, this is probably two words: 
 hyass meaning important
 closh (Russell spelling - which in the dictionary is kloshe or kloose) meaning good, correct or right. 
 Meaning: Though the meaning is not readily apparent, taken together these two words aseemingly signify something like ‘important and right to do’.
 
-###Iktas 
+### Iktas
+
 Dates of useage: Sunday 27th November; Sunday 29th January 1871;
 Russell translation: Goods
 
-###Keeysly 
+### Keeysly 
+
 Dates of useage: Sunday 6th November 1870;
 Russell translation: officer in charge
 
-###Klootchman 
+### Klootchman 
+
 Dates of useage: Wed 12th October 1870; Monday 28th November 1870;
 Meaning: A woman or 'female" (of anything). 
 Note: Although the modern Chinook Jargon dictionary states that word 'klootchman' today is not derisive, it was considered either derisive or demeaning by Captain Gold and his wife – and was meant to be so by Russell.
 
-###Muckmuck 
+### Muckmuck 
+
 Date of useage: Sunday 13th November;
 Meaning: Food. 
 Note: According to the dictionary this word is actually ‘muck’-a-muck’
 
-###Siwash 
+### Siwash 
+
 Dates of useage: Saturday 29th October; Monday 28th November; Friday 16th December; Sunday 15th January 1871; Sunday 12th February; Tuesday 14th February;
 Meaning: A First Nations man, but sometimes used for women as well. 
 Note: The origins and meaning may be considered pejorative and derogatory French sauvage (savage). Russell at times used it in a derisive way, but not always. 
 
-###SucKally Tihee 
+### SucKally Tihee 
+
 Dates of useage: Tuesday 14th February 1871; 
 Meaning: God. 
 Note: Russell’s spelling differs from that of George Gibbs’ Dictionary of the Chinook Jargon which spells it Sagh-a-lieTyee
 
-###Tihee 
+### Tihee 
+
 Date of useage: Sunday 15th January 1871; 
 Meaning: Chief

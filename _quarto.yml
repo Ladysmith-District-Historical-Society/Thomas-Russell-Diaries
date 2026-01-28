@@ -35,18 +35,15 @@ book:
   
     - part: "**Background**"
       chapters:
-        - chap_1.qmd
         - Thomas_Russell_and_Family.qmd
         - Discovery_of_Coal_at_Skidegate_Inlet.qmd
-        - Appraisal_and_Development_of_the Cowgitz_Coal.qmd
-        - Geological_Survey_Appraisal_of_the_Cowgitz_Coal
-        - Geological_Setting_of_the_Cowgitz_Coal
+        - Appraisal_and_Development_of_the_Cowgitz_Coal.qmd
         - maps.qmd
         
     - part: "**Geology**"
       chapters:
-        - chap_5.qmd
-        - chap_6.qmd
+        - Geological_Survey_Appraisal_of_the_Cowgitz_Coal.qmd
+        - Geological_Setting_of_the_Cowgitz_Coal.qmd
         
     - part: "**Appendices**"
       chapters:
