@@ -2,7 +2,8 @@ Mifflin W. Gibbs
 (April 17th 1823 – July 11th 1915).
 His sojourn at the Cowgitz Mine in 1869.
 
-Image of Gibbs
+IMAGE OF GIBBS
+![Miflin Wistar Gibbs: portrait in his autobiography "Shadow and Light".](img/image0XX.png){#fig-0XX}
 
 Mifflin Wistar Gibbs is recognised as the first Black politician in British Columbia. He was elected in November 1866 to Victoria City Council representing the James Bay District, a post he held until 1869.
 
@@ -88,15 +89,12 @@ Did this happen? It appears not....
 As per Thomas Russell’s diary, and reported in the newspaper, the Lulu carried coal from the mine to San Francisco in February 1871
 
  IMAGE OF NEWSPAPER ARTICLE
-
-Victoria Daily Standard Tuesday February 14th 1871 page 3
-
+ ![Victoria Daily Standard Tuesday February 14th 1871 page 3.](img/image0XX.png){#fig-0XX}
 
 An newspaper article two days later indicates that was the first cargo of anthracitic coal emenating from the Pacific side of North America.
 
  NESWPAPER ARTICLE
-
-Victoria Daily Standard Thursday February 16th 1871 page 3
+ ![Victoria Daily Standard Thursday February 16th 1871 page 3.](img/image0XX.png){#fig-0XX}
 
 One thing that Gibbs and Russell did have in common was a life threatening canoe trip.
 
