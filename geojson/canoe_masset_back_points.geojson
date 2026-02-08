@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "canoe_masset_back_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "24/25/26/27th April", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -131.7834463277824, 54.073805331982321, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "3rd May", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -132.243414629845688, 53.207110148955408, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "2nd May", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -131.990527312536699, 53.264813401514672, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "30th April / 1st May", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -131.723505731981902, 53.956858172099118, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "28th/29th April", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -131.673966963454205, 54.090976754962867, 0.0 ] } }
+]
+}

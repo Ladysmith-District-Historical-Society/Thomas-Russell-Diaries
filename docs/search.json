@@ -2878,7 +2878,18 @@
     "href": "maps.html",
     "title": "4  Maps",
     "section": "",
-    "text": "4.1 Map 1\nPassage of the sloop Thornton from Victoria to the Queen Charlotte islands (now called Haida Gwaii).",
+    "text": "4.1 Passage of the sloop Thornton from Victoria to the Queen Charlotte islands (now called Haida Gwaii).",
+    "crumbs": [
+      "**Background**",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Maps</span>"
+    ]
+  },
+  {
+    "objectID": "maps.html#canoe-trips",
+    "href": "maps.html#canoe-trips",
+    "title": "4  Maps",
+    "section": "4.2 Canoe Trips",
+    "text": "4.2 Canoe Trips",
     "crumbs": [
       "**Background**",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Maps</span>"

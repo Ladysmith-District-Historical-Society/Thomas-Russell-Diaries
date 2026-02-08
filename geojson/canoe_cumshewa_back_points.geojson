@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "canoe_cumshewa_back_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "16th April", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -132.243132052223189, 53.20747590632066, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "15th April camp", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -131.919272578417491, 53.235538333598392, 0.0 ] } }
+]
+}

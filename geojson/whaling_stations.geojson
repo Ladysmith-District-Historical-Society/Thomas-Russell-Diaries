@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "whaling_stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "1st Whaling Station 1866", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -123.529122980692605, 48.631061172359303, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "2nd Whaling Station 1869", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -125.0526416799011, 50.108830977749712, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "3rd Whaling Station 1870", "description": "Dawson Donaldson Douglass 3rd Whaling Station 1870", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -124.604737385978893, 49.527978494991487, 0.0 ] } }
+]
+}

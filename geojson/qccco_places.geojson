@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "qccco_places",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Cowgitz Coal Mine approx position", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -132.261174002518914, 53.214454441888883, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Wharf location", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -132.244283051555186, 53.205408009503799, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Anchor Cove", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -132.245471382350701, 53.206260014437412, 0.0 ] } }
+]
+}
