@@ -1,5 +1,9 @@
 # Volume IV {.unnumbered #sec-volume4}
 
+::: {.callout-note title="Maps"}
+For a map of canoe journey camp sites and routes discussed in Volumes III and IV see @sec-maps-canoe
+:::
+
 ## Tuesday 18th April 1871 (continued) {#sec-volume-4-18-apr}
 
 Left Hastings at 1:00 o’clock PM in a small canoe; arrived at Skidegate at 5:00 PM very wet. Engaged a large canoe and three Indians to go with us. Wet all night slept very badly.

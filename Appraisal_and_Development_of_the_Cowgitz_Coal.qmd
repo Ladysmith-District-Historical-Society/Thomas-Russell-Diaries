@@ -2,13 +2,68 @@
 
 ## Early Appraisal of the Cowgitz Coal Deposit {#sec-early-appraisal}
 
-William Downie, in his 1859 report to Governor Douglas on results of prospecting in the Queen Charlotte’s, commented about the similarity of the coal-bearing rock in [Skidegate](https://maps.app.goo.gl/iPynuW5MdpAwdts39) to that of the then rapidly developing coal mines at [Nanaimo](https://maps.app.goo.gl/BXoXvZc5pA6c7sKZ8). This may have been what piqued the interest of a group of Victoria investors who, in 1864, sent a party of coal miners to [Skidegate](https://maps.app.goo.gl/iPynuW5MdpAwdts39) from Victoria to assess the deposit.
+William Downie, in his 1859 report to Governor Douglas on results of prospecting in the Queen Charlotte islands, commented about the similarity of the coal-bearing rock in [Skidegate](https://maps.app.goo.gl/iPynuW5MdpAwdts39) to that of the then rapidly developing coal mines at [Nanaimo](https://maps.app.goo.gl/BXoXvZc5pA6c7sKZ8). This may have been what piqued the interest of a group of Victoria investors who, in 1864, sent a party of coal miners to [Skidegate](https://maps.app.goo.gl/iPynuW5MdpAwdts39) from Victoria to assess the deposit.
 
 This first expedition met with difficulties and delays en route—taking six weeks to make the trip, having left Victoria on August 1st, 1864, and arriving at [Skidegate](https://maps.app.goo.gl/iPynuW5MdpAwdts39) on September 15th. They found outcropping coal on September 17th, but due to their supplies being nearly exhausted, were forced to depart for Victoria on September 18th without having conducted a proper assessment. They did, however, obtain  
 
 > “satisfactory proof that there was a seam of Anthracite some four feet six inches in thickness.”
 
 Faced with this “imperfect,” but encouraging information, the *Queen Charlotte Coal Mining Company “Limited”* (QCCCo) was registered on June 5th, 1865. On July 6th, a call to shareholders was made for funds to underwrite a second expedition to [Skidegate](https://maps.app.goo.gl/iPynuW5MdpAwdts39), which George Robinson—formerly superintendent of coal mines at Nanaimo, and subsequently a well-known photographer—was hired to lead. Robinson was also a “significant” shareholder in the company.
+
+### QCCCO Operational Locations
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(leaflet)
+library(sf)
+library(dplyr)
+
+qcco <- st_read("geojson/qccco_places.geojson", quiet = TRUE) %>%
+  select(Name) %>%
+  st_transform(4326) %>%
+  st_zm(drop = TRUE, what = "ZM")
+
+
+# 3) Leaflet map
+m <- leaflet(options = leafletOptions(preferCanvas = TRUE)) %>%
+  # Base groups
+  addTiles(group = "OSM (default)") %>%
+  addProviderTiles(providers$CartoDB.Positron, group = "Positron (minimal)") %>%
+  addProviderTiles(providers$Esri.WorldImagery, group = "World Imagery (satellite)") %>%
+  addCircleMarkers(
+  data = qcco,
+  group = "QCCCO Places",
+  radius = 5,
+  stroke = TRUE,
+  color = "black",     # outline colour
+  weight = 1,          # thin line
+  fillColor = "#bc5090",
+  fillOpacity = 0.8,
+  popup = ~Name,
+  label = ~Name
+  ) %>%
+  addLayersControl(
+    baseGroups = c("OSM (default)", "Positron (minimal)", "World Imagery (satellite)"),
+    overlayGroups = c("QCCCO Places"),
+    options = list(collapsed = FALSE)
+  )
+
+legend_html <- "
+<div style='background: white; padding: 5px; border-radius: 4px'>
+<b>Legend</b><br>
+ QCCCO Places</div>
+<div><svg width='12' height='12'>
+<circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#58508d'/></svg>
+"
+
+m <- m %>%
+  addControl(legend_html, position = "bottomleft")
+
+m
+
+
+```
 
 ### Contemporary Newspaper Coverage {#sec-newspaper-coverage}
 
@@ -104,9 +159,9 @@ The 31-man party, with six months’ provisions and supplies, two yoke of oxen, 
 
 The workmen were contracted for five months, with an additional month if required, it being anticipated that by that time the mine would be opened and the works completed for the delivery of coal. In order to raise funds to cover expenses, a call was put out that Class A shareholders pay four shillings per share.
 
-## Contemporary Reporting on Early Mine Development {#sec-contemporary-reporting}
-
 ![*Victoria Daily Chronicle*, November 30th, 1865, page 1](img/image025.png){#fig-025}
+
+## Contemporary Reporting on Early Mine Development {#sec-contemporary-reporting}
 
 An article in the *Victoria Daily Chronicle*, shown below, comprehensively describes the work commenced upon arrival of the schooners at [Skidegate](https://maps.app.goo.gl/iPynuW5MdpAwdts39) on October 26th, 1865.
 
@@ -140,7 +195,7 @@ Landale’s 1867 inspection report, accompanied by a map (see below), was very c
 
 The principal deposit appears to have been an outcropping of good hard anthracite west of [Hoopers Creek]() (NEED LINK), variably referred to as the “6 foot seam” or King’s coal or vein.
 
-His report states:
+Landale's report states:
 
 > “A great deal of very expensive prospecting has been done but generally in most injudicious places, and all the works for mere exploration are much too good.”
 
@@ -166,7 +221,7 @@ Landale noted wastage and the unnecessary purchase of expensive equipment:
 
 > “Tons of wood are lying rotting in different parts of the bush..... and many things purchased not by any means requisite for a young coal work, to wit iron scuttles such as are used in Staffordshire for handline iron ore, and as Mr. King informs me a lot of smoothing irons.”
 
-### Recommendations for Mine Cars {#sec-mine-cars}
+### Recommendations for Coal Cars {#sec-mine-cars}
 
 ![Illustration in Landale’s 1867 report showing the recommended type of coal car to be used.](img/image031.png){#fig-031}
 
@@ -218,7 +273,7 @@ He further reported:
 
 ### Summary and Outlook {#sec-summary-outlook}
 
-He forecast in excess of 100,000 tons of mineable coal in two of the three seams recognised and summed up his report by stating:
+Landale forecast in excess of 100,000 tons of mineable coal in two of the three seams recognised and summed up his report by stating:
 
 > “The Queen Charlotte Coal Co possesses a property containing 6000 acres in which three veins of Anthracite are found, and it is now in a condition to make returns, various proofs costing large sums of money have been made, which proofs have turned out well for the slight depth on the vein at which they are made. A substantial Tramway has been built, with a large and strong shute, and a sufficient wharf is in progress of completion. A store and several houses, outhouses, Blacksmith and other shops are already on the ground, as well as waggons and mules.  
 
@@ -231,3 +286,21 @@ No activity report was found for 1870. The departing Superintendent, Mr. Branch,
 From October 1870 the continuing story of the development of the mine is taken up by Thomas Russell. As his diary attests, on his arrival he found the works in a poor state and came to question the integrity of those who preceded him. Some of the mined coal had been transported on the completed tramway to the newly constructed wharf, but it had not been properly sorted from slack, requiring time-consuming work to clean it, which resulted in slow progress and a significant reduction in saleable tonnage. The tramway was poorly constructed and in need of partial rebuilding, the mining was problematic, and the workforce of doubtful quality.
 
 ![Entrance to Cowgitz Coal Mine, Queen Charlotte Islands in 1902, 31 years after abandonment. Source: British Columbia Archives Visual Records Collection Reference Code B-03794 Photographer and circumstances not recorded.](img/image063.png){#fig-063}
+
+## References
+
+Landale, J. J. 1867. Report on the Coal property and Works of the Queen Charlotte Coal Mining Company on Queen Charlottes Island.in B.C. Archives B.C. Archives File MS-0314.1.William Henry Langley Fonds PR-0625.
+
+Landale, J.J. 1867. Plan of Hooper and Robinson Creeks Queen Charlotte Coal Company. B.C. Archives File CM/A218. William Henry Langley Fonds PR-0625.
+
+Landale, J. 1868. Report on the operations of the Queen Charlotte Coal Company on Queen Charlotte's Island and the proposed Tramway. B.C. Archives File MS-0314.2.3.William Henry Langley Fonds PR-0625.  
+
+Landale, J. 1869. Report on the mines and works on the Property of the Queen Charlotte Coal Mining Company Limited. B.C. Archives File MS-0314.2.2. William Henry Langley Fonds PR-0625.
+
+Mineral Resources Branch, Department of Energy, Mines and Resources, Ottawa. Property File: Cowgitz. British Columbia NTS Area F/1
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cmscontent.nrs.gov.bc.ca/geoscience/PropertyFile/NMI/103F1_Col2.pdf
+
+Prospectus and Report with Articles of Association of the Queen Charlotte Coal Mining Company, "Limited". 1865.
+https://www.canadiana.ca/view/oocihm.17781/7
+
+Stock Certificate Queen Charlotte Coal Mining Company. B.C. Archives Item I-82179.

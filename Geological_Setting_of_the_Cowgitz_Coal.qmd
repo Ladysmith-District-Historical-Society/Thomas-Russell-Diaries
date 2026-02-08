@@ -1,7 +1,7 @@
 # Geological Setting of the Cowgitz Coal Deposit {#sec-geological-setting-of-cowgitz-coal}
 
 ## Regional Setting
-The Earth’s crust is composed of a number of ‘plates’ that move against each other through time. Haida Gwaii (previously called The Queen Charlotte islands) is situated at the boundary between the North America Continental Plate and the Pacific Oceanic Plate. 
+The Earth’s crust is composed of a number of ‘plates’ that move against each other through time. Haida Gwaii (previously called The Queen Charlotte Islands) is situated at the boundary between the North America Continental Plate and the Pacific Oceanic Plate. 
 
 ![Tectonic setting of Haida Gwaii showing its location at the boundary between the  Pacific and North America plates marked by the Queen Charlotte fault (QCF) and Cascadia subduction zone (CSZ). Modified from Leonard and Bednarski 2015 Figure 1.](img/image034.png){#fig-034}
 
@@ -45,6 +45,7 @@ The original depositional continuity of the coals is not known: assessment of th
 The fact that the Cowgitz coal is anthracitic significantly increased its perceived value. For a coal to become anthracite it must be  subjected to pressure and heating. This heat was apparently provided during intrusion of Masset Formation dykes and associated volcanism. The spine of the peninsula immediately to the west of the Cowgitz mine is made up of a dyke of diorite which intruded through the Cretaceous succession and fed the surface volcanics of the Masset Formation which overlie it.
 
 Sutherland Brown (1968) states 
+
 > “The Cowgitz coal is apparently adjacent to the very large dyke of Masset Formation in the centre of the peninsula, and the contact has been the locus of later faulting.”
 
 Dawson (1880)  and Ells (1906)  interpreted the igneous rocks to the west of the coal as being stratigraphically older than the coals – whereas Sutherland Brown (1968) interpreted them to be a large intrusive dyke of Tertiary age belonging to the Masset Formation.  
@@ -54,3 +55,14 @@ Ells (1906 p. 29) attributed the anthracite to heat and pressure resulting from 
 > “The coal is in close proximity to the underlying igneous rocks which extend thence westward to the west side of the island. The rocks at the mine containing the coal are much broken up and crushed, and the original lignite of the formation has been converted to the variety of anthracite there found. This is due to heat induced by pressure of the shales and sandstones against the pre-Cretaceous igneous mass at the back. In fact, so great has been the crushing strain at this place that much of the coal, when mined, is found in the form of powder, and is quite useless for economic purposes, while, as in other outcrops on the island, the coal and black shale are so closely mixed that separation is almost impossible.” 
 
 According to Sutherland Brown the heat of the Tertiary  intrusion would have contributed to the anthracitisation of the Cretaceous coal.
+
+## References
+
+Dawson, G.M. 1880. Queen Charlotte Islands. Geological Survey of Canada Report of Progress 1878-1879. 
+Ells, R.W. 1906. Report on Graham Island British Columbia. Canada Department of Mines Geological Survey Branch Annual Report, New Series Volume 16 1904 Pt B. 
+Reprint accessible at: https://unbc.arcabc.ca/books/196
+
+Hyndman , R.D. 2015 Tectonics and Structure of the Queen Charlotte Fault Zone, Haida Gwaii, and Large Thrust Earthquakes.  Bulletin of the Seismological Society of America, Vol. 105, No. 2b, pp.
+Leonard, L.J.  and Bednarski. J.M.  2015 The Preservation Potential of Coastal Coseismic and Tsunami Evidence Observed Following the 2012 Mw 7.8 Haida Gwaii Thrust Earthquake. Bulletin of the Seismological Society of America (2015) 105 (2B): 1280–1289
+
+Sutherland Brown, A. 1968. Geology of the Queen Charlotte Islands British Columbia. British Columbia Department of Mines and Petroleum resources Bulletin No. 54. 226pp. 

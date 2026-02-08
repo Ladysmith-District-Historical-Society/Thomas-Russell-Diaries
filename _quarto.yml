@@ -3,16 +3,16 @@ project:
   output-dir: docs
 
 book:
-  title: "The Remarkable Diary of Thomas Russell while at Skidegate Inlet, Queen Charlotte islands (Haida Gwaii) September 1870 – May 1871."
+  title: "The Remarkable Diary of Thomas Russell while at Skidegate Inlet, Queen Charlotte Islands (Haida Gwaii) September 1870 – May 1871."
   author:
     - name: "Quentin Goodbody"
       affiliation: "Ladysmith Historical Society"
   date: "2025-12-25"
 
   description: >
-    A transcribed and annotated edition of the diaries of Thomas Russell,
-    documenting coal mining operations, labour, and colonial enterprise
-    in the Queen Charlotte Islands during the late nineteenth century.
+    A transcribed and annotated edition of the diary of Thomas Russell, which
+    documents coal mining operations and interactions with the Haida First Nation
+    in the Queen Charlotte Islands (Haida Gwaii) during the late nineteenth century.
 
   cover-image: img/logo.jpg
 
@@ -26,7 +26,7 @@ book:
   chapters:
     - index.qmd
 
-    - part: "**Diaries**"
+    - part: "**Diary**"
       chapters:
         - diary_Volume_1.qmd
         - diary_Volume_2.qmd
@@ -38,7 +38,6 @@ book:
         - Thomas_Russell_and_Family.qmd
         - Discovery_of_Coal_at_Skidegate_Inlet.qmd
         - Appraisal_and_Development_of_the_Cowgitz_Coal.qmd
-        - maps.qmd
         
     - part: "**Geology**"
       chapters:
@@ -58,6 +57,7 @@ book:
       - Mifflin_Wistar_Gibbs.qmd
       - Chinook_Jargon.qmd
       - Origin_of_the_name_Cowgitz.qmd
+      - maps.qmd
 
 website: 
   favicon: img/logo.jpg
@@ -65,8 +65,6 @@ website:
 site-url: https://www.ladysmithhistoricalsociety.ca/
 
 number-depth: 2
-
-bibliography: references.bib
 
 format:
   html:

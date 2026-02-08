@@ -50,11 +50,11 @@ Volume 4 is a notebook of different make and size with a light brown faux leathe
 
 The diary volumes have been scanned and deposited in the Saanich Archives as an addition to significant Russell Family Fonds already there.
 
-![Formal intake of Thomas Russell’s diaries to the Saanich Archives, May 27th 2025. Left to right: Kerry Parker (cousin to Michael Gould), Kaetlen Bursey (Saanich Archives Supervisor), Michael Gould (donor and great great grandson of Thomas Russell).](img/image004.jpg){#fig-004}
+![Formal intake of Thomas Russell’s diary to the Saanich Archives, May 27th 2025. Left to right: Kerry Parker (cousin to Michael Gould), Kaetlen Bursey (Saanich Archives Supervisor), Michael Gould (donor and great great grandson of Thomas Russell).](img/image004.jpg){#fig-004}
 
 ## Previous publications about the Diary
 
-The Michael family, to who the diaries had been passed, must have loaned them to a reporter in early 1914 as a précis of them was published as a substantial article in the Victoria Daily Times Saturday July 25th 1914 page 11 under the heading 'Mining Coal in the Queen Charlottes Forty Years Ago; An unusual Record: Interesting Reminiscences Gleaned from Diaries of late Thos. Russell, former City Assessor, Victoria.'
+The Michael family, to who the diary had been passed, must have loaned them to a reporter in early 1914 as a précis of them was published as a substantial article in the Victoria Daily Times Saturday July 25th 1914 page 11 under the heading 'Mining Coal in the Queen Charlottes Forty Years Ago; An unusual Record: Interesting Reminiscences Gleaned from Diaries of late Thos. Russell, former City Assessor, Victoria.'
 
 This article was republished as a three part series August 8th (see @fig-005), 15th (see @fig-006) and 22nd (see @fig-007) on page 7 in The Queen Charlotte Islander which styled itself as _‘A Weekly Newspaper Published in the interests of the Settlers, and to promote the development of the Queen Charlotte Islands’_. 
 
@@ -67,3 +67,9 @@ This article was republished as a three part series August 8th (see @fig-005), 1
 
 ## Acknowledgements {#sec-acknowledgements}
 
+* Michael Gould
+* Kerry Parker
+* Saanich Archives Kaetlen Bursey and Kimberley XXXX
+* Ross Bay Cemetery Groundskeeper
+* BC Archives
+* Craigflower Manor Jillan Valpy (Craigflower manor guide), Karie McEvoy (BC Heritage Stewardship Officer)

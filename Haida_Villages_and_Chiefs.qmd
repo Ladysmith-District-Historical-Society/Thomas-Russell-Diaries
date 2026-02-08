@@ -5,9 +5,62 @@
 Thomas Russell’s arrival at Skidegate Inlet in 1870 occurred at the tail end of a time of significant and rapid change for the local Haida population. The Queen Charlotte Island Gold Rush of 1851-53 had prompted relocation of at least some of the villagers of Chaatl to the discovery site at what became known as Gold Harbour as they wished to take advantage of the activities there. Successive pandemics during the 1860s inflicted a severe reduction in the native population. This, coupled with a decline in fur trading activity, prompted consolidation and relocation of traditional villages on the west side of the islands to the Skidegate Inlet area during the late 1860s to be closer to their remaining relatives there. 
 
 In consequence, it appears that Thomas Russell met with a larger number of chiefs than could normally have been expected. He also encountered a changing cultural landscape with holdovers from the fur trading era and pressures from whiskey bootlegging by unscrupulous ship owners and traders. 
- 
 
-![Haida villages in the vicinity of Skidegate Inlet of relevance to and/or mentioned in the diaries.](img/image042.png){#fig-042}
+### Haida villages in the vicinity of Skidegate Inlet of relevance to and/or mentioned in the diary
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(leaflet)
+library(sf)
+library(dplyr)
+
+haida_villages <- st_read("geojson/haida_villages.geojson", quiet = TRUE) %>%
+  select(Name) %>%
+  st_transform(4326) %>%
+  st_zm(drop = TRUE, what = "ZM")
+
+# 3) Leaflet map
+m <- leaflet(options = leafletOptions(preferCanvas = TRUE)) %>%
+  # Base groups
+  addTiles(group = "OSM (default)") %>%
+  addProviderTiles(providers$CartoDB.Positron, group = "Positron (minimal)") %>%
+  addProviderTiles(providers$Esri.WorldImagery, group = "World Imagery (satellite)") %>%
+  addCircleMarkers(
+    data = haida_villages,
+    group = "Haida Villages",
+    radius = 5,
+    stroke = TRUE,
+    color = "black",     # outline colour
+    weight = 1,          # thin line
+    fillColor = "#2f4b7c",
+    fillOpacity = 0.8,
+    popup = ~Name,
+    label = ~Name
+    ) %>%
+  addLayersControl(
+    baseGroups = c("OSM (default)", "Positron (minimal)", "World Imagery (satellite)"),
+    overlayGroups = c("Haida Villages"),
+    options = list(collapsed = FALSE)
+  )
+
+legend_html <- "
+<div style='background: white; padding: 5px; border-radius: 4px'>
+<b>Legend</b><br>
+<div><svg width='12' height='12'>
+<circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#2f4b7c'/></svg>
+ Haida Villages</div>
+</div>
+"
+
+m <- m %>%
+  addControl(legend_html, position = "bottomleft")
+
+m
+
+
+```
 
 The inhabitants of the various Haida villages were inter-related. The village of Chaatl on the northern shore of Buck Channel on west side of Moresby Island was founded by families of the Raven and Eagle moieties from a long-abandoned village known as "Pebble Town", at Second Beach near Skidegate. In the 1850s Chaatl had a prominent chief with the personal name Wadatstaia: the chieftainship was accompanied by the traditional name ‘Nankilstas’ (“he whose voice must be obeyed”).
 
@@ -77,4 +130,23 @@ Thomas Russell’s diary notes that 22nd/23rd April 1871 he slept in the house o
 ![Chief Weah’s Big (Monster) House in Old Massett photographed by Edward Dossetter ca.1881. [Facebook Link 1](https://www.facebook.com/groups/396904978454/posts/10164347583568455/) [Facebook Link 2](https://www.facebook.com/groups/995622414789339/posts/1359264008425176/)](img/image064.jpg){#fig-064}
 
 ![The interior of Chief Wiah’s longhouse in Masset, Haida Gwaii, photo by Richard Maynard in 1884 (one of a stereoscopic pair). [Link](https://atom.moa.ubc.ca/index.php/house-of-chief-wiah-massett)](img/image065.jpg){#fig-065}
+
+## References
+
+https://en.wikipedia.org/wiki/Chaatl
+
+https://en.wikipedia.org/wiki/Cumshewa,_British_Columbia
+
+https://en.wikipedia.org/wiki/Haina_(Haida_village)
+
+https://en.wikipedia.org/wiki/Kaisun_(Haida_village)
+
+https://en.wikipedia.org/wiki/Old_Massett
+
+http://massetbc.com/visitors/old-massett/
+
+https://en.wikipedia.org/wiki/Skidegate
+
+https://en.wikipedia.org/wiki/List_of_Haida_villages
+
 

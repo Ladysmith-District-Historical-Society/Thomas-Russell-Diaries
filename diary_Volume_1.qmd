@@ -1,4 +1,11 @@
 # Volume I {.unnumbered #sec-volume1}
+
+![Frontispiece to Volume 1 of Thomas Russell's Diary](img/cover.png){#fig-cover}
+
+::: {.callout-note title="Maps"}
+For a map of [Sloop Thornton](The_Thornton.qmd#sec-appendix-1-vessel) route discussed in Volume I see @sec-maps-thornton
+:::
+
 ## Introduction
 
 There are few readier means of attacking the testimony of a traveller than to point out that he tells improbable stories; things not perhaps physically impossible, but unfamiliar to the critic’s experience and therefore not set down by him in the catalog of likely incidents.
@@ -61,13 +68,13 @@ From this point we can see the farm and house which belonged to the poor little 
 
 ## Friday 23rd September 1870 {#sec-volume-1-23-sept}
 
-:::{.callout-tip title="Medical Explanation"} 
-See @sec-appendix-4-1-23-sept
-:::
-
 About 4:00 o’clock this morning I was awoke by someone going up the ladder, saying as he went that he had put his shoulder out of joint, but I fancy it seemed rather queer that a man with his shoulder out of joint should be talking about the affair so unconcernedly. Thinking I must have been dreaming, I turned over and fell asleep.
 
 6:00 o’clock got up, partially dressed myself and went on deck to wash when lo! and behold! there sat old Beauchamp with his shoulder out, sure enough. As a matter of course I asked him how he had met with such an accident, which happened as follows: it appears that between 3:00 and 4:00 o’clock he was getting out of bed to go on deck and in doing so struck his shoulder against a box which caused it to dislocate, but he said it was nothing - it could very easily be put in again provided anyone on board knew how. Not being skilled in such matters I handed him to the captain who tried for nearly an hour but only succeeded in giving him pain. Laiken tried next but with no better result. [Warren](The_Thornton.qmd#sec-appendix-1-owner) tried next but all to no purpose. Seeing that there would be no chance for him to get his shoulder put in on board, I told the captain to run into Nanaimo. Accordingly, we weighed anchor at 8:30 and headed for that place.
+
+:::{.callout-tip title="Medical Explanation"} 
+See @sec-appendix-4-1-23-sept
+:::
 
 It was not our intention to go to Nanaimo had everything gone right, but to have entered the Gulf of Georgia by Plumper Pass.
 
@@ -101,13 +108,13 @@ We have made more progress today than all the others put together. A few days of
 
 ## Monday 26th September 1870 {#sec-volume-1-26-sept}
 
-:::{.callout-tip title="Medical Explanation"} 
-See @sec-appendix-4-1-26-sept
-:::
-
 Came on deck at 5:30 o’clock AM. Light breeze in our favor. Comox on our port bow. 9:00 o’clock breeze gone and here we are tossing about; weary dreary work.
 
 Riely has been complaining of earache since we left, but it appears to be turning to something worse than a simple earache. It is now very much swollen behind the ear, and the pain increasing. Advised him to poultice it, which he has done, but derived no benefit therefrom. He has got some Russian salve which he is applying to the interior of the ear. I think it must be gathering, and if so, he will get no relief until it breaks.
+
+:::{.callout-tip title="Medical Explanation"} 
+See @sec-appendix-4-1-26-sept
+:::
 
 Afternoon, no wind and yet no appearance of any. Nothing worthy of note; plenty of whales but nothing else. Going early to bed tonight.
 
@@ -343,7 +350,7 @@ On the lower tramway from the shute end of the first bridge is very dangerous. O
 
 Have been writing letters all afternoon. The sloop leaves tomorrow. I should like the place much better was it not so wet.
 
-The Indians appear to be very friendly, but awful thieves I am told. Captain Gold, a chief of a portion of the Gold Harbour Tribe, presented himself today and nearly bored me to death. He is a big rascal or I am very much deceived. He is just the sort of man you might take and hang upon his looks. He says his wife is a queen: Mr. Trounce told him that he was a king and of course Mrs. Gold must be a queen. He does not take it amiss if you address her as Mrs. Gold, but is very indignant if you call her a Klootchman. But she is only a Klootchman nevertheless, and he is a Siwash to my mind in the true sense of the word.
+The Indians appear to be very friendly, but awful thieves I am told. Captain Gold, a chief of a portion of the Gold Harbour Tribe, presented himself today and nearly bored me to death. He is a big rascal or I am very much deceived. He is just the sort of man you might take and hang upon his looks. He says his wife is a queen: Mr. Trounce told him that he was a king and of course Mrs. Gold must be a queen. He does not take it amiss if you address her as Mrs. Gold, but is very indignant if you call her a @sec-appendix-klootchman. But she is only a Klootchman nevertheless, and he is a Siwash to my mind in the true sense of the word.
 
 ## Thursday 13th October 1870
 
@@ -357,10 +364,6 @@ The timber is very indifferent. There does not appear to be any strength or last
 
 ## Friday 14th October 1870 {#sec-volume-1-14-oct}
 
-:::{.callout-tip title="Medical Explanation"} 
-See @sec-appendix-4-1-14-oct
-:::
-
 This has been a warm day but showery.
 
 Finished cleaning the coal on wharf about 10:00 o’clock AM. Sent Laiken and Beardsell up with the car to bring down coal from the shute. I gave Laiken charge of the car as he has been accustomed to such work, at the same time telling him where to brake it and to pull on the handle of the brake when he came to the curve at the end of the bridge so as to ease her round. He sneered at the idea of me telling him how to work a road of that sort. He said he had worked too many roads to require instruction as to how this one ought to be worked. I simply told him that I was very glad he was so competent. Consequently, they jumped into the car and drove up.
@@ -370,6 +373,10 @@ After a lapse of 30 minutes I began to fear that something had gone wrong and ha
 When I arrived at the place where the accident occurred I was greatly relieved to find that he was not killed. Beardsell had been bathing his face with water and had got him round. I administered a little weak brandy and water, which revived him considerably. I next examined his wounds, and found his skull badly fractured on the left side. There were two cuts about two inches long running at right angles and crossing each other. His left shoulder was badly bruised. I was afraid that the arm was broken, but that I could not tell until we had him undressed. We got him home as quick as possible.
 
 I cut the hair from the wounded parts of his head, washed the sand out of the cuts and then applied a piece of lint saturated with tincture of Arnica. I had great difficulty in stopping the bleeding; by 5:00 o’clock however the bleeding had ceased entirely and at 8:00 o’clock I saturated the lint again with Arnica, this I did from the outside without removing it. His shoulder I bathed well with painkiller which seemed to remove the pain. His arm was all right.
+
+:::{.callout-tip title="Medical Explanation"} 
+See @sec-appendix-4-1-14-oct
+:::
 
 Unfortunate as this accident has been, I feel truly thankful that he was not killed. How he escaped is more than I can tell. Beardsell who was on the car with him did not see how it occurred; he only saw that he was gone from the car. He immediately jumped onto the brake and brought the car up as soon as possible, but which he could not accomplish until he reached the flat, a distance of about 600 yards from where the accident happened. He immediately repaired to the spot and found Laiken lying insensible and to all appearance dead.
 
@@ -381,11 +388,11 @@ Beardsell said he was not afraid to run the car provided I would go with him and
 
 ## Saturday 15th October 1870 {#sec-volume-1-15-oct}
 
+This has been a charming day. Mount Seymour looked beautiful under the first rays of the rising sun. Laiken is rather feverish today; administered a light aperient.
+
 :::{.callout-tip title="Medical Explanation"} 
 See @sec-appendix-4-1-15-oct
 :::
-
-This has been a charming day. Mount Seymour looked beautiful under the first rays of the rising sun. Laiken is rather feverish today; administered a light aperient.
 
 I have been running the car along with Beardsell all day and although we only took down 7 cars yet we had no accident of any kind. The brakes however are very inefficient, having very little power in wet or frosty weather.
 
@@ -403,15 +410,15 @@ I have been very lonely today. These Sabbaths only tend to remind me of home and
 
 ## Monday 17th October 1870 {#sec-volume-1-17-oct}
 
-:::{.callout-tip title="Medical Explanation"} 
-See @sec-appendix-4-1-17-oct
-:::
-
 This has been a beautiful day, but threatening rain tonight.
 
 Have been running the car all day. Beardsell says he has now confidence to run it alone and will begin tomorrow to do so. I am very glad as my presence is required on the wharf amongst the coal cleaners.
 
 Laiken is doing very well; his shoulder is much better but complains of a giddiness in his head. Riely's ear is no better; he has been applying hot poultices which has brought a great deal of matter out of it.
+
+:::{.callout-tip title="Medical Explanation"} 
+See @sec-appendix-4-1-17-oct
+:::
 
 I don't sleep well at nights; usually wake up three or four times and don't keep warm. My bunk is against the outer wall, and the foot of it alongside of a window. When I get a little spare time, I will make a new one against the partition.
 
@@ -511,7 +518,7 @@ It has been very frosty all day, but is thawing a little tonight.
 
 Only got down four cars today: the rails were like glass all morning, rendering it quite impossible to run the cars over them with anything like command.
 
-I know this will be very dry reading, but there is really nothing to record; Siwashes and trees and trees and Siwashes are all we see day after day and my own feelings are too gloomy to put on paper.
+I know this will be very dry reading, but there is really nothing to record; @sec-appendix-siwash and trees and trees and Siwashes are all we see day after day and my own feelings are too gloomy to put on paper.
 
 ## Sunday 30th October 1870
 
@@ -578,7 +585,7 @@ Beardsell spoke to Laiken about leaving the screen in that way as it might have 
 
 We are making such slow progress in this bad weather that I intend to send Laiken and Riely into the mine tomorrow.
 
-## Tuesday 8th November 1870
+## Tuesday 8th November 1870 {#sec-appendix-1-8-11-nov}
 
 Raining all last night and all day.
 
@@ -634,7 +641,7 @@ In about 5 minutes they reappeared, dressed, the man wearing a mask which stands
 
 There was another intermission of about 5 minutes, when dancing was resumed by another Indian and kept up for an hour. After this the boys formed themselves into a square and danced for half an hour. This completed the ball part of the entertainment.
 
-Next came the feast. One peculiarity I observed in this was that neither the chief (who was giving the fête) the members of his family, the women nor the young people partook of the Muckmuck. Only the chiefs, old men, band and dancers.
+Next came the feast. One peculiarity I observed in this was that neither the chief (who was giving the fête) the members of his family, the women nor the young people partook of the @sec-appendix-muckmuck. Only the chiefs, old men, band and dancers.
 
 The first course was boiled potatoes straight. Captain Gold, being the greatest chief present, was served first and with the greater quantity; his dish was a wash hand basin. Then the other chiefs, old men etc.; the vessels chiefly used at this feast were wash hand basins and chambers.
 
@@ -764,7 +771,7 @@ Showery all day.
 
 Had a call from Captain Gold and his Queen. He is a great boor; he is eternally begging for something or other and blowing his own trumpet. He maintains that he is the rightful owner of the lands held by the Company and that he was paid the least of all the chiefs. He therefore says he has still a claim upon the Company. I asked him to allow me to examine his papers again, which he did.
 
-He has a paper from Mr. Robinson (who settled the Indians claim for the Company) which clearly shows that he had no claim upon the lands whatever. Robinson's assertion is based upon information received from the other chiefs, consequently it must be correct. I explained this to him and told him that the Company had given him 15 blankets and a cultaz potlatch, because he was a minor chief. He asked me if such was the tenure of the paper given him by Robinson. I told him it was, upon which information he became quite furious, and threatened to burn it. He said the other Indians were liars and no better than dogs, but that he was the same as a white man; he would not steal nor lie.
+He has a paper from Mr. Robinson (who settled the Indians claim for the Company) which clearly shows that he had no claim upon the lands whatever. Robinson's assertion is based upon information received from the other chiefs, consequently it must be correct. I explained this to him and told him that the Company had given him 15 blankets and a @sec-appendix-cultaz-potlatch, because he was a minor chief. He asked me if such was the tenure of the paper given him by Robinson. I told him it was, upon which information he became quite furious, and threatened to burn it. He said the other Indians were liars and no better than dogs, but that he was the same as a white man; he would not steal nor lie.
 
 Now in my opinion Indians have no veracity and as to thieving, a red hot stove would not be too heavy for Captain Gold. I did not tell him this however, but simply that if there was any mistake, it did not rest with Mr. Robinson or the Company but with the Indians.
 

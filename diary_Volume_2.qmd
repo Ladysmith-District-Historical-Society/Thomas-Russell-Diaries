@@ -8,23 +8,24 @@ editor:
 
 ## Monday 28th of November 1870 (continued) {#sec-volume-2-28-nov}
 
-The following is a copy of a paper given by me to Captain Gold.
-
-The bearer Captain Gold (a native of Gold Harbour and chief of a portion of that Tribe) is a most unmitigated rascal; he is eternally on the “make”, and continually seeking to allure the unwary into the belief, that he is a great chief, and of a most kindly disposition.
-The King George Men \[as he terms the whites\] he asserts are his friends, and that he will always guard them against danger from other Indians.
-The scoundrel does this in order to enlist the sympathies of those who don't know him, and to wring out of you all that he can.
-You may then go to the devil for aught that he cares, until his unsatiable thirst for begging prompts him to return, when he will attempt to twist that cut-throat countenance of his into (what he thinks) the semblance of the very essence of purity, but Ah!
-Beware!
-for he is an oily dog.
-He takes a great pride in presenting his papers to all newcomers, and at such times puts on a most majestic air and expects you to pull off your coat and give it to him, for the good character he bears through the medium of these papers.
-Since it has been customary upon such occasions to acknowledge his good qualities by a potlatch, give him a “quid” of tobacco; at the same time impress him very forcibly that you give it to him not because he requires it, but simply because he is such a good man (“over the left”).
-In speaking to him of his worthy spouse, you must be very careful not to hurt his dignity by calling her a Klootchman; it appears that someone has impressed him with the idea that he is a King, and of course as a necessary consequence his wife is a Queen; you must therefore make mention of her as his wife or Queen Gold!!!
-Thomas Russell Superintendent Queen Charlotte Coal Mining Company P.S. I have unwittingly been very remiss.
+>The following is a copy of a paper given by me to Captain Gold.
+>
+>The bearer Captain Gold (a native of Gold Harbour and chief of a portion of that Tribe) is a most unmitigated rascal; he is eternally on the “make”, and continually seeking to allure the unwary into the belief, that he is a great chief, and of a most kindly disposition.
+>
+>The King George Men (as he terms the whites) he asserts are his friends, and that he will always guard them against danger from other Indians. The scoundrel does this in order to enlist the sympathies of those who don't know him, and to wring out of you all that he can.
+>
+>You may then go to the devil for aught that he cares, until his unsatiable thirst for begging prompts him to return, when he will attempt to twist that cut-throat countenance of his into (what he thinks) the semblance of the very essence of purity, but Ah! Beware! for he is an oily dog. He takes a great pride in presenting his papers to all newcomers, and at such times puts on a most majestic air and expects you to pull off your coat and give it to him, for the good character he bears through the medium of these papers.
+>
+>Since it has been customary upon such occasions to acknowledge his good qualities by a potlatch, give him a “quid” of tobacco; at the same time impress him very forcibly that you give it to him not because he requires it, but simply because he is such a good man (“over the left”).
+>
+>In speaking to him of his worthy spouse, you must be very careful not to hurt his dignity by calling her a Klootchman; it appears that someone has impressed him with the idea that he is a King, and of course as a necessary consequence his wife is a Queen; you must therefore make mention of her as his wife or Queen Gold!!!
+>
+>Thomas Russell Superintendent Queen Charlotte Coal Mining Company P.S. I have unwittingly been very remiss.
 Amongst the Captain’s good qualities there is one which I have omitted viz; that he is not by any means a thief: he only appropriates for his own use anything that he can lay his hands upon.
-He does this in a very delicate manner, always taking great care that he is not observed by the other Indians.
-He will tell you that he is not the same as other Indians, that is to say he does not lie nor steal \[what a liar!\]
-not even prowl about at night, but he boldly asserts that the other Indians are like dogs, continually prowling about at night to see what they can pick up.
-TR
+>
+>He does this in a very delicate manner, always taking great care that he is not observed by the other Indians. He will tell you that he is not the same as other Indians, that is to say he does not lie nor steal (what a liar!) not even prowl about at night, but he boldly asserts that the other Indians are like dogs, continually prowling about at night to see what they can pick up.
+>
+> \- TR
 
 ## Tuesday 29th of November 1870 {#sec-volume-2-29-nov}
 
@@ -105,6 +106,10 @@ I was perfectly horrified when I looked at it; it is almost rotten from the hip 
 Gave her a piece of Castille soap, told her to wash it three times a day, also some Friars Balsam to dress it with.
 I find that a great many of the Indians are afflicted in this way: one man in particular, his neck is in such a state that you would not be surprised if his head tumbled off some day.
 
+:::{.callout-tip title="Medical Explanation"} 
+See @sec-appendix-4-2-4-dec
+:::
+
 ## Monday 5th of December 1870 {#sec-volume-2-5-dec}
 
 Raining all morning, had quite a snowstorm this afternoon.
@@ -133,35 +138,38 @@ Finished road and made a great job of it, but it will never be secure until the 
 
 ## Thursday 8th December 1870 {#sec-volume-2-8-dec}
 
-Showery today, very mild.
-Measured the mine today, but could not ascertain the depth of the air shaft.
-This shaft is put in in rather a peculiar way.
-It is sunk perpendicular to a distance of 30 feet from the surface, then it has an incline (but the length of this, I cannot say, it is very insecurely timbered the miners were afraid to walk up it) then it runs perpendicular again to the tunnel.
-The amount of ground worked by Robinson and Branch is as follows.
-Reckoning the average width of the seam of coal to be two feet 6 inches
+Showery today, very mild. 
 
-Length Depth Thickness Cubic feet 84 feet 45 feet 2 1/2 feet 9450 58 feet 50 feet 2 1/2 feet 7250 40 feet 45 feet 2 1/2 feet 4500 32 feet 30 feet 2 1/2 feet 2400 23,600
+Measured the mine today, but could not ascertain the depth of the air shaft.
+This shaft is put in in rather a peculiar way. It is sunk perpendicular to a distance of 30 feet from the surface, then it has an incline (but the length of this, I cannot say, it is very insecurely timbered the miners were afraid to walk up it) then it runs perpendicular again to the tunnel.The amount of ground worked by Robinson and Branch is as follows. Reckoning the average width of the seam of coal to be two feet 6 inches
+
+| Length (ft) | Depth (ft) | Thickness (ft) | Cubic Feet |
+|------------:|-----------:|---------------:|-----------:|
+| 84          | 45         | 2.5            | 9,450      |
+| 58          | 50         | 2.5            | 7,250      |
+| 40          | 45         | 2.5            | 4,500      |
+| 32          | 30         | 2.5            | 2,400      |
+| **Total**   |            |                | **23,600** |
 
 Reckoning 28 cubic feet to a ton this ought to have yielded tons 843.
 From what I remember of Landale's report, I believe he stated that 500 tons of coal had been obtained in driving the tunnel.
-He could not have measured the tunnel, nor the coal taken there from, or if he did he knew nothing about such things.
-From where they struck the coal up to the present manway (which is near to where the coal runs out ) is 300 feet long, height 7 feet 6 inches, average width of seam 2 feet 9 inches, making a total of 6187 1/2 cubic feet.
-Reckoning 28 cubic feet to a ton this would have produced 221 tons of coal - not one half of Landale's estimate.
+
+He could not have measured the tunnel, nor the coal taken there from, or if he did he knew nothing about such things. From where they struck the coal up to the present manway (which is near to where the coal runs out ) is 300 feet long, height 7 feet 6 inches, average width of seam 2 feet 9 inches, making a total of 6187 1/2 cubic feet. Reckoning 28 cubic feet to a ton this would have produced 221 tons of coal - not one half of Landale's estimate.
 
 The foregoing calculations do not allow anything for waste which is very considerable.
 
 The result of these figures show that 221 tons were extracted in driving the tunnel, 843 tons by Robinson and Branch making a total of 1064 tons.
 
-The amount of coal shipped to Victoria was 300 tons: the amount of coal here at present is 350 tons making a total of 650 tons.
-Since there has been sufficient ground worked to produce 1064 tons and only 650 tons represent it this shows a deficit of 414 tonnes or in other words a loss of that amount in the shape of waste - Nearly 2/5 of the whole.
-This great waste I chiefly attribute to the coal and slate falling together in the mine and the coal being the softer substance it gets broken into small pieces.
-A great deal of it remains in the mine, and what does not come out is shoveled over the bank as it would not pay to pick it out by hand.
-Let us now look for a moment at the cost of extracting a ton of coal; The average width of ground to be worked in order to extract the coal is 6 feet, that is to say there are 2 1/2 feet of coal and 3 1/2 feet of slate between the walls (the slate in some places is very hard) and allowing 2/5 for waste, a man would require to mine 94 cubic feet, this with the help of a laborer is a good day's work.
-These figures therefore clearly show that every ton of coal costs \$5 to extract and put it in the shute in the mine.
-Then it has to be drawn from the mine and cleaned, and then run down the upper tramway to the storage shute, then from the storage shute over the lower tramway to the wharf.
+The amount of coal shipped to Victoria was 300 tons: the amount of coal here at present is 350 tons making a total of 650 tons. Since there has been sufficient ground worked to produce 1064 tons and only 650 tons represent it this shows a deficit of 414 tonnes or in other words a loss of that amount in the shape of waste - Nearly 2/5 of the whole.
+
+This great waste I chiefly attribute to the coal and slate falling together in the mine and the coal being the softer substance it gets broken into small pieces. A great deal of it remains in the mine, and what does not come out is shoveled over the bank as it would not pay to pick it out by hand.
+
+Let us now look for a moment at the cost of extracting a ton of coal; The average width of ground to be worked in order to extract the coal is 6 feet, that is to say there are 2 1/2 feet of coal and 3 1/2 feet of slate between the walls (the slate in some places is very hard) and allowing 2/5 for waste, a man would require to mine 94 cubic feet, this with the help of a laborer is a good day's work. These figures therefore clearly show that every ton of coal costs \$5 to extract and put it in the shute in the mine. Then it has to be drawn from the mine and cleaned, and then run down the upper tramway to the storage shute, then from the storage shute over the lower tramway to the wharf.
 
 I verily believe that were I to go into the minutae of the matter, a ton of coal would cost \$10 before it could be put on board ship.
+
 The Queen Charlotte Coal Mining Coy.
+
 “Limited” will declare dividends, when the Siwashes here leave off lying and stealing.
 
 It would be a waste of time to comment at large upon the parties who drove the tunnel.
@@ -204,10 +212,10 @@ Chater, and dated 9th July 1870.
 The substance of the letter was that he, Chater, had sent to Edwards by Captain Gold 8 lbs of tobacco and 10 lbs of pork.
 I asked him why he had suppressed the letter so long, and how it came into his possession.
 He said it was left at Skidegate Town for him and was not delivered to him by Chater.
-Mrs. Skidegate said that Chater had frequently told her that he intended giving Skidegate a paper of recommendation before leaving and thinking this letter was such a paper, they did not think it worth showing to me, but they had shown it at Gumshaew \[sic\] and there learned that it referred to Captain Gold.
+Mrs. Skidegate said that Chater had frequently told her that he intended giving Skidegate a paper of recommendation before leaving and thinking this letter was such a paper, they did not think it worth showing to me, but they had shown it at Gumshaew (sic) and there learned that it referred to Captain Gold.
 I called in Beardsell to see if he could give me any information with regard to the matter.
 He told me that Chater was one of the men who had gone down to Victoria last July.
-Being short of provisions here, he and other two \[sic\] engaged Captain Gold to take them to Gumshaew for provisions, and on their return, they learnt at Skidegate that the “Otter” had come for them, so they awaited her return at Skidegate.
+Being short of provisions here, he and other two (sic) engaged Captain Gold to take them to Gumshaew for provisions, and on their return, they learnt at Skidegate that the “Otter” had come for them, so they awaited her return at Skidegate.
 
 Chater had, therefore, sent Captain Gold on, and given him these articles for Edwards which Gold willing had forgot to hand over.
 My opinion is that Gold and Skidegate divided the stuff between them, and suppressed the letter.
@@ -308,7 +316,7 @@ Had to keep the rails covered with ashes until the frost got rubbed out of them.
 Laiken and one of the Chinamen had quite a rumpus.
 Laiken was running coal out of the mine and tipping it into the shed where Ah Hen was cleaning it.
 It appears there was a quantity of coal in the shed, and when Laiken tipped the car it struck the heap of coal, causing it to come back and jammed Laiken's finger between the body and frame.
-He began to curse and swear at the Chinaman to pull the coal away so as to allow the car to tip and extricate his \[finger\], but Ah Hen did not understand him and took hold of the car and pushed it back, squeezing Laiken's finger.
+He began to curse and swear at the Chinaman to pull the coal away so as to allow the car to tip and extricate his finger, but Ah Hen did not understand him and took hold of the car and pushed it back, squeezing Laiken's finger.
 This made him perfectly furious.
 He raved and swore at him like a wild beast, and afterwards threatened to strike him.
 The Chinaman does not understand much english, but a more industrious hard working man I never saw.
@@ -477,6 +485,10 @@ They had put some dirty pieces of rag on the broken places which I found a great
 Poor child, she seemed so grateful for the relief I had given her.
 Mrs. Skidegate was much relieved of pain by this time, and thanked me very warmly.
 
+:::{.callout-tip title="Medical Explanation"} 
+See @sec-appendix-4-2-29-dec
+:::
+
 Whilst I was attending to these poor wretches, one of the huts caught fire and was burned to ashes.
 The Indians did not attempt to put it out; there were some large trees behind it which frightened them.
 I also heard a tremendous crash.
@@ -583,6 +595,10 @@ I put a wet bandage round it and concluded to wait until tomorrow.
 The muscles of the shoulder were so bruised and swollen that I could not do anything with it; besides, I had no chance to get a good pull at it, from his arm being broke.
 I bathed the bruised parts well with painkiller, but he is still in great agony.
 
+:::{.callout-tip title="Medical Explanation"} 
+See @sec-appendix-4-2-4-jan
+:::
+
 ## Thursday 5th January 1871 {#sec-volume-2-5-jan}
 
 It has been sleeting all day.
@@ -655,6 +671,10 @@ On some points he has no more sense than a child.
 He is continually having his leg moved.
 I try to reason with him, but to no purpose.
 Should anything go wrong with his leg now, I have the conviction that I have done my duty by him.
+
+:::{.callout-tip title="Medical Explanation"} 
+See @sec-appendix-4-2-8-jan
+:::
 
 ## Monday 9th January 1871 {#sec-volume-2-9-jan}
 
@@ -754,7 +774,7 @@ There is not an Indian woman in the whole camp that he has not slept with, but t
 Harmless little Scotchguy came to me yesterday complaining that the Captain had been abusing his wife and daughter.
 Although I sympathized with him, I told him he had himself to blame by allowing his wife to go on board.
 I tried to explain the nature of such a sin, and told him how white men felt upon such matters.
-He said he was a Siwash and did not understand such things, but he was sure Captain Knowles was not a ”Tihee” or he would not have acted in the way in which he had done.
+He said he was a Siwash and did not understand such things, but he was sure Captain Knowles was not a ”@sec-appendix-tihee” or he would not have acted in the way in which he had done.
 
 This has been an ill spent Sabbath and I ought to have kept out of the company of that blackguard Captain, but as it was the first time he had asked me to dine with him I could not very well refuse, and he invited himself to my room in the evening.
 
@@ -848,6 +868,10 @@ On the day that poor Beauchamp was so low and feverish, I went on board and aske
 I wanted a little sweet Spirit of Nitre (he is slightly troubled with gravel) but there was only a few drops left in the bottle so I did not get any.
 I showed the Captain what I had taken and thanked him most heartily for his kindness.
 
+:::{.callout-tip title="Medical Explanation"} 
+See @sec-appendix-4-2-20-jan
+:::
+
 Now what the Captain told Riley was that I had been on board and searched all through his medicine chest and took there from medicines for syphilitic afflictions.
 Fortunately the men were all in the house when I came from the ship and saw the medicines I had brought.
 They also saw me administer one of James's Powders to Beauchamp at once.
@@ -923,6 +947,11 @@ This day in point of weather has been very similar to yesterday.
 
 My cold is much worse.
 On Saturday night I took a blue pill, and on Sunday morning a black draught.
+
+:::{.callout-tip title="Medical Explanation"} 
+See @sec-appendix-4-2-24-jan
+:::
+
 I ought not to have gone up to the mine yesterday.
 Traveling through the wet snow made my feet quite wet, and standing in the mine afterwards must have given me a fresh cold.
 I shall take a holiday until I get over it.
@@ -1080,10 +1109,10 @@ Freezing very hard still.
 The Indians appear to be very fond of this sort of weather; numbers of them turn out to chop wood and work at their canoes, perfectly naked.
 I asked them why they did so in such cold weather.
 They said it makes them strong and hardy.
-They have another peculiar way of making themselves (as they say) proof against cold; they get half a bucket of sea water, dissolve snow in it until it is nearly full, they then gorge themselves with this water and bring it up again like a stream from a firce \[sic\] pump.
+They have another peculiar way of making themselves (as they say) proof against cold; they get half a bucket of sea water, dissolve snow in it until it is nearly full, they then gorge themselves with this water and bring it up again like a stream from a firce (sic) pump.
 They repeat this again and again until all the heat is drawn from the body.
 Then they rush to the fire, shivering like so many young pups.
-This must be very injurious to them, but they think it is “hyassclosh”
+This must be very injurious to them, but they think it is “@sec-appendix-hyassclosh”
 
 ## Wednesday 8th February 1871 {#sec-volume-2-8-feb}
 

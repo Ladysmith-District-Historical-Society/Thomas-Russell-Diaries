@@ -103,7 +103,7 @@ The area shown in broken lines is that occupied by igneous rocks interpreted by 
 ### Area B {#sec-area-b}
 #### Richardson’s Report {#sec-area-b-richardson}
 
->“About nine chains on the strike of the measures from where Hooper's Creek tunnel struck the coal, another tunnel had been driven at a lower level by seventy or eighty feet, and a third one about five chains further on the strike, and seventy or eighty feet still lower. On the mounds of _cleb1_ (**FIX**) is excavated from these I could not find a trace of coal, which could not have been the case had but a small quantity been brought out. The inference is that no coal was met with, or so little as not to be worth working.”
+>“About nine chains on the strike of the measures from where Hooper's Creek tunnel struck the coal, another tunnel had been driven at a lower level by seventy or eighty feet, and a third one about five chains further on the strike, and seventy or eighty feet still lower. On the mounds of debris excavated from these I could not find a trace of coal, which could not have been the case had but a small quantity been brought out. The inference is that no coal was met with, or so little as not to be worth working.”
 
 #### Dawson’s Report {#sec-area-b-dawson}
 
@@ -199,9 +199,7 @@ was three feet thick; in the second and third, seven feet, but ‘soft, an expre
 
 #### Dawson’s Report {#sec-area-f-dawson}
 
-::: {.callout-warning title="Comment"}
-Based on available reports, Dawson did not comment on Area F.
-:::
+Dawson appears not to have commented on Area F.
 
 ### Area G {#sec-area-g}
 #### Richardson’s Report {#sec-area-g-richardson}
@@ -222,11 +220,11 @@ their thickness and their qualities.”
 
 #### Dawson’s Report {#sec-area-g-dawson}
 
-::: {.callout-warning title="Comment"}
-Based on available reports, Dawson did not comment on Area G.
-:::
+Dawson appears not to have commented on Area G.
 
 ### Overview Comments on the Coal Deposits {#sec-overview-of-coal-deposits}
+
+Both Richardson and Dawson were careful not to dismiss the Cowgitz anthracite deposits as being insubstantial, citing geologic complexity and the need for careful exploratory assessment prior to expenditure of significant funds for development.
 
 #### Richardson's Comments {#sec-overview-richardson}
 > “It is very probable that irregularities and interruptions may prevail here, similar to those which have been observed in the Vancouver Island deposits, and, according to the information you have given me, occur also in the Mesozoic 
@@ -317,5 +315,16 @@ where the conditions suitable to the formation of coal have occurred
 not only over wide areas, but at several distinct horizons in the
 Cretaceous rocks.”
 
+## References
+
+Dawson, G.M. 1880. Report on the Queen Charlotte Islands addressed to Alfred R.C. Selwyn, Esq., F.G.S. Director of the Geological Survey of Canada in Geological Survey of Canada Report of Progress for 1878-79 
+https://open.library.ubc.ca/collections/bcbooks/items/1.0222501
+
+Geological Survey of Canada & Commission géologique du Canada (1876). Map showing the localities of fossils collected by James Richardson in 1872, from the Queen Charlotte Islands. Geological Survey of Canada, Multicoloured Geological Map, 435. https://doi.org/10.4095/214731
+
+Richardson J. 1873 Report on the Coal Fields of Vancouver and Queen Charlotte Islands with a map of the distribution of the former addressed to Alfred R.C. Selwyn, Esq., F.G.S. Director of the Geological Survey of Canada pages 57-61
+https://publications.gc.ca/collections/collection_2019/rncan-nrcan/M41-1-1-1873-eng.pdf
+
+Sutherland Brown, A. 1968. Geology of the Queen Charlotte Islands British Columbia. British Columbia Department of Mines and Petroleum Resources Bulletin No. 54. 
 
 

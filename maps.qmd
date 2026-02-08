@@ -1,6 +1,6 @@
-# Maps {#sec-maps}
+# Maps {.unnumbered #sec-maps}
 
-## Passage of the sloop Thornton from Victoria to the Queen Charlotte islands (now called Haida Gwaii).
+## Volume I - Passage of the Sloop Thornton from Victoria to the Queen Charlotte Islands (now called Haida Gwaii). {#sec-maps-thornton}
 
 ```{r}
 #| echo: false
@@ -21,26 +21,6 @@ lns <- st_read("geojson/skidegate_trip_up_paths.geojson", quiet = TRUE) %>%
   st_transform(4326) %>%
   st_zm(drop = TRUE, what = "ZM")
 
-qcco <- st_read("geojson/qccco_places.geojson", quiet = TRUE) %>%
-  select(Name) %>%
-  st_transform(4326) %>%
-  st_zm(drop = TRUE, what = "ZM")
-
-whaling_stations <- st_read("geojson/whaling_stations.geojson", quiet = TRUE) %>%
-  select(Name) %>%
-  st_transform(4326) %>%
-  st_zm(drop = TRUE, what = "ZM")
-
-gold_harbour <- st_read("geojson/gold_harbour.geojson", quiet = TRUE) %>%
-  select(Name) %>%
-  st_transform(4326) %>%
-  st_zm(drop = TRUE, what = "ZM")
-
-haida_villages <- st_read("geojson/haida_villages.geojson", quiet = TRUE) %>%
-  select(Name) %>%
-  st_transform(4326) %>%
-  st_zm(drop = TRUE, what = "ZM")
-
 # 3) Leaflet map
 m <- leaflet(options = leafletOptions(preferCanvas = TRUE)) %>%
   # Base groups
@@ -51,7 +31,7 @@ m <- leaflet(options = leafletOptions(preferCanvas = TRUE)) %>%
   # Overlay groups (name them so you can toggle)
   addPolylines(
     data = lns,
-    group = "Skidegate Journey",
+    group = "Thornton Route",
     color = "#f95d6a",
     weight = 2,
     opacity = 0.9,
@@ -59,7 +39,7 @@ m <- leaflet(options = leafletOptions(preferCanvas = TRUE)) %>%
   ) %>%
   addCircleMarkers(
   data = pts,
-  group = "Skidegate Journey Locations",
+  group = "Thornton Journey Locations",
   radius = 5,
   stroke = TRUE,
   color = "black",     # outline colour
@@ -69,57 +49,9 @@ m <- leaflet(options = leafletOptions(preferCanvas = TRUE)) %>%
   popup = ~Name,
   label = ~Name
   ) %>%
-  addCircleMarkers(
-  data = qcco,
-  group = "QCCCO Places",
-  radius = 5,
-  stroke = TRUE,
-  color = "black",     # outline colour
-  weight = 1,          # thin line
-  fillColor = "#bc5090",
-  fillOpacity = 0.8,
-  popup = ~Name,
-  label = ~Name
-  ) %>%
-  addCircleMarkers(
-    data = gold_harbour,
-    group = "Gold Harbour Places",
-    radius = 5,
-    stroke = TRUE,
-    color = "black",     # outline colour
-    weight = 1,          # thin line
-    fillColor = "#58508d",
-    fillOpacity = 0.8,
-    popup = ~Name,
-    label = ~Name
-    ) %>%
-  addCircleMarkers(
-    data = whaling_stations,
-    group = "Whaling Stations",
-    radius = 5,
-    stroke = TRUE,
-    color = "black",     # outline colour
-    weight = 1,          # thin line
-    fillColor = "#003f5c",
-    fillOpacity = 0.8,
-    popup = ~Name,
-    label = ~Name
-    ) %>%
-  addCircleMarkers(
-    data = haida_villages,
-    group = "Haida Villages",
-    radius = 5,
-    stroke = TRUE,
-    color = "black",     # outline colour
-    weight = 1,          # thin line
-    fillColor = "#2f4b7c",
-    fillOpacity = 0.8,
-    popup = ~Name,
-    label = ~Name
-    ) %>%
   addLayersControl(
     baseGroups = c("OSM (default)", "Positron (minimal)", "World Imagery (satellite)"),
-    overlayGroups = c("Skidegate Journey", "Skidegate Journey Locations","QCCCO Places", "Gold Harbour Places","Whaling Stations","Haida Villages"),
+    overlayGroups = c("Thornton Route", "Thornton Journey Locations"),
     options = list(collapsed = FALSE)
   )
 
@@ -128,19 +60,7 @@ legend_html <- "
 <b>Legend</b><br>
 <div><svg width='12' height='12'>
 <circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#ffa600'/></svg>
- Skidegate Journey Locations</div>
-<div><svg width='12' height='12'>
-<circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#bc5090'/></svg>
- QCCCO Places</div>
-<div><svg width='12' height='12'>
-<circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#58508d'/></svg>
- Gold Harbour Places</div>
-<div><svg width='12' height='12'>
-<circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#003f5c'/></svg>
- Whaling Stations</div>
-<div><svg width='12' height='12'>
-<circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#2f4b7c'/></svg>
- Haida Villages</div>
+ Thornton Journey Locations</div>
 </div>
 "
 
@@ -152,7 +72,7 @@ m
 
 ```
 
-## Canoe Trips
+## Volumes III & IV - Canoe Trips {#sec-maps-canoe}
 
 ```{r}
 #| echo: false
@@ -204,7 +124,7 @@ m <- leaflet(options = leafletOptions(preferCanvas = TRUE)) %>%
   addPolylines(
     data = cumshewa_path,
     group = "Cumshewa Canoe Journey",
-    color = "#003f5c",
+    color = "#1b9e77",
     weight = 2,
     opacity = 0.9,
     smoothFactor = 0.5
@@ -212,7 +132,7 @@ m <- leaflet(options = leafletOptions(preferCanvas = TRUE)) %>%
   addPolylines(
     data = masset_path,
     group = "Masset Canoe Journey",
-    color = "#665191",
+    color = "#7570b3",
     weight = 2,
     opacity = 0.9,
     smoothFactor = 0.5
@@ -248,7 +168,7 @@ m <- leaflet(options = leafletOptions(preferCanvas = TRUE)) %>%
   stroke = TRUE,
   color = "black",     # outline colour
   weight = 1,          # thin line
-  fillColor = "#58508d",
+  fillColor = "#e7298a",
   fillOpacity = 0.8,
   popup = ~Name,
   label = ~Name
@@ -260,14 +180,14 @@ m <- leaflet(options = leafletOptions(preferCanvas = TRUE)) %>%
   stroke = TRUE,
   color = "black",     # outline colour
   weight = 1,          # thin line
-  fillColor = "#d45087",
+  fillColor = "#66a61e",
   fillOpacity = 0.8,
   popup = ~Name,
   label = ~Name
   ) %>%
   addLayersControl(
     baseGroups = c("OSM (default)", "Positron (minimal)", "World Imagery (satellite)"),
-    overlayGroups = c("Cumshewa Canoe Journey", "Masset Canoe Journey", "Cumshewa Journey Out","Cumshewa Journey Back", "Masset Journey Out","Masset Journey Back"),
+    overlayGroups = c("Cumshewa Canoe Route", "Masset Canoe Route", "Cumshewa Locations","Cumshewa Return Locations", "Masset Locations","Masset Return Locations"),
     options = list(collapsed = FALSE)
   )
 
@@ -292,14 +212,14 @@ legend_html <- "
 
 <div>
   <svg width='12' height='12' style='vertical-align:middle;'>
-    <circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#ff7c43'/>
+    <circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#e7298a'/>
   </svg>
   <span style='vertical-align:middle;'>Masset Journey Out</span>
 </div>
 
 <div>
   <svg width='12' height='12' style='vertical-align:middle;'>
-    <circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#d45087'/>
+    <circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#66a61e'/>
   </svg>
   <span style='vertical-align:middle;'>Masset Journey Back</span>
 </div>

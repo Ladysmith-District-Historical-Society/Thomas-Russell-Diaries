@@ -2,7 +2,7 @@
 
 ## Early Life and Emigration (1836–1853) {#sec-russell-early-life}
 
-Thomas Russell was born in [Haddington, Scotland](https://maps.app.goo.gl/rgG8M9sDhZXT7ko86) in 1836 to parents Robert Russell and Agnes Russell née Cameron. At age sixteen, travelling in steerage aboard the *Norman Morison* (a Hudson Bay Company supply ship that made annual journeys between England and Victoria between 1849 and 1853 under Captain David D. Wishart), Thomas set sail on August 14th, 1852 from [Gravesend, England](https://maps.app.goo.gl/Jinj9g22YGjC7K7R8). After travelling around [Cape Horn](https://maps.app.goo.gl/BnrCK75v5RSMSmn66), he arrived in Royal Roads, Fort Victoria, on Sunday, January 16th, 1853.
+Thomas Russell was born in [Haddington, Scotland](https://maps.app.goo.gl/rgG8M9sDhZXT7ko86) in 1836 to parents Robert Russell and Agnes Russell née Cameron. At age sixteen, travelling in steerage aboard the *Norman Morison* (a Hudson's Bay Company supply ship that made annual journeys between England and Victoria between 1849 and 1853 under Captain David D. Wishart), Thomas set sail on August 14th, 1852 from [Gravesend, England](https://maps.app.goo.gl/Jinj9g22YGjC7K7R8). After travelling around [Cape Horn](https://maps.app.goo.gl/BnrCK75v5RSMSmn66), he arrived in Royal Roads, Fort Victoria, on Sunday, January 16th, 1853.
 
 ![Norman Morison HBC sailing ship circa 1852.](img/image008.png){#fig-008}
 
@@ -10,7 +10,7 @@ Thomas Russell was born in [Haddington, Scotland](https://maps.app.goo.gl/rgG8M9
 
 Thomas was the brother-in-law of Kenneth McKenzie, who had been contracted by the Puget Sound Agricultural Company (PSAC)—a subsidiary of the Hudson’s Bay Company—to establish a farm, Craigflower, near Maple Point between [Esquimalt Harbour](https://maps.app.goo.gl/8Tvhd7mex9Sw9Dat6) and [The Gorge](https://maps.app.goo.gl/d5v5byYDxjDNhVLu8), north of [Victoria](https://maps.app.goo.gl/kNiQ5bovGLhER3wX7).
 
-Thomas was listed as a labourer among McKenzie’s employees and was bound by a five-year contract with the PSAC. However, he was clearly not working class and appears to have been well educated. When Governor James Douglas seconded Robert Barr—originally intended to teach at Craigflower—to the Victoria School, McKenzie recommended Thomas as schoolmaster for Craigflower. Thomas declined the position, choosing instead to remain at Craigflower Farm assisting McKenzie with management of the bakery, butchery, and flour mill. The farm supplied British naval vessels at Esquimalt with much of their meat, bread, and vegetables.
+Thomas was listed as a labourer among McKenzie’s employees and was bound by a five-year contract with the PSAC. However, he was clearly not working class and appears to have been well educated - as when Governor James Douglas seconded Robert Barr (who was originally intended to teach at Craigflower) to the Victoria School, McKenzie recommended Thomas as schoolmaster for Craigflower. Thomas, however,  declined the position, choosing instead to remain at Craigflower Farm assisting McKenzie with management of the bakery, butchery, and flour mill. The farm supplied British naval vessels at Esquimalt with much of their meat, bread, and vegetables.
 
 Thomas continued working with McKenzie after his PSAC contract expired in 1857.
 
@@ -22,7 +22,7 @@ In March 1859 Thomas married an English woman, Sarah Collier (variably spelled S
 
 Their first child, Alice Marion, was born April 22nd, 1860.
 
-Indications are that Thomas did not intend to renew his PSAC contract in 1862. In 1861 he agreed to accept, in lieu of the twenty-five acres to which he became entitled in 1857 upon expiry of his contract, two parcels of land near Craigflower: a three-acre lot adjacent to the school reserve, and a larger nineteen-acre section bounded by the [Colquitz River](https://maps.app.goo.gl/fE9mHE3V1wJiJqy27) to the north. A contributing factor was that his brother-in-law Kenneth McKenzie’s contract as Craigflower bailiff was not renewed in 1861.
+Indications are that Thomas did not intend to renew his PSAC contract when it came due in 1862. In 1861 he agreed to accept, in lieu of the twenty-five acres to which he had become entitled in 1857 upon expiry of his contract, two parcels of land near Craigflower: a three-acre lot adjacent to the school reserve, and a larger nineteen-acre section bounded by the [Colquitz River](https://maps.app.goo.gl/fE9mHE3V1wJiJqy27) to the north. A contributing factor was that his brother-in-law Kenneth McKenzie’s contract as Craigflower bailiff was not renewed in 1861.
 
 After 1861 Thomas appears to have continued assisting McKenzie with contracts supplying baked goods, beef, and vegetables to British naval vessels anchored at Esquimalt.
 
@@ -34,7 +34,7 @@ Their second child, Catherine, was born March 4th, 1862, followed on March 7th, 
 
 In May 1865 Thomas Russell agreed to fill the vacant position of schoolmaster at Craigflower School following the resignation of the incumbent, Henry Claypole.
 
-Thomas’s tenure was brief—just over a year—but appears to have been an improvement over his predecessor. At the yearly examination on July 19th, 1865, parents remarked that:
+Thomas’s tenure at the school was brief — just over a year. He appears to have been an improvement over his predecessor. At the yearly examination on July 19th, 1865, parents remarked that:
 
 > “their children have learnt more in two months than in a year before with Mr. Claypole.”
 
@@ -44,7 +44,7 @@ In July 1866, despite favourable examination results, the Superintendent reporte
 
 Possibly having learned of his impending dismissal and having not been paid for September, Thomas resigned abruptly on October 3rd, 1866, writing to the Colonial Secretary, dismissing the children, and informing parents that the school was closed. The Superintendent advised the Board that Russell had left his position to open a grocery store in Victoria without prior notice.
 
-The rancour continued; when Russell later claimed his September 1866 salary, the Board declined to recognize the claim.
+The rancour continued: when Russell later requested his September 1866 salary, the Board declined to recognize the claim.
 
 ![Craigflower School circa 1865. Thomas Russell stands left of the door; Henry Claypole is the tall figure by the second window to the right.](img/image011.png){#fig-011}
 
@@ -60,7 +60,7 @@ In 1870 Thomas relocated his store to the corner of Blanshard and Fort Streets. 
 
 ## Queen Charlotte Islands and Later Career {#sec-russell-queen-charlotte}
 
-The destruction of his business may explain why Thomas accepted the position of Mine Superintendent with the [Queen Charlotte Coal Mining Company](@sec-qccco-appraisal) a post he held between September 1870 and May 1871.
+The destruction of his business may explain why Thomas accepted the position of Mine Superintendent with the [Queen Charlotte Coal Mining Company](@sec-qccco-appraisal), a post he held between September 1870 and May 1871.
 
 ![Thomas Russell and wife Sarah (née Collier) circa 1870.](img/image013.jpg){#fig-013}
 
@@ -72,13 +72,13 @@ It is not recorded what employment Russell undertook immediately after returning
 
 ## Death and Burial {#sec-russell-death}
 
-Thomas Russell died at the residence of his daughter Alice Michael in East Cedar, [Vancouver Island](https://maps.app.goo.gl/f6G88khp38XAEszE9), on August 14th, 1912, aged seventy-six. He was buried in [Ross Bay Cemetery](https://maps.app.goo.gl/DaaMcbC4HW7rot1W7), Victoria, on August 17th beside his wife Sarah, who had died December 29th, 1905. The grave is located at H74W18.
+Thomas Russell died at the residence of his daughter Alice Michael in East Cedar, [Vancouver Island](https://maps.app.goo.gl/f6G88khp38XAEszE9), on August 14th, 1912, aged seventy-six. He was buried in grave H74W18 [Ross Bay Cemetery](https://maps.app.goo.gl/DaaMcbC4HW7rot1W7), Victoria, on August 17th adjacent his wife Sarah, who had died December 29th, 1905. 
 
 ![Victoria Daily Times, Friday August 16th, 1912, page 21.](img/image016.png){#fig-016}
 
 ![Nanaimo Daily News, Thursday August 15th, 1912.](img/image017.png){#fig-017}
 
-Neither Thomas nor Sarah Russell have individual gravestones. A headstone commemorates their children Robert Henry and Catherine.
+Neither Thomas nor Sarah Russell have individual gravestones. A headstone does, however, commemorate their children Robert Henry and Catherine.
 
 ![Burial locations in Victoria.](img/image018.jpg){#fig-018}
 
@@ -108,8 +108,33 @@ Died December 7th 1880
 
 There is a complex burial history. Robert Henry was originally interred in the Old Burying Ground (now Pioneer Square), where his “Lamb of God” headstone was erected. [Ross Bay Cemetery](https://maps.app.goo.gl/DaaMcbC4HW7rot1W7) records indicate he was later exhumed and reburied in Plot H72W12. Catherine was initially buried in Plot H72W18.
 
-Possibly following Sarah’s death in 1905 (Plot H73W18), the remains of both children were reinterred in Plot H74W18 beside their mother. Catherine’s inscription may date from this reburial. When Thomas died in 1912 he appears to have been buried in the same plot, though no inscription marks his grave.
+Possibly following Sarah’s death and burial in 1905 (Plot H73W18), the remains of both children were reinterred in Plot H74W18 beside their mother. Catherine’s inscription may date from this reburial. When Thomas died in 1912 he appears to have been buried in the same plot, though no inscription marks his presence in this grave.
 
-Thus, three members of the Russell family lie together in [Ross Bay Cemetery](https://maps.app.goo.gl/DaaMcbC4HW7rot1W7).
+Thus, three members of the Russell family (Thomas, Catherine and Robert) lie together in the same grave in [Ross Bay Cemetery](https://maps.app.goo.gl/DaaMcbC4HW7rot1W7).
 
 ![Robert Henry’s “Lamb of God” gravestone with later inscription for Catherine, marking the resting place of the children and their father Thomas.](img/image019.jpg){#fig-019}
+
+## References
+
+BC Food History Network. Soda Water in B.C.
+https://bcfoodhistory.ca/soda-water/
+
+Dictionary of Canadian Biography. McKenzie, Kenneth. Volume X (1871-1880)
+https://www.biographi.ca/en/bio/mckenzie_kenneth_10E.html
+Saanich Archives: Russell Family Fonds
+https://www.findagrave.com/memorial/121316897/thomas-russell
+Michael, Alice née Russell. Undated. The Founding and Building up of Craigflower. Russell family, pers comm.
+
+Old Cemeteries Society of Victoria, British Columbia, Canada. History of Pioneer Square.
+https://oldcem.bc.ca/cem/cem_pn/history/
+
+Ross Bay Cemetery Records. Onsite in cemetery keepers building safe.
+
+Stricker, Judith. 1983. Hallmark Heritage Society. Colonial Schoolmasters at Craigflower 1859-1870.
+https://hallmarkheritagesociety.ca/archives/history-articles/colonial-schoolmasters-at-craigflower/
+
+Stricker, Judith. Thomas Russell – Biography by Judith Stricker
+https://epe.lac-bac.gc.ca/100/205/301/ic/cdc/craigflower/farmfolk/russell2.html?nodisclaimer=1
+
+Vancouver Island GenWeb Project. Ships list of passengers for the Norman Morison 1852 arrived Victoria in January 16 1853. 
+https://sites.rootsweb.com/~bcvancou/ships/nmor53.htm
