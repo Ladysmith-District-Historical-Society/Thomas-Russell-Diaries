@@ -123,6 +123,30 @@ m <- leaflet(options = leafletOptions(preferCanvas = TRUE)) %>%
     options = list(collapsed = FALSE)
   )
 
+legend_html <- "
+<div style='background: white; padding: 5px; border-radius: 4px'>
+<b>Legend</b><br>
+<div><svg width='12' height='12'>
+<circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#ffa600'/></svg>
+ Skidegate Journey Locations</div>
+<div><svg width='12' height='12'>
+<circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#bc5090'/></svg>
+ QCCCO Places</div>
+<div><svg width='12' height='12'>
+<circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#58508d'/></svg>
+ Gold Harbour Places</div>
+<div><svg width='12' height='12'>
+<circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#003f5c'/></svg>
+ Whaling Stations</div>
+<div><svg width='12' height='12'>
+<circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#2f4b7c'/></svg>
+ Haida Villages</div>
+</div>
+"
+
+m <- m %>%
+  addControl(legend_html, position = "bottomleft")
+
 m
 
 
@@ -224,7 +248,7 @@ m <- leaflet(options = leafletOptions(preferCanvas = TRUE)) %>%
   stroke = TRUE,
   color = "black",     # outline colour
   weight = 1,          # thin line
-  fillColor = "#ff7c43",
+  fillColor = "#58508d",
   fillOpacity = 0.8,
   popup = ~Name,
   label = ~Name
@@ -246,6 +270,45 @@ m <- leaflet(options = leafletOptions(preferCanvas = TRUE)) %>%
     overlayGroups = c("Cumshewa Canoe Journey", "Masset Canoe Journey", "Cumshewa Journey Out","Cumshewa Journey Back", "Masset Journey Out","Masset Journey Back"),
     options = list(collapsed = FALSE)
   )
+
+legend_html <- "
+<div style='background: white; padding: 5px; border-radius: 4px'>
+<b>Legend</b><br>
+
+<!-- Points -->
+<div style='margin-top:8px;'>
+  <svg width='12' height='12' style='vertical-align:middle;'>
+    <circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#ffa600'/>
+  </svg>
+  <span style='vertical-align:middle;'>Cumshewa Journey Out</span>
+</div>
+
+<div>
+  <svg width='12' height='12' style='vertical-align:middle;'>
+    <circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#f95d6a'/>
+  </svg>
+  <span style='vertical-align:middle;'>Cumshewa Journey Back</span>
+</div>
+
+<div>
+  <svg width='12' height='12' style='vertical-align:middle;'>
+    <circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#ff7c43'/>
+  </svg>
+  <span style='vertical-align:middle;'>Masset Journey Out</span>
+</div>
+
+<div>
+  <svg width='12' height='12' style='vertical-align:middle;'>
+    <circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#d45087'/>
+  </svg>
+  <span style='vertical-align:middle;'>Masset Journey Back</span>
+</div>
+
+</div>
+"
+
+m <- m %>%
+  addControl(legend_html, position = "bottomleft")
 
 m
 
