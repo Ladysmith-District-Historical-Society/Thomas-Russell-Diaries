@@ -12,9 +12,68 @@ The following is an account of the shipwreck of the _Suwanee_ as reported by _Ha
 
 ![Excerpt from _Harper's Weekly_ September 26th 1868, Volume 12 Page 6.](img/image060.png){#fig-060}
 
-The remains of the wreck lie in three to twenty meters of water on the south side of _Suwanee_ rock. The rock, which dries are 2.4 meters above chart datum, is located [here](https://maps.app.goo.gl/UaHEFLBbifShGHj88).
+The remains of the wreck lie in three to twenty meters of water on the south side of _Suwanee_ rock. The rock, which dries are 2.4 meters above chart datum, is located [here](https://maps.app.goo.gl/UaHEFLBbifShGHj88) and shown in the map below.
 
-![Satellite image of Goletas Channel, Bate and Shadwell Passages.Location of Suwanee wreck pinpointed. Route of the sloop Thornton shown in white](img/image061.png){#fig-061}
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(leaflet)
+library(sf)
+library(dplyr)
+
+# 1) Read the GeoJSON
+pts <- st_read("geojson/skidegate_trip_up_points.geojson", quiet = TRUE) %>%
+  select(Name) %>%
+  filter(Name == "Wreck of Suwanee") %>%
+  st_transform(4326) %>%
+  st_zm(drop = TRUE, what = "ZM")
+
+# 3) Leaflet map
+m <- leaflet(options = leafletOptions(preferCanvas = TRUE)) %>%
+  # Base groups
+  addTiles(group = "OSM (default)") %>%
+  addProviderTiles(providers$CartoDB.Positron, group = "Positron (minimal)") %>%
+  addProviderTiles(providers$Esri.WorldImagery, group = "World Imagery (satellite)") %>%
+
+  # Overlay groups (name them so you can toggle)
+  addCircleMarkers(
+  data = pts,
+  group = "Wreck of the Suwanee",
+  radius = 5,
+  stroke = TRUE,
+  color = "black",     # outline colour
+  weight = 1,          # thin line
+  fillColor = "#ffa600",
+  fillOpacity = 0.8,
+  popup = ~Name,
+  label = ~Name
+  ) %>%
+  addLayersControl(
+    baseGroups = c("OSM (default)", "Positron (minimal)", "World Imagery (satellite)"),
+    overlayGroups = c("Wreck of the Suwanee"),
+    options = list(collapsed = FALSE)
+  )
+
+legend_html <- "
+<div style='background: white; padding: 5px; border-radius: 4px'>
+<b>Legend</b><br>
+<div><svg width='12' height='12'>
+<circle cx='6' cy='6' r='5' stroke='black' stroke-width='1' fill='#ffa600'/></svg>
+ Wreck of the Suwanee</div>
+</div>
+"
+
+m <- m %>%
+  addControl(legend_html, position = "bottomleft")
+
+m
+
+
+```
+
+<br>
+</br>
 
 ![1868 British Hydrographic Survey chart ‘Goletas Channel’ showing location of Suwanee Rock at the southern entrance to Shadwell Passage between Hope and Van Sittart islands.](img/image062.png){#fig-062}
 
