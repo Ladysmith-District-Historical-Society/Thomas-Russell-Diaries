@@ -8,7 +8,7 @@ book:
     - name: "Quentin Goodbody"
       affiliation: "Ladysmith and District Historical Society"
   date: today
-
+  
   description: >
     A transcribed and annotated edition of the diary of Thomas Russell documenting coal mining operations and interactions with the Haida First Nation
     in the Queen Charlotte Islands (Haida Gwaii) during the late nineteenth century.
@@ -16,7 +16,7 @@ book:
   cover-image: img/logo.jpg
 
   site-url: "https://ladysmithhistoricalsociety.ca"
-  repo-url: "https://github.com/ladysmithhistoricalsociety/thomas-russell-diaries"
+  repo-url: "https://github.com/tgoodbody/Thomas-Russell-Diaries"
   repo-actions: [edit, issue]
 
   language: en-CA

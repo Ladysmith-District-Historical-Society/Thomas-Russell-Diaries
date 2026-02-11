@@ -3,7 +3,9 @@
 A transcribed and annotated edition of the daily diary kept by **Thomas Russell (1836–1912)** while serving as Superintendent of the Queen Charlotte Coal Company’s Cowgitz Coal Mine in Skidegate Inlet (Haida Gwaii, then the Queen Charlotte Islands) from **September 1870 to May 1871**.
 
 **Editor:** Quentin Goodbody  
-**Affiliation:** Ladysmith & District Historical Society  
+**Affiliation:** Ladysmith & District Historical Society
+**Funding:** The authors received no specific funding for this work.
+**Licence:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ---
 
@@ -78,13 +80,5 @@ Special thanks to:
 If using this material for research, please cite:
 
 > Goodbody, Quentin (2026). *The Remarkable Diary of Thomas Russell while at Skidegate Inlet, Queen Charlotte Islands (Haida Gwaii), September 1870 – May 1871.* Ladysmith & District Historical Society.
-
----
-
-## License
-
-Please see the `LICENSE` file for terms of use. Archival images and materials may be subject to additional restrictions.
-
----
 
 For questions or archival inquiries, please contact the Ladysmith & District Historical Society.
