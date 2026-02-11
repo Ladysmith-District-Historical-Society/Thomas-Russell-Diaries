@@ -81,5 +81,7 @@ The City of Victoria staff at the Ross Bay Cemetery Office graciously took time 
 
 Staff at the BC Archives assisted with review of and access to Queen Charlotte Coal Company records.
 
+Dr. Jan Boxall kindly provided explanations of the medicines employed by Thomas Russell.
+
 Finally, my son Tristan Goodbody for suggesting incorporating the diary and associated background research into a website. His wizardry with RStudio has permitted the cross referencing of material and the cost-effective  'publishing' of this material to a potentially worldwide audience.
 
