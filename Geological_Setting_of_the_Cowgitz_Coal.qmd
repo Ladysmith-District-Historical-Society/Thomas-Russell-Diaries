@@ -5,18 +5,18 @@ The Earth’s crust is composed of a number of ‘plates’ that move against ea
 
 ![Tectonic setting of Haida Gwaii showing its location at the boundary between the  Pacific and North America plates marked by the Queen Charlotte fault (QCF) and Cascadia subduction zone (CSZ). Modified from Leonard and Bednarski 2015 Figure 1.](img/image034.png){#fig-034}
 
-Underthrusting (subduction) of the Pacific Plate beneath the North America Plate and strike slip (ie sideways movement) between these  plates has resulted in repeated periods of volcanic activity, igneous intrusion, and sedimentation  of conglomerates, sandstones, siltstones, shales with occasional coals over the past several hundred million years. 
+Underthrusting (subduction) of the Pacific Plate beneath the North America Plate and strike slip (ie sideways movement) between these  plates has resulted in repeated periods of volcanic activity, igneous intrusion, and sedimentation  of conglomerates, sandstones, siltstones, shales with occasional coals in ephemeral basins over the past several hundred million years. 
 
 ![Diagrammatic cross section across plate boundary, Haida Gwaii Modified from Hyndman, 2015 Figure 11.](img/image035.png){#fig-035}
 
 ## Stratigraphy {#sec-stratigraphy}
-The Cowgitz anthracite occurs within a succession of Cretaceous sedimentary rocks. Intermittent uplift and erosion during deposition of this sedimentary succession resulted in a complex stratigraphy characterised by internal unconformities and discontinuity of depositional environments.
+The Cowgitz coal - an anthracite -  occurs within a succession of Cretaceous sedimentary rocks. Intermittent uplift and erosion during deposition of this sedimentary succession resulted in a complex stratigraphy characterised by internal unconformities and discontinuity of depositional environments.
 
 The exact position of the Cowgitz anthracite within the Cretaceous stratigraphy is uncertain: determination of this has been hampered by the complexity of the geology and the density of the vegetation covering the rocks precluding detailed investigation of it.
 
-An increased understanding of  geological processes since the start of scientific investigations in the 1870s coupled with the development of a regional geological understanding of the area through the mapping efforts of various workers has resulted in differing interpretations of the Cowgitz area’s geology by different scientists through time. For the purpose of this overview, the most significant reports are by Richardson (1872) and Dawson (1878) of the Geological Survey of Canada and Sutherland-Brown (1968) of the British Columbia Geological Survey.
+An increased understanding of  geological processes since the start of scientific investigations in the 1870s coupled with the development of a regional geological understanding of the area through the subsequent mapping efforts of various workers has resulted in differing interpretations of the Cowgitz area’s geology by different scientists through time. For the purpose of this overview, the most significant reports are by Richardson (1872) and Dawson (1878) of the Geological Survey of Canada and that of Sutherland-Brown (1968) of the British Columbia Geological Survey.
 
-The stratigraphy of the immediate Cowgitz area according to Sutherland Brown (1968) is shown below: The colors assigned to the stratigraphic units are those used in the succeeding geological map and cross section 
+The stratigraphy of the immediate Cowgitz area according to Sutherland Brown (1968) is shown below: The colors assigned to the stratigraphic units are those used in the succeeding geological map and cross section. 
 
 ![Stratigraphy of the Cowgitz Mine area of Skidegate Inlet: after Sutherland Brown 1968. ](img/image036.png){#fig-036}
 
@@ -36,7 +36,7 @@ In the cross section note the disconformities between the Cretaceous formations,
 
 ## Structural Geology of the Cowgitz Mine Area {#fig-structural-geology-of-cowgitz-mine-area}
 
-The Cowgitz Coal seam(s) were deposited horizontally, but subsequent folding and faulting have resulted in the current almost vertical dips. A Tertiary diorite dyke (Masset Formation- Sutherland Brown interpretation) immediately to the west of the coal was injected possibly along pre-existing basement faults which propagated through the Cretaceous beds. The contact between the dyke and the Cretaceous sedimentary rocks has been modified by subsequent faulting which appears to have affected the overlying Masset volcanics.
+The Cowgitz coal seam(s) were deposited horizontally, but subsequent folding and faulting have resulted in the current almost vertical dips. A younger Tertiary diorite dyke (Masset Formation- Sutherland Brown interpretation) immediately to the west of the coal was injected possibly along pre-existing basement faults which propagated through the Cretaceous beds. The contact between the dyke and the Cretaceous sedimentary rocks has been modified by subsequent faulting which appears to have affected the overlying Masset volcanics.
 
 The original depositional continuity of the coals is not known: assessment of this has been hampered by the complexity of subsequent small scale folding and faulting as well as by the occluding effect of the dense vegetation cover. 
 
@@ -54,7 +54,7 @@ Ells (1906 p. 29) attributed the anthracite to heat and pressure resulting from 
 
 > “The coal is in close proximity to the underlying igneous rocks which extend thence westward to the west side of the island. The rocks at the mine containing the coal are much broken up and crushed, and the original lignite of the formation has been converted to the variety of anthracite there found. This is due to heat induced by pressure of the shales and sandstones against the pre-Cretaceous igneous mass at the back. In fact, so great has been the crushing strain at this place that much of the coal, when mined, is found in the form of powder, and is quite useless for economic purposes, while, as in other outcrops on the island, the coal and black shale are so closely mixed that separation is almost impossible.” 
 
-According to Sutherland Brown the heat of the Tertiary  intrusion would have contributed to the anthracitisation of the Cretaceous coal.
+According to Sutherland Brown the heat of the Tertiary intrusion would have contributed to the anthracitisation of the Cretaceous coal.
 
 ## References
 

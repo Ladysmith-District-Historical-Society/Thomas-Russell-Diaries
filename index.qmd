@@ -4,7 +4,7 @@ The authors received no specific funding for this work and it is licensed under 
 
 ## What's in this Book
 
-This book contains a transcription of a daily diary written between September 1870 – May 1871 by Thomas Russell (1836 – 1912) while acting as Superintendent of the Queen Charlotte Coal Company’s Cowgitz Coal Mine in the Skidegate Inlet area of what was then known as the Queen Charlotte Islands (now Haida Gwaii). This transcription is accompanied by background information on the coal deposit, mining operations, the people he interacted with (white and first nation), places he visited, and other general observations.
+This book contains a transcription of a daily diary written between September 1870 – May 1871 by Thomas Russell (1836 – 1912) while acting as Superintendent of the Queen Charlotte Coal Company’s Cowgitz Coal Mine in the Skidegate Inlet area of what was then known as the Queen Charlotte Islands (now Haida Gwaii). This transcription is accompanied by background information on the coal deposit, mining operations, the people he interacted with (white and First Nation), places he visited, and other general observations.
 
 ## Importance of the Diary
 
@@ -20,14 +20,17 @@ The diary reads almost like an adventure novel with near shipwreck, horrendous a
 
 References to the numerous whales, whaling activities, abundant salmon and dogfish populations seen on the trip up from Victoria to the Queen Charlottes on the sloop ‘Thornton’ provide insight into the natural abundance of the Gulf of Georgia (called the Salish Sea now) prior to late 19th century devastation through colonial overharvesting.
 
-Despite his perhaps inevitable colonial attitude toward First Nations, Thomas shows himself to be devout, respectful of honesty and very critical (almost to the point of despair) of dishonesty and immorality. It is obvious from his writing that the Russell family was very close, made closer perhaps by their grief over losing their son, Robert Henry, at age 4 in 1869. The diary is replete with poignant references to his little boy and with Thomas’ longing to be with his family.
-Thomas never states why he took the job of Superintendent of the coal mine in Skidegate Inlet: his wife would have known this. The work was not familiar to him and he may not have known that the mining company was in financial difficulties before he left Victoria. It is apparent that he was driven to take the work through desperation after his grocery store in Victoria burned down on July 15th 1870 with significant loss.
+Despite his perhaps inevitable colonial attitude toward First Nations, Thomas shows himself to be devout, respectful of honesty and very critical (almost to the point of despair) of dishonesty and immorality. 
+
+It is obvious from his writing that the Russell family was very close, made closer perhaps by their grief over losing their son, Robert Henry, at age 4 in 1869. The diary is replete with poignant references to his little boy and with Thomas’ longing to be with his family.
+
+Thomas never states why he took the job of Superintendent of the coal mine in Skidegate Inlet: his wife would have known this. The work was not familiar to him and he may not have known that the mining company was in financial difficulties before he left Victoria. It is apparent that he was driven to take the job through desperation after his grocery store in Victoria burned down on July 15th 1870 with significant loss.
 
 After a difficult journey up from Victoria, what Thomas encountered when he got to the mine appalled him. Previous workers had operated in a sloppy manner, not bothering to separate coal from slack, with the mine and tramway bringing the coal to the shipping wharf in poor and dangerous condition. The struggle to put together a load of 600 tons of coal before a ship arrived fills much of the narrative. Beset by accidents, horrendous injuries, a thin and complex coal deposit, disgruntled employees and theft of key supplies, the ship arrived but had to be sent away with a short cargo. Thomas was glad to see it go, however, due to the scurrilous nature of the captain whose actions threatened his relationship with the Haida people.
 
 As if troubles at the mine weren’t enough, the ship coming to relieve them at the end of their six month contract was late, causing the group to run out of ‘key’ comforts such as sugar and coffee. This caused much grumbling amongst the men. Lack of victuals prompted two largely unsuccessful canoe trips to seek out food – one to the Hudson’s Bay store near the village of Cumshewa, the other an epic journey up the east coast of Graham Island to the Hudson‘s Bay Company depot at what is now known as Old Massett.
 
-As reported in an article on page 3 of the May 15th 1871 edition of the Victoria Daily Standard, Thomas and his party were picked up  on May 8th 1871 by the Hudson Bay Company steamship ‘Otter’ on its return leg during one of its regular trips up the British Columbia coast. 
+As reported in an article on page 3 of the May 15th 1871 edition of the Victoria Daily Standard, Thomas and his party were picked up on May 8th 1871 by the Hudson's Bay Company steamship ‘Otter’ on its return leg during one of its regular trips up the British Columbia coast. 
 At the time of Thomas’ return to Victoria, the Queen Charlotte Coal Mining Company Ltd. was in liquidation. One final disaster upon Thomas was averted by the Supreme Court of British Columbia (which was ruling on the liquidation of the company) approving a special application made in June 1871 by a Mr. Johnson to ensure that Thomas’ wages be paid out of the first funds coming into the hands of the liquidators. A similar order was made for his co-worker Laiken’s wages. What happened to the others who worked at the mine during Thomas’ stay is not recorded.
 
 ## Provenance of the Diary
@@ -44,7 +47,7 @@ Volume 1 to 3 of the diary are of identical type, notebooks with dark maroon sof
 
 ![Ink written sample pages from Volumes 1-3 of Thomas Russell’s diary](img/image002.jpg){#fig-002}
 
-Volume 4 is a notebook of different make and size with a light brown faux leather cover. The text inside is written in pencil. In addition to containing the daily work records of the mine employees, this volume chronicles a harrowing return canoe trip Thomas took from Skidegate Inlet to Masset in search of provisions toward the end of their stay. It appears that Thomas did not wish to risk getting the ink-written Volume 3 of his diary wet while making this trip – as numerous blank pages remain in that notebook.
+Volume 4 is a notebook of different make and size with a light brown faux leather cover. The text inside is written in pencil. In addition to containing the daily work records of the mine employees, this volume chronicles a harrowing return canoe trip Thomas took from Skidegate Inlet to Old Massett in search of provisions toward the end of their stay. It appears that Thomas did not wish to risk getting the ink-written Volume 3 of his diary wet while making this trip – as numerous blank pages remain in that notebook.
 
 ![Sample pages from the fourth notebook containing a record of a canoe trip from Skidegate Inlet to Masset and back. Written in pencil. Apparently Thomas did not wish to risk his ink-written 3rd volume of his diary on this trip.](img/image003.jpg){#fig-003}
 
@@ -56,9 +59,9 @@ The diary volumes have been scanned and deposited in the Saanich Archives as an 
 
 ## Previous publications about the Diary
 
-The Michael family, to who the diary had been passed, must have loaned them to a reporter in early 1914 as a précis of them was published as a substantial article in the Victoria Daily Times Saturday July 25th 1914 page 11 under the heading 'Mining Coal in the Queen Charlottes Forty Years Ago; An unusual Record: Interesting Reminiscences Gleaned from Diaries of late Thos. Russell, former City Assessor, Victoria.'
+The Michael family, to which the diary had been passed, must have loaned them to a reporter in early 1914 as a précis of the diary was published as a substantial article in the Victoria Daily Times Saturday July 25th 1914 page 11 under the heading 'Mining Coal in the Queen Charlottes Forty Years Ago; An unusual Record: Interesting Reminiscences Gleaned from Diaries of late Thos. Russell, former City Assessor, Victoria.'
 
-This article was republished as a three part series August 8th (see @fig-005), 15th (see @fig-006) and 22nd (see @fig-007) on page 7 in The Queen Charlotte Islander which styled itself as _‘A Weekly Newspaper Published in the interests of the Settlers, and to promote the development of the Queen Charlotte Islands’_. 
+This article was republished that same year (1914) as a three part series August 8th (see @fig-005), 15th (see @fig-006) and 22nd (see @fig-007) on page 7 in The Queen Charlotte Islander which styled itself as _‘A Weekly Newspaper Published in the interests of the Settlers, and to promote the development of the Queen Charlotte Islands’_. 
 
 ![Queen Charlotte Islander Saturday August 8th 1914 page 7](img/image005.jpg){#fig-005}
 
@@ -83,5 +86,9 @@ Staff at the BC Archives assisted with review of and access to Queen Charlotte C
 
 Dr. Jan Boxall kindly provided explanations of the medicines employed by Thomas Russell.
 
-Finally, my son Tristan Goodbody for suggesting incorporating the diary and associated background research into a website. His wizardry with RStudio has permitted the cross referencing of material and the cost-effective  'publishing' of this material to a potentially worldwide audience.
+Finally, my son Tristan Goodbody for suggesting incorporating the diary and associated background research into a website. His wizardry with RStudio and GitHub has permitted the cross referencing of material and the cost-effective 'publishing' of this material to a potentially wide audience.
+
+Quentin Goodbody
+Ladysmith
+February 2026
 
