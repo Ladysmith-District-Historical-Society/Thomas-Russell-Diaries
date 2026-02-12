@@ -310,7 +310,7 @@ We are dragging along very slowly; it is very vexatious to be so near our future
 
 3:00 o’clock PM came in sight of company buildings. Quite a number of Indians came off, and amongst them Captain George, a minor chief. He wanted to show me his papers, but I told him to wait until I had got settled on shore. I don't like the appearance of this Indian; he has small ferret eyes, speaks in a slow measured way, and has the appearance generally of a dirty old lawyer.
 
-4:00 o’clock cast anchor in Cowgate Bay. Mr. Branch came off to us; he looks rather seedy: perhaps it is the nature of the beast or perhaps he is not very well. I enquired after the health of his men, whom he said were all well, took tea and went on shore.
+4:00 o’clock cast anchor in Cowgate Bay. [Mr. Branch](Superintendents_of_the_Cowgitz_Mine.qmd) came off to us; he looks rather seedy: perhaps it is the nature of the beast or perhaps he is not very well. I enquired after the health of his men, whom he said were all well, took tea and went on shore.
 
 Walked on to the wharf where 100 tons of coal was piled up, but did not appear very clean. Walked up the tramway as far as the flat, but it was getting rather dark so I came back and went into the house where the men are domiciled.
 
@@ -326,13 +326,13 @@ After breakfast examined all the company's books. There appears to me to have be
 
 The storage shute is not worthy of the name applied to it; the coal has a drop of 18 feet after it passes over the screen. Now it stands to reason that coal falling from this height must get smashed to atoms. Mr. Branch says there are 300 tons in it, but it is in a fearful mess with dirt; in fact it appeared to me to be a moral impossibility to clean it.
 
-The upper tramway is a shameful piece of work. I cannot think how a man like Mr. Trounce with his experience could have taken off Gibb’s hands as a workable road. It has caved at the last curve where you come in sight of the mine. From this point nearly to the mouth of the tunnel it is built on the side of the mountain and about 80 feet above the level of the creek. It appears to be pretty well cribbed except at the curve where it has caved. It is not cribbed at all here, but simply several long trees thrown down held up at one end by the root of a tree and at the other by a stake driven in; this stake only measures 4 inches in diameter: a match stuck in would have suited about as well.
+The upper tramway is a shameful piece of work. I cannot think how a man like [Mr. Trounce](Superintendents_of_the_Cowgitz_Mine.qmd) with his experience could have taken off Gibb’s hands as a workable road. It has caved at the last curve where you come in sight of the mine. From this point nearly to the mouth of the tunnel it is built on the side of the mountain and about 80 feet above the level of the creek. It appears to be pretty well cribbed except at the curve where it has caved. It is not cribbed at all here, but simply several long trees thrown down held up at one end by the root of a tree and at the other by a stake driven in; this stake only measures 4 inches in diameter: a match stuck in would have suited about as well.
 
 Sent the men up after dinner to repair this portion of the road as I intend to take a carload of coal over it tomorrow.
 
 We next went into the mine where we are going to work. The tunnel is about 600 feet long. I did not much like going into such places, this being the first time I was ever in a coal mine. The width between the two walls of the mine is nearly 7 feet, but the seam of coal does not average more than 2 ½ feet in thickness, the remainder being slate with small streaks of coal running through it. Now from the great quantity of slate that has to be mined in order to extract the coal, it is impossible to clean the coal in the mine as there is not sufficient room for the dirt to remain; consequently a great quantity has to be put into the shutes along with the coal.
 
-The coal varies in quality. That near the air shaft appears to be very hard; that about midway between the air shaft and the manway very soft, so soft that Mr. Branch said it had caved here and had to be kept securely timbered. From this to near the manway it is pretty good, but just by the manway it is very inferior: in fact in my opinion it will not pay the cost of extraction, and no doubt Robinson was aware of this fact hence the cause of his abandoning it.
+The coal varies in quality. That near the air shaft appears to be very hard; that about midway between the air shaft and the manway very soft, so soft that Mr. Branch said it had caved here and had to be kept securely timbered. From this to near the manway it is pretty good, but just by the manway it is very inferior: in fact in my opinion it will not pay the cost of extraction, and no doubt [Robinson](Superintendents_of_the_Cowgitz_Mine.qmd) was aware of this fact hence the cause of his abandoning it.
 
 We next examined the seam usually known as the 2 foot seam. This is beautiful coal and perfectly free from slate, but too narrow to work. From here we went to Robinson’s tunnel or the 6 foot seam. The coal in this tunnel is quite soft; it might become hard, but it is very doubtful. These tunnels are all driven too near the surface to get good coal. There was a great deal of gas in this tunnel; we could only enter with safety lamps and then I did not feel quite at my ease.
 
@@ -350,11 +350,13 @@ On the lower tramway from the shute end of the first bridge is very dangerous. O
 
 Have been writing letters all afternoon. The sloop leaves tomorrow. I should like the place much better was it not so wet.
 
-The Indians appear to be very friendly, but awful thieves I am told. Captain Gold, a chief of a portion of the Gold Harbour Tribe, presented himself today and nearly bored me to death. He is a big rascal or I am very much deceived. He is just the sort of man you might take and hang upon his looks. He says his wife is a queen: Mr. Trounce told him that he was a king and of course Mrs. Gold must be a queen. He does not take it amiss if you address her as Mrs. Gold, but is very indignant if you call her a @sec-appendix-klootchman. But she is only a Klootchman nevertheless, and he is a Siwash to my mind in the true sense of the word.
+The Indians appear to be very friendly, but awful thieves I am told. [Captain Gold](Haida_Villages_and_Chiefs.qmd), a chief of a portion of the Gold Harbour Tribe, presented himself today and nearly bored me to death. He is a big rascal or I am very much deceived. He is just the sort of man you might take and hang upon his looks. He says his wife is a queen: Mr. Trounce told him that he was a king and of course Mrs. Gold must be a queen. He does not take it amiss if you address her as Mrs. Gold, but is very indignant if you call her a @sec-appendix-klootchman. But she is only a Klootchman nevertheless, and he is a Siwash to my mind in the true sense of the word.
 
 ## Thursday 13th October 1870
 
-This has been a beautiful day, quite warm and sunny. The sloop left at 1.00 o’clock PM, carrying with her Mr. Branch, 2 miners and six Indians as passengers. She had a fair wind.
+This has been a beautiful day, quite warm and sunny. 
+
+The sloop left at 1.00 o’clock PM, carrying with her Mr. Branch, 2 miners and six Indians as passengers. She had a fair wind.
 
 Turned the hands to clean a small quantity of coal which lies on the upper wharf. Riely is still on the sick list; his ear does not appear to get any better, but I am in hopes that it will soon get well now that he is on shore.
 
@@ -388,7 +390,9 @@ Beardsell said he was not afraid to run the car provided I would go with him and
 
 ## Saturday 15th October 1870 {#sec-volume-1-15-oct}
 
-This has been a charming day. Mount Seymour looked beautiful under the first rays of the rising sun. Laiken is rather feverish today; administered a light aperient.
+This has been a charming day. Mount Seymour looked beautiful under the first rays of the rising sun. 
+
+Laiken is rather feverish today; administered a light aperient.
 
 :::{.callout-tip title="Medical Explanation"} 
 See @sec-appendix-4-1-15-oct
@@ -404,7 +408,7 @@ The Indians are a great nuisance from being so near us: they are eternally pryin
 
 This was a beautiful morning, but has been raining all afternoon.
 
-Took a bath and a long walk but there is really nothing to be seen except trees and dirty squaws with their faces be smeared with pitch and paint. They do this to preserve their complexion. Poor things, they are sadly in want of reformation, but I suppose they are happiest after their own fashion.
+Took a bath and a long walk but there is really nothing to be seen except trees and dirty squaws with their faces besmeared with pitch and paint. They do this to preserve their complexion. Poor things, they are sadly in want of reformation, but I suppose they are happiest after their own fashion.
 
 I have been very lonely today. These Sabbaths only tend to remind me of home and all I love. I believe that men under difficulties give way to despondency much more than women.
 
@@ -454,7 +458,9 @@ A month of our time has expired today. It looks like six since I left home, but 
 
 ## Friday 21st October 1870
 
-This has been a beautiful day, clear and sunny. There is no difficulty in running the car in fine weather. Made a beginning on the new car. Laiken is up and feels pretty well; he says he will be able to superintend the coal cleaning whilst I am making the car.
+This has been a beautiful day, clear and sunny. 
+
+There is no difficulty in running the car in fine weather. Made a beginning on the new car. Laiken is up and feels pretty well; he says he will be able to superintend the coal cleaning whilst I am making the car.
 
 ## Saturday 22nd October 1870
 
@@ -486,7 +492,7 @@ Riely turned out to work today for the first time since we landed; his ear is no
 
 I find that the coal on the lower wharf is not cleaned; Branch had simply picked the slate from the surface of it. Consequently I have sent a party to turn it over and clean it. Some of the Indians are good at cleaning, but they are lazy rascals; one has to be continually watching them.
 
-Went up to the shute to open the second door, and when coming down on the car the large brake came off just before we came to the curve on the bridge. It fell on to the axle of the wheel and nearly threw Beardsell off the car. I told him to steady it as well as he could until we got to the flat and if we found we could not bring her up with a small brake we would jump off and let her go, but we were fortunate enough to stop her. Had the rails been wet, she would have gone, and in all probability would have jumped over the wharf into the water. The cause of it coming off was through the spau ?? coming out that keeps it on the centre bolt.
+Went up to the shute to open the second door, and when coming down on the car the large brake came off just before we came to the curve on the bridge. It fell on to the axle of the wheel and nearly threw Beardsell off the car. I told him to steady it as well as he could until we got to the flat and if we found we could not bring her up with a small brake we would jump off and let her go, but we were fortunate enough to stop her. Had the rails been wet, she would have gone, and in all probability would have jumped over the wharf into the water. The cause of it coming off was through the [illegible] coming out that keeps it on the centre bolt.
 
 ## Wednesday 26th October 1870
 
@@ -522,7 +528,9 @@ I know this will be very dry reading, but there is really nothing to record; Siw
 
 ## Sunday 30th October 1870
 
-It began to rain about 11:00 o’clock last night, and has kept it up all day, pouring down heavens hard. These wet Sabbaths are miserable days; they give me the blues. In the civilized world one can go to church and pass the day happily, but here one can only sit indoors with spirits depressed from morning till night. These are the days that call me back to my dear wife and little ones, and I know they are thinking of me whilst I write.
+It began to rain about 11:00 o’clock last night, and has kept it up all day, pouring down heavens hard. 
+
+These wet Sabbaths are miserable days; they give me the blues. In the civilized world one can go to church and pass the day happily, but here one can only sit indoors with spirits depressed from morning till night. These are the days that call me back to my dear wife and little ones, and I know they are thinking of me whilst I write.
 
 My God my Father while I stay  
 Far from thee in life's rough way  
@@ -531,25 +539,35 @@ Thy will be done thy will be done
 
 ## Monday 31st October 1870
 
-Raining all day. So wet that we cannot run the car. Turned all hands to cut firewood, and that is anything but a pleasant job, but they must be kept employed in some way. They swear enough about, but then I have got used to their swearing now so I take no heed. I only wish I was in Victoria and them here.
+Raining all day. 
+
+So wet that we cannot run the car. Turned all hands to cut firewood, and that is anything but a pleasant job, but they must be kept employed in some way. They swear enough about, but then I have got used to their swearing now so I take no heed. I only wish I was in Victoria and them here.
 
 ## Tuesday 1st November 1870
 
-Rain pouring down again today. Cutting wood, but did not send them out in the afternoon. Poor wretches, they were very wet and cold when they came in to dinner. It is better to lose half a day than perhaps have some of them laid up sick for several days.
+Rain pouring down again today. 
+
+Cutting wood, but did not send them out in the afternoon. Poor wretches, they were very wet and cold when they came in to dinner. It is better to lose half a day than perhaps have some of them laid up sick for several days.
 
 ## Wednesday 2nd November 1870
 
-Raining, sleeting, snowing and a repetition all day. Got down four cars of coal today. A ship may be here any day and we won't have over half a cargo for her. Branch was a long way out of his calculation when he said there were 300 tons in the shute; we haven't taken out 200 tons yet and I don't think there is much more than 50 tons left in it. I don't believe it will yield more than 200 tons of clean coal. Should a ship come we will be in a pretty mess, but I sincerely hope she will not come for some time yet.
+Raining, sleeting, snowing and a repetition all day. 
 
-Both Gibbs and Trounce must have given a false report as to the quantity of coal mined.
+Got down four cars of coal today. A ship may be here any day and we won't have over half a cargo for her. Branch was a long way out of his calculation when he said there were 300 tons in the shute; we haven't taken out 200 tons yet and I don't think there is much more than 50 tons left in it. I don't believe it will yield more than 200 tons of clean coal. Should a ship come we will be in a pretty mess, but I sincerely hope she will not come for some time yet.
+
+Both [Gibbs](Mifflin_Wistar_Gibbs.qmd) and [Trounce](Superintendents_of_the_Cowgitz_Mine.qmd) must have given a false report as to the quantity of coal mined.
 
 ## Thursday 3rd November 1870
 
-Snowing all last night; very frosty this morning. Cleared the track and got down seven cars, but in such weather as this we are only making about half time. Branch must have been an idiot not to have cleaned the coal in summer. Here are we poor devils, wet to the skin every day, and not making enough progress to pay for our grub. This is in good keeping with all the works of the Company ever since its organization. Everything has been a failure, and I can plainly see this shipment of coal will be one. I wish I had never seen the place or been in possession of the true state of affairs before starting.
+Snowing all last night; very frosty this morning. 
+
+Cleared the track and got down seven cars, but in such weather as this we are only making about half time. Branch must have been an idiot not to have cleaned the coal in summer. Here are we poor devils, wet to the skin every day, and not making enough progress to pay for our grub. This is in good keeping with all the works of the Company ever since its organization. Everything has been a failure, and I can plainly see this shipment of coal will be one. I wish I had never seen the place or been in possession of the true state of affairs before starting.
 
 ## Friday 4th November 1870
 
-Snowing all last night and all day, with a high wind. The outer wall of the coal on wharf does not look very secure, and as we could not run the car today I had a fence put up against it to keep it secure. Should it have taken a slide as it was, the half of it would have fallen into the water. A preventative is better than a cure, so there is no danger now.
+Snowing all last night and all day, with a high wind. 
+
+The outer wall of the coal on wharf does not look very secure, and as we could not run the car today I had a fence put up against it to keep it secure. Should it have taken a slide as it was, the half of it would have fallen into the water. A preventative is better than a cure, so there is no danger now.
 
 Laiken has been in a fearful bad temper all day; I am quite disgusted with him. The only thing I regret is that I am not in a position to get rid of him, because when one man in a small band growls some of the others are sure to growl with him. And I believe Riely is a great blackguard; he is well known amongst the Indians here as a whiskey seller; which in their estimation, as far as I can learn, is a most disreputable calling. He is very rough with the Indians, so much so they are all down on him. They say they are better off than he is, that they don't require to go round amongst the Indians saying
 
@@ -599,7 +617,9 @@ I think he is about 35 years of age and his present wife about 15 years. He has 
 
 ## Wednesday 9th November 1870
 
-Fine morning; shower of hail in the forenoon; snowing a little all afternoon. Took down 9 cars today. Got Beauchamp to brake the car but went with him for two loads.
+Fine morning; shower of hail in the forenoon; snowing a little all afternoon. 
+
+Took down 9 cars today. Got Beauchamp to brake the car but went with him for two loads.
 
 Met with a loss today; mule got killed about 20 yards above Trounce’s cottage. It appears she was standing all right alongside of the track to keep out of the way of the car when an Indian woman who was in the bush tried to drive her away, but instead of doing so she drove her onto the track. Beauchamp tried to bring the car up, but no use. The front part of the car struck her on the shoulder, threw her off the track and broke the far hind leg below the knee. I loaded one of the rifles and told an Indian to shoot her. Poor brute, I had not the heart to do it myself, but I knew it would end her misery.
 
@@ -607,7 +627,9 @@ There is no one to blame for this accident; the Indian woman's intentions were g
 
 ## Thursday 10th November 1870
 
-Showery all day. Got down 10 cars, which was all that remained in shute. There will be as near as possible 200 tons of clean coal, and 100 tons on lower wharf, and a small quantity at the mine. This is a long way short of a cargo, and when a cargo will be got out is more than I can say.
+Showery all day. 
+
+Got down 10 cars, which was all that remained in shute. There will be as near as possible 200 tons of clean coal, and 100 tons on lower wharf, and a small quantity at the mine. This is a long way short of a cargo, and when a cargo will be got out is more than I can say.
 
 From the way in which Laiken spoke when we were coming up I thought there would be no difficulty in getting out a lot of coal, but he sings a very different song now. He says a great deal of work has to be done in the mine before they can begin to extract coal; he also says that the mine is partly ruined from the manner in which it has hitherto been managed.
 
@@ -615,11 +637,15 @@ One month today since we landed, and very little work to show for the time. The 
 
 ## Friday 11th November 1870
 
-Raining all day. Cleaning coal; terrible work in such weather but it has to be done. The men don't work with any spirit, and I don't wonder at it. These days give me the blues and makes me long for home.
+Raining all day. 
+
+Cleaning coal; terrible work in such weather but it has to be done. The men don't work with any spirit, and I don't wonder at it. These days give me the blues and makes me long for home.
 
 ## Saturday 12th November 1870
 
-Raining all day. Beauchamp laid up with a bad cold; two of my men now on the sick list. Beardsell is very much better and thinks he will be ready for work on Monday. Nothing worthy of note today; the rain is pouring down tonight by bucketfuls.
+Raining all day. 
+
+Beauchamp laid up with a bad cold; two of my men now on the sick list. Beardsell is very much better and thinks he will be ready for work on Monday. Nothing worthy of note today; the rain is pouring down tonight by bucketfuls.
 
 ## Sunday 13th November 1870
 
@@ -651,7 +677,9 @@ A piece of tobacco (about two ounces) was handed to each. They all filled their 
 
 ## Monday 14th November 1870
 
-Showery all morning, raining very hard all afternoon. The men who were cleaning the coal could not stand out this afternoon. Beardsell is all right again and turned out this morning. The bad place on the upper tramway has caved again. I fear this road will be a great trouble to me, and in all probability I will have to make a cut through the face of the hill and curry it back.
+Showery all morning, raining very hard all afternoon. 
+
+The men who were cleaning the coal could not stand out this afternoon. Beardsell is all right again and turned out this morning. The bad place on the upper tramway has caved again. I fear this road will be a great trouble to me, and in all probability I will have to make a cut through the face of the hill and curry it back.
 
 ## Tuesday 15th November 1870
 
@@ -673,7 +701,7 @@ There ought to have been a small shute with a screen in it at the mouth of the t
 
 It has been fine all day until 5:00 o’clock this evening when it began to rain and blew a perfect gale.
 
-From the heavy rain of yesterday and last night Hoopers Creek washed away a portion of the embankment at the mouth of the tunnel. A little more and it would have swept all the coal down the creek. Took two Indians up and turned its course a little until I can get some timber cut to crib it so as to prevent a like occurrence.
+From the heavy rain of yesterday and last night Hooper's Creek washed away a portion of the embankment at the mouth of the tunnel. A little more and it would have swept all the coal down the creek. Took two Indians up and turned its course a little until I can get some timber cut to crib it so as to prevent a like occurrence.
 
 ## Friday 18th November 1870
 
@@ -731,7 +759,9 @@ To the heart I love so far away."
 
 ## Tuesday 22nd November 1870
 
-This has been quite a fine day. Have been cribbing the embankment today and made a good job of it. Hooper’s Creek may pour its torrents down at will now — it cannot hurt us.
+This has been quite a fine day. 
+
+Have been cribbing the embankment today and made a good job of it. Hooper’s Creek may pour its torrents down at will now — it cannot hurt us.
 
 The cave on the tramway has now sunk 2 feet, so there is nothing for it but to secure the face and make a new cut through the hill. I don't much like tackling the job in this bad weather, but it will have to be done now or snow may come and then it cannot be done, and the coal will have to remain at the mine.
 
