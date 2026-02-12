@@ -1,7 +1,7 @@
 # Volume IV {.unnumbered #sec-volume4}
 
 ::: {.callout-note title="Maps"}
-For a map of canoe journey camp sites and routes discussed in Volumes III and IV see @sec-maps-canoe
+For a map of canoe journey camp sites and routes discussed in Volumes III and IV see @secquarto render-maps-canoe
 :::
 
 ## Tuesday 18th April 1871 (continued) {#sec-volume-4-18-apr}
@@ -50,7 +50,9 @@ We pulled to the end of the spit by 11:00 o’clock when a light breeze sprung u
 Blew very cold all afternoon. So cold, the [sic] we lay and shook in the canoe, large Rock [Coal] 
 
 Reached Masset at 5:30 o'clock. We were very warmly received by Mr. Offalt the HB Cop. officer in charge here. He invited us up to his house and gave us such a supper as we have not had for months. He is as fine an old man as I have met for a long time. He offered us sleeping room but seeing that it would put him about 
+
            McKay lost [sic] 
+           
 considerable, we accepted sleeping room from the Indian chief here: Wee ha. He is a fine specimen of an Indian and bears[?] and excellent character. Read[?] his papers. Went to bed about 11:00 o’clock, he did all that he could to make us comfortable.
 
 ## Sunday 23rd April 1871 {#sec-volume-4-23-apr}
@@ -61,7 +63,7 @@ Got up about 5:30 had a good wash. Mr. Offalt out came down at 6:00 o’clock an
 
 The wind was blowing so high this morning that the Indians said it would be impossible for us to go round the bar, and if we ran to try make a portage we could not launch the canoe on the other side for the breakers. Consequently we had reluctantly to make up our minds to remain here for the day. Mr. Offalt was only too glad to keep us. 
 
-Took a walk around a [illegible. Illegible illegible] went round the Indian camp. Every hut has a stick, great deal of carving! 
+Took a walk around a [illegible]. [illegible illegible] went round the Indian camp. Every hut has a stick, great deal of carving! 
 
 Took dinner at 3:00 o’clock, stewed [illegible] cakes made with new milk what a treat! We have landed among clover. I could rec[illegible]t here for a month, but time forbids. The Indians who came with us went to see their friends and are now all ready for a start should the wind prove favourable in the morning, which I sincerely hope it may. Sunday here is anything except that day, but the old man is lavish in his kindness, and 
           Description of place
@@ -81,7 +83,7 @@ Rain set in. Fried some salt pork for supper, and boiled some to eat on the way.
 
 Woke up at daylight. Rain had ceased, and quite frosty. 
 
-Got the Indians up, but they said the wind would not suit to round the spit and the breakers would be too great to land and make a portage, so here we having to remain. This is miserable work. Persuaded the Indians at 10:00 o’clock to run across to the spit to make a portage. They agreed upon condition that I and Beardsell should walk 8 miles, which we did. landed Safely Raining all afternoon. Run the canoe over, but camped in the bush, this is very chafing kind of work.
+Got the Indians up, but they said the wind would not suit to round the spit and the breakers would be too great to land and make a portage, so here we having to remain. This is miserable work. Persuaded the Indians at 10:00 o’clock to run across to the spit to make a portage. They agreed upon condition that I and Beardsell should walk 8 miles, which we did [sic] landed Safely Raining all afternoon. Run the canoe over, but camped in the bush, this is very chafing kind of work.
 
 ## Wednesday 26th April 1871 {#sec-volume-4-26-apr}
 
@@ -95,7 +97,7 @@ Raining nearly all afternoon and wind increasing. Went to bed at 8:00 o’clock.
 
 Woke up at daybreak. Slept well. Raining; a little wind still in the same quarter blowing quite a gale. 
 
-[Illegible] breakfast of [illegible illegible] for tea. Noon, wind still high. Raining all morning, betraying symptoms of clearing off [illegible]. The biscuit we took with us from Massett [sic] is now exhausted. Made some bread from flour and water and baked it in the ashes. Showery all afternoon. The bread was very good. Wind keeps steady from the same quarter. Went to bed about 8:00 o’clock. Raining.
+With breakfast of [illegible illegible] for tea. Noon, wind still high. Raining all morning, betraying symptoms of clearing off [illegible]. The biscuit we took with us from Massett is now exhausted. Made some bread from flour and water and baked it in the ashes. Showery all afternoon. The bread was very good. Wind keeps steady from the same quarter. Went to bed about 8:00 o’clock. Raining.
 
 ## Friday 28th April 1871 {#sec-volume-4-28-apr}
 
@@ -107,7 +109,9 @@ Throat very sore. At noon the wind chopped suddenly round, to the west. Made a h
 
 Last night was a fearful night. The wind raved as though it would bring the trees and mountains over us and the rain poured down in torrents. I never witnessed such a night. 
 Slept warm. Dreamed
+
 Anniversary
+
 bread in the morning. Indians made a house from brush.
 Wind kept up all day. Made more bread in the evening, got everything ready for a start in the morning.
 
@@ -116,7 +120,9 @@ Wind kept up all day. Made more bread in the evening, got everything ready for a
 Got up at daybreak. Not a breath of wind. Beautiful and clear.
 
 Got the men up and cooked breakfast and got a way a little after 5:00  o’clock. Had not gone far when it began to blow from the S.E. again. A considerable sea got up and being too heavily laden for good trim, we shipped considerable water.  We had to put in at the mouth of a creek, making about 10 miles this morning.
+
 Eargh
+
 Afternoon: wind has been increasing all day. It is now a howling hurricane and betraying strong symptoms of rain. We have taken up our quarters on the beach behind a fallen tree, it being too dangerous to camp in the timber. Made some more bread. Went to bed about 8:00 o’clock. It is a fearful night.
 
 ## Monday 1st May 1871 {#sec-volume-4-1-may}
@@ -133,7 +139,7 @@ Slept very little last night.
 
 Got the men up at daybreak. No wind. Breakfast in canoe. Came on to blow a little after an hours start; had to row. Reached Skidaws camp at noon, went on shore made some coffee, and got under weigh [sic] again. Showers of sleet and hail. Arrived at Skidegate Town about 8:00 o’clock. Had to row all the way. 
 
-We made about 45 miles today, and were perfectly exhausted from being so long in the canoe and only eating a little bread baked in the ashes, burning a little of the same to make coffee. We felt quite a perceptible change in the weather; it is so much milder at Massett [sic].
+We made about 45 miles today, and were perfectly exhausted from being so long in the canoe and only eating a little bread baked in the ashes, burning a little of the same to make coffee. We felt quite a perceptible change in the weather; it is so much milder at Massett.
 
 The Indians treated us very kindly, boiling us some potatoes for supper, which went very well. Canoe trips are not what they are said to be.
 
@@ -149,6 +155,26 @@ Arrived at Hastings at 2:00 o’clock PM.
 
 # End of diary
 
-Note in Time Book: 
-Monday 8th May 
-Left Queen Charlotte tonight at 6.00 o’clock P.M. 
+## Notes in Time Book: 
+
+Thursday 4th May: Fine. One shower of hail.
+
+Friday 5th May: Raining and blowing all day, very cold
+
+Saturday 6th May: Ditto
+
+Sunday 7th May: Ditto
+
+Monday 8th May: Ditto
+
+Left Queen Charlotte tonight at 6.00 o’clock PM 
+
+Tuesday 9th May: Beautiful day, reached Fort Rupert at 7 o'clock AM
+
+Wednesday 10th May: [no comments]
+
+Thursday 11th May: Raining nearly all day, Comox at 4 AM
+
+Friday 12th May: Fine all day
+
+
