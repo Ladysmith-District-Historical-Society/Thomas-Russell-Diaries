@@ -1,7 +1,7 @@
 # Volume IV {.unnumbered #sec-volume4}
 
 ::: {.callout-note title="Maps"}
-For a map of canoe journey camp sites and routes discussed in Volumes III and IV see @secquarto render-maps-canoe
+For a map of canoe journey camp sites and routes discussed in Volumes III and IV see @sec-maps-canoe
 :::
 
 ## Tuesday 18th April 1871 (continued) {#sec-volume-4-18-apr}
