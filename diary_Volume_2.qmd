@@ -10,20 +10,25 @@ editor:
 
 The following is a copy of a paper given by me to Captain Gold.
 
->The bearer Captain Gold (a native of Gold Harbour and chief of a portion of that Tribe) is a most unmitigated rascal; he is eternally on the “make”, and continually seeking to allure the unwary into the belief, that he is a great chief, and of a most kindly disposition.
+> The bearer Captain Gold (a native of Gold Harbour and chief of a portion of that Tribe) is a most unmitigated rascal; he is eternally on the “make”, and continually seeking to allure the unwary into the belief, that he is a great chief, and of a most kindly disposition.
 >
->The King George Men (as he terms the whites) he asserts are his friends, and that he will always guard them against danger from other Indians. The scoundrel does this in order to enlist the sympathies of those who don't know him, and to wring out of you all that he can.
+> The King George Men (as he terms the whites) he asserts are his friends, and that he will always guard them against danger from other Indians.
+> The scoundrel does this in order to enlist the sympathies of those who don't know him, and to wring out of you all that he can.
 >
->You may then go to the devil for aught that he cares, until his unsatiable thirst for begging prompts him to return, when he will attempt to twist that cut-throat countenance of his into (what he thinks) the semblance of the very essence of purity, but Ah! Beware! for he is an oily dog. He takes a great pride in presenting his papers to all newcomers, and at such times puts on a most majestic air and expects you to pull off your coat and give it to him, for the good character he bears through the medium of these papers.
+> You may then go to the devil for aught that he cares, until his unsatiable thirst for begging prompts him to return, when he will attempt to twist that cut-throat countenance of his into (what he thinks) the semblance of the very essence of purity, but Ah!
+> Beware!
+> for he is an oily dog.
+> He takes a great pride in presenting his papers to all newcomers, and at such times puts on a most majestic air and expects you to pull off your coat and give it to him, for the good character he bears through the medium of these papers.
 >
->Since it has been customary upon such occasions to acknowledge his good qualities by a potlatch, give him a “quid” of tobacco; at the same time impress him very forcibly that you give it to him not because he requires it, but simply because he is such a good man (“over the left”).
+> Since it has been customary upon such occasions to acknowledge his good qualities by a potlatch, give him a “quid” of tobacco; at the same time impress him very forcibly that you give it to him not because he requires it, but simply because he is such a good man (“over the left”).
 >
->In speaking to him of his worthy spouse, you must be very careful not to hurt his dignity by calling her a Klootchman; it appears that someone has impressed him with the idea that he is a King, and of course as a necessary consequence his wife is a Queen; you must therefore make mention of her as his wife or Queen Gold!!!
+> In speaking to him of his worthy spouse, you must be very careful not to hurt his dignity by calling her a Klootchman; it appears that someone has impressed him with the idea that he is a King, and of course as a necessary consequence his wife is a Queen; you must therefore make mention of her as his wife or Queen Gold!!!
 >
->Thomas Russell Superintendent Queen Charlotte Coal Mining Company P.S. I have unwittingly been very remiss.
-Amongst the Captain’s good qualities there is one which I have omitted viz; that he is not by any means a thief: he only appropriates for his own use anything that he can lay his hands upon.
+> Thomas Russell Superintendent Queen Charlotte Coal Mining Company P.S. I have unwittingly been very remiss.
+> Amongst the Captain’s good qualities there is one which I have omitted viz; that he is not by any means a thief: he only appropriates for his own use anything that he can lay his hands upon.
 >
->He does this in a very delicate manner, always taking great care that he is not observed by the other Indians. He will tell you that he is not the same as other Indians, that is to say he does not lie nor steal (what a liar!) not even prowl about at night, but he boldly asserts that the other Indians are like dogs, continually prowling about at night to see what they can pick up.
+> He does this in a very delicate manner, always taking great care that he is not observed by the other Indians.
+> He will tell you that he is not the same as other Indians, that is to say he does not lie nor steal (what a liar!) not even prowl about at night, but he boldly asserts that the other Indians are like dogs, continually prowling about at night to see what they can pick up.
 >
 > \- TR
 
@@ -112,7 +117,7 @@ I was perfectly horrified when I looked at it; it is almost rotten from the hip 
 Gave her a piece of Castille soap, told her to wash it three times a day, also some Friars Balsam to dress it with.
 I find that a great many of the Indians are afflicted in this way: one man in particular, his neck is in such a state that you would not be surprised if his head tumbled off some day.
 
-:::{.callout-tip title="Medical Explanation"} 
+::: {.callout-tip title="Medical Explanation"}
 See @sec-appendix-4-2-4-dec
 :::
 
@@ -146,37 +151,46 @@ Finished road and made a great job of it, but it will never be secure until the 
 
 ## Thursday 8th December 1870 {#sec-volume-2-8-dec}
 
-Showery today, very mild. 
+Showery today, very mild.
 
 Measured the mine today, but could not ascertain the depth of the air shaft.
-This shaft is put in in rather a peculiar way. It is sunk perpendicular to a distance of 30 feet from the surface, then it has an incline (but the length of this, I cannot say, it is very insecurely timbered the miners were afraid to walk up it) then it runs perpendicular again to the tunnel.The amount of ground worked by Robinson and Branch is as follows. Reckoning the average width of the seam of coal to be two feet 6 inches
+This shaft is put in in rather a peculiar way.
+It is sunk perpendicular to a distance of 30 feet from the surface, then it has an incline (but the length of this, I cannot say, it is very insecurely timbered the miners were afraid to walk up it) then it runs perpendicular again to the tunnel.The amount of ground worked by Robinson and Branch is as follows.
+Reckoning the average width of the seam of coal to be two feet 6 inches
 
 | Length (ft) | Depth (ft) | Thickness (ft) | Cubic Feet |
 |------------:|-----------:|---------------:|-----------:|
-| 84          | 45         | 2.5            | 9,450      |
-| 58          | 50         | 2.5            | 7,250      |
-| 40          | 45         | 2.5            | 4,500      |
-| 32          | 30         | 2.5            | 2,400      |
-| **Total**   |            |                | **23,600** |
+|          84 |         45 |            2.5 |      9,450 |
+|          58 |         50 |            2.5 |      7,250 |
+|          40 |         45 |            2.5 |      4,500 |
+|          32 |         30 |            2.5 |      2,400 |
+|   **Total** |            |                | **23,600** |
 
 Reckoning 28 cubic feet to a ton this ought to have yielded tons 843.
 From what I remember of Landale's report, I believe he stated that 500 tons of coal had been obtained in driving the tunnel.
 
-He could not have measured the tunnel, nor the coal taken there from, or if he did he knew nothing about such things. From where they struck the coal up to the present manway (which is near to where the coal runs out ) is 300 feet long, height 7 feet 6 inches, average width of seam 2 feet 9 inches, making a total of 6187 1/2 cubic feet. Reckoning 28 cubic feet to a ton this would have produced 221 tons of coal - not one half of Landale's estimate.
+He could not have measured the tunnel, nor the coal taken there from, or if he did he knew nothing about such things.
+From where they struck the coal up to the present manway (which is near to where the coal runs out ) is 300 feet long, height 7 feet 6 inches, average width of seam 2 feet 9 inches, making a total of 6187 1/2 cubic feet.
+Reckoning 28 cubic feet to a ton this would have produced 221 tons of coal - not one half of Landale's estimate.
 
 The foregoing calculations do not allow anything for waste which is very considerable.
 
 The result of these figures show that 221 tons were extracted in driving the tunnel, 843 tons by Robinson and Branch making a total of 1064 tons.
 
-The amount of coal shipped to Victoria was 300 tons: the amount of coal here at present is 350 tons making a total of 650 tons. Since there has been sufficient ground worked to produce 1064 tons and only 650 tons represent it this shows a deficit of 414 tonnes or in other words a loss of that amount in the shape of waste - Nearly 2/5 of the whole.
+The amount of coal shipped to Victoria was 300 tons: the amount of coal here at present is 350 tons making a total of 650 tons.
+Since there has been sufficient ground worked to produce 1064 tons and only 650 tons represent it this shows a deficit of 414 tonnes or in other words a loss of that amount in the shape of waste - Nearly 2/5 of the whole.
 
-This great waste I chiefly attribute to the coal and slate falling together in the mine and the coal being the softer substance it gets broken into small pieces. A great deal of it remains in the mine, and what does not come out is shoveled over the bank as it would not pay to pick it out by hand.
+This great waste I chiefly attribute to the coal and slate falling together in the mine and the coal being the softer substance it gets broken into small pieces.
+A great deal of it remains in the mine, and what does not come out is shoveled over the bank as it would not pay to pick it out by hand.
 
-Let us now look for a moment at the cost of extracting a ton of coal; The average width of ground to be worked in order to extract the coal is 6 feet, that is to say there are 2 1/2 feet of coal and 3 1/2 feet of slate between the walls (the slate in some places is very hard) and allowing 2/5 for waste, a man would require to mine 94 cubic feet, this with the help of a laborer is a good day's work. These figures therefore clearly show that every ton of coal costs \$5 to extract and put it in the shute in the mine. Then it has to be drawn from the mine and cleaned, and then run down the upper tramway to the storage shute, then from the storage shute over the lower tramway to the wharf.
+Let us now look for a moment at the cost of extracting a ton of coal; The average width of ground to be worked in order to extract the coal is 6 feet, that is to say there are 2 1/2 feet of coal and 3 1/2 feet of slate between the walls (the slate in some places is very hard) and allowing 2/5 for waste, a man would require to mine 94 cubic feet, this with the help of a laborer is a good day's work.
+These figures therefore clearly show that every ton of coal costs \$5 to extract and put it in the shute in the mine.
+Then it has to be drawn from the mine and cleaned, and then run down the upper tramway to the storage shute, then from the storage shute over the lower tramway to the wharf.
 
 I verily believe that were I to go into the minutae of the matter, a ton of coal would cost \$10 before it could be put on board ship.
 
-The Queen Charlotte Coal Mining Coy. “Limited” will declare dividends when the Siwashes here leave off lying and stealing.
+The Queen Charlotte Coal Mining Coy.
+“Limited” will declare dividends when the Siwashes here leave off lying and stealing.
 
 It would be a waste of time to comment at large upon the parties who drove the tunnel.
 Suffice it to say that, were they miners and honest men, they would have told the company to let the coal remain in the bowels of the earth and their money in their pockets.
@@ -498,7 +512,7 @@ They had put some dirty pieces of rag on the broken places which I found a great
 Poor child, she seemed so grateful for the relief I had given her.
 Mrs. Skidegate was much relieved of pain by this time, and thanked me very warmly.
 
-:::{.callout-tip title="Medical Explanation"} 
+::: {.callout-tip title="Medical Explanation"}
 See @sec-appendix-4-2-29-dec
 :::
 
@@ -539,10 +553,10 @@ The Company having sent me 6 bottles of rum, and this being the last day of the 
 Little Kate's cake is too good to place before such swine, so I asked Beardsell in to have a glass of brandy and a piece of cake.
 I told him I had only one fault to find with it, it was too rich; he enjoyed it very much.
 
-Thou signpost of time, that has almost passed away, 
-Where are the thousands that rejoiced at thy birth?
-Many have been called to the realms of day, 
-And shall no more mingle with this world's mirth.
+>Thou signpost of time, that has almost passed away,\
+>Where are the thousands that rejoiced at thy birth?\
+>Many have been called to the realms of day,\
+>And shall no more mingle with this world's mirth.
 
 ## Sunday 1st January 1871 {#sec-volume-2-1-jan}
 
@@ -613,7 +627,7 @@ I put a wet bandage round it and concluded to wait until tomorrow.
 The muscles of the shoulder were so bruised and swollen that I could not do anything with it; besides, I had no chance to get a good pull at it, from his arm being broke.
 I bathed the bruised parts well with painkiller, but he is still in great agony.
 
-:::{.callout-tip title="Medical Explanation"} 
+::: {.callout-tip title="Medical Explanation"}
 See @sec-appendix-4-2-4-jan
 :::
 
@@ -675,10 +689,10 @@ No one can tell how much I would enjoy my “Ain Fireside” today.
 I always feel depressed in spirit on Sabbath days: I suppose it is because I have more time to think of home and my dear ones.
 All day I have been repeating over and over
 
-Jerusalem my happy home, 
-Land ever dear to me.
-When shall my labours have an end 
-Then I thy joys shall see.
+>Jerusalem my happy home, \
+>Land ever dear to me. \
+>When shall my labours have an end \
+>Then I thy joys shall see.
 
 What would I not give to be singing that hymn at home with my dear wife tonight.
 
@@ -692,7 +706,7 @@ He is continually having his leg moved.
 I try to reason with him, but to no purpose.
 Should anything go wrong with his leg now, I have the conviction that I have done my duty by him.
 
-:::{.callout-tip title="Medical Explanation"} 
+::: {.callout-tip title="Medical Explanation"}
 See @sec-appendix-4-2-8-jan
 :::
 
@@ -886,11 +900,12 @@ Riely told me something that the Captain had said to him in confidence which mad
 He must be worse than the very devil himself.
 Before recording what he did say, I will first relate the circumstances which brought about.
 
-On the day that poor Beauchamp was so low and feverish, I went on board and asked him as a great favor if he would kindly permit me to look over his medicine chest and permit me to take there from a small quantity of such medicines as I thought would be useful for Beauchamp: he readily assented. The only medicines I took were a few James’ Powders for fever, about an ounce of Laudanum in case of violent inflammation, and about 2 ounces of Camfor liniment to rub his shoulder with.
+On the day that poor Beauchamp was so low and feverish, I went on board and asked him as a great favor if he would kindly permit me to look over his medicine chest and permit me to take there from a small quantity of such medicines as I thought would be useful for Beauchamp: he readily assented.
+The only medicines I took were a few James’ Powders for fever, about an ounce of Laudanum in case of violent inflammation, and about 2 ounces of Camfor liniment to rub his shoulder with.
 I wanted a little sweet Spirit of Nitre (he is slightly troubled with gravel) but there was only a few drops left in the bottle so I did not get any.
 I showed the Captain what I had taken and thanked him most heartily for his kindness.
 
-:::{.callout-tip title="Medical Explanation"} 
+::: {.callout-tip title="Medical Explanation"}
 See @sec-appendix-4-2-20-jan
 :::
 
@@ -971,7 +986,7 @@ This day in point of weather has been very similar to yesterday.
 My cold is much worse.
 On Saturday night I took a blue pill, and on Sunday morning a black draught.
 
-:::{.callout-tip title="Medical Explanation"} 
+::: {.callout-tip title="Medical Explanation"}
 See @sec-appendix-4-2-24-jan
 :::
 
@@ -1146,10 +1161,7 @@ I have not been very well today, I can hardly describe what it is, the matter, e
 I feel dull and listless.
 A cup of good tea upon such occasions as these would be worth its weight in gold.
 
-“Alas!
-I am as a preacher who loveth his own sin.
-Confidentially and by the way of confession, I own to a tenderness, amounting almost to the illicit, for this seductive extract.
-I suspect it was popular in the garden of Eden before the Fall.”
+>“Alas! I am as a preacher who loveth his own sin. Confidentially and by the way of confession, I own to a tenderness, amounting almost to the illicit, for this seductive extract. I suspect it was popular in the garden of Eden before the Fall.”
 
 ## Thursday 9th February 1871 {#sec-volume-2-9-feb}
 
@@ -1196,11 +1208,11 @@ Have been repairing the broken car on the upper tramway as I intend to have anot
 
 ## Sunday 12th February 1871 {#sec-volume-2-12-feb}
 
-> “Hail!
-> Sabbath, thee I hail!
-> The poor man's day.
-> On other days the man of toil is doomed to eat his joyless bread lonely.
-> But on this day the frugal meal he shares.
+> “Hail!\
+> Sabbath, thee I hail!\
+> The poor man's day.\
+> On other days the man of toil is doomed to eat his joyless bread lonely.\
+> But on this day the frugal meal he shares.\
 > He shares with those he loves.”
 
 How often have I repeated those lines since I have been here!

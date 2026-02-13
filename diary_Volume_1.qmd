@@ -715,14 +715,15 @@ Finished cleaning the coal on the wharf today; the men are very pleased as they 
 
 Made an estimate of what it has cost to take it down clean it which is as follows
 
-Miners and laborers       $194  
-China man                 $ 88  
-Indian labour             $ 97  
-Superintendent            $100  
-Rations (say)             $300  
-Horses                    $ 50  
-
-                          $829
+| Category            | Amount ($) |
+| ------------------- | ---------- |
+| Miners and laborers | 194        |
+| China man           | 88         |
+| Indian labour       | 97         |
+| Superintendent      | 100        |
+| Rations (say)       | 300        |
+| Horses              | 50         |
+| **Total**           | **829**    |
 
 Without taking into consideration the cost of taking down the 100 tons by Branch, the 300 tons has cost $2.75 per ton, something outrageous. Had things been properly constructed it should not have cost more than $1.00 per ton to clean it at the mine, run it over the tramways and lay it on the wharf, but I presume it cost $2.75 to put it in the storage shute. The Company have been deluded and robbed at every hand.
 
