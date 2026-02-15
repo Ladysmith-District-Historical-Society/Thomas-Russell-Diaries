@@ -116,14 +116,11 @@ Image 42263, American Museum of Natural History Library
 
 ## **Old Massett** village {#sec-appendix-5-masset-village}
 
-Name derived from the Haida name of the large island, Maast, situated in the inlet about three miles above the village. The Haida name for the village is “Ut-te-was” meaning “white slope town”, possibly after the banks of white broken shells from middens in the vicinity. Dawson states that in 1878 the village consisted of about 20 houses, with about 40 totem poles.
+The village Thomas Russell called Masset in his diary is now called 'Old Massett', located 2 kilometers north of the current town of Masset. The name Masset is derived Maast Island, situated in the inlet about three miles above the village, this island believed to have been named after an early european sailor who was buried there.  The Haida name for the village is “Ut-te-was” meaning “white slope town”, possibly after the banks of white broken shells from middens in the vicinity. Dawson states that in 1878 the village consisted of about 20 houses, with about 40 totem poles.
 
 The Hudson Bay Company operated a post at Old Massett from 1869 -1898 and it is that post to which Russell paddled from Skidegate Inlet in search of provisions in early 1871.
 
-![Location of Masset village in 1870 (now called ‘Old Massett’)](img/image051.png){#fig-051}
-
-
-![Old Masset village, August 10th 1878.Photographed by George Mercer Dawson. National Archives of Canada Box INT 004 Item 3368510](img/image052.jpg){#fig-052}
+![Old Massett village, August 10th 1878.Photographed by George Mercer Dawson. National Archives of Canada Box INT 004 Item 3368510](img/image052.jpg){#fig-052}
 
 Thomas Russell’s diary notes that 22nd/23rd April 1871 he slept in the house of Chief ‘Wee ha’. (otherwise spelled ‘Weah’ and ‘Wiah’). Edward Dossetter photographed the exterior of this house in 1881 and Richard Maynard the interior of it in 1884.
 
@@ -132,6 +129,8 @@ Thomas Russell’s diary notes that 22nd/23rd April 1871 he slept in the house o
 ![The interior of Chief Wiah’s longhouse in Masset, Haida Gwaii, photo by Richard Maynard in 1884 (one of a stereoscopic pair). [Link](https://atom.moa.ubc.ca/index.php/house-of-chief-wiah-massett)](img/image065.jpg){#fig-065}
 
 ## References
+
+http://massetbc.com/visitors/old-massett/
 
 https://en.wikipedia.org/wiki/Chaatl
 
@@ -142,8 +141,6 @@ https://en.wikipedia.org/wiki/Haina_(Haida_village)
 https://en.wikipedia.org/wiki/Kaisun_(Haida_village)
 
 https://en.wikipedia.org/wiki/Old_Massett
-
-http://massetbc.com/visitors/old-massett/
 
 https://en.wikipedia.org/wiki/Skidegate
 
