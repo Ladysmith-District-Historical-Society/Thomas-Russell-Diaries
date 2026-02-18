@@ -50,7 +50,7 @@ Richardson remained in the Comox area until August 22nd conducting geological su
 
 In 1876 the GSC published a regional map drawn by Richardson of the Skidegate Inlet area showing the location of the mine.
 
-![Geological Survey of Canada (1876) map showing the location of the Cowgitz mine and fossil sites collected by James Richardson in 1872, from the Queen Charlotte Islands. ](img/image032.png){#fig-032}
+![Geological Survey of Canada (1876) map showing the location of the Cowgitz mine and fossil sites collected by James Richardson in 1872, from the Queen Charlotte Islands. ](img/image032.png){#fig-032 .lightbox}
 
 Richardson’s being at Cowgitz only a year after abandonment of the mine meant that he was able to conduct a detailed inspection of the mine workings as they had not yet been grown over.
 
